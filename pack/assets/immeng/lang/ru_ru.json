@@ -1,0 +1,6 @@
+{
+  "block.immeng.connector_me": "ME-коннектор",
+  "block.immeng.connector_me_relay": "ME-реле",
+  "item.immeng.wirecoil_me": "Катушка ME-провода",
+  "item.immeng.wirecoil_me_dense": "Катушка плотного ME-провода"
+}

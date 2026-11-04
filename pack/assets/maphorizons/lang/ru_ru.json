@@ -1,0 +1,18 @@
+{
+  "maphorizons.config.button": "MapHorizons…",
+  "maphorizons.configuration.cacheRegions": "Кэшированные регионы",
+  "maphorizons.configuration.colorMode": "Режим цвета",
+  "maphorizons.configuration.debugLogging": "Отладочное журналирование",
+  "maphorizons.configuration.enabled": "Включено",
+  "maphorizons.configuration.paintWithoutServer": "Закрашивать без мода на сервере",
+  "maphorizons.configuration.section.maphorizons.client.toml": "Настройки клиента",
+  "maphorizons.configuration.section.maphorizons.client.toml.title": "Настройки клиента MapHorizons",
+  "maphorizons.configuration.section.maphorizons.server.toml": "Настройки сервера",
+  "maphorizons.configuration.section.maphorizons.server.toml.title": "Настройки сервера MapHorizons",
+  "maphorizons.configuration.shadeStrength": "Затенение склонов",
+  "maphorizons.configuration.shareWithAllies": "Делиться с союзниками",
+  "maphorizons.configuration.showUnexploredTerrain": "Показывать неисследованную местность",
+  "maphorizons.configuration.syncIntervalSeconds": "Интервал синхронизации (секунды)",
+  "maphorizons.configuration.teamScoped": "В пределах команды (FTB Teams)",
+  "maphorizons.configuration.title": "MapHorizons"
+}

@@ -1,0 +1,8 @@
+{
+  "guideme.configuration.debug": "Отладка",
+  "guideme.configuration.debug.tooltip": "Расширенные настройки отладки для разработки руководств",
+  "guideme.configuration.showDebugGuiOverlays": "Отладочные оверлеи интерфейса",
+  "guideme.guidebook.Blasting": "Дутьё",
+  "guideme.guidebook.ShapelessCrafting": "Крафт (бесформенный)",
+  "guideme.guidebook.Smelting": "Плавка"
+}

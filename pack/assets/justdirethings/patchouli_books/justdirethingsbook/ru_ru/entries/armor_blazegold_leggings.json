@@ -1,0 +1,17 @@
+{
+  "name": "Поножи из Blazegold",
+  "sortnum": 7,
+  "category": "justdirethings:armor",
+  "icon": "justdirethings:blazegold_leggings",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Поножи из Blazegold обеспечивают отличную подвижность и защиту. Воспользуйтесь способностью «Ремонт в лаве»: бросьте поножи в источник лавы, и они полностью починятся."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание: поножи из Blazegold",
+      "recipe": "justdirethings:blazegold_leggings"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Временная жидкость",
+  "sortnum": 31,
+  "category": "justdirethings:resources",
+  "icon": "justdirethings:time_fluid_bucket",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Временная жидкость — универсальная жидкость, питающая все предметы и блоки, изменяющие время. Похоже, она не вполне принадлежит нашему потоку времени, поскольку почти прозрачна.$(br2)Её получают, бросив $(l:justdirethings:res_time_crystal)временный кристалл$(/l) в лужу $(l:justdirethings:res_polymorphic_fluid)полиморфной жидкости.$(/l)"
+    }
+  ]
+}

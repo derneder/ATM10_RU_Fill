@@ -1,0 +1,5 @@
+{
+  "tooltip.enderio.conduit.slot.fluid_filter": "Слот фильтра жидкостей",
+  "tooltip.enderio.conduit.slot.item_filter": "Слот фильтра предметов",
+  "tooltip.enderio.conduit.slot.redstone_filter": "Слот редстоун-фильтра"
+}

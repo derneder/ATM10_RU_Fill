@@ -1,0 +1,17 @@
+{
+  "name": "Лазерная основа",
+  "icon": "industrialforegoing:ore_laser_base",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 14,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Будучи полностью заряженной $(l:resource_production/laser_drill)Лазерной дрелью$(), она производит руды. Шанс каждой руды зависит от биома, в котором стоит механизм, и от глубины, на которой он настроен бурить. $(br2)Лазерные линзы увеличивают шанс выпадения руды. $(br2)Значения смотрите в JEI."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:ore_laser_base"
+    }
+  ]
+}

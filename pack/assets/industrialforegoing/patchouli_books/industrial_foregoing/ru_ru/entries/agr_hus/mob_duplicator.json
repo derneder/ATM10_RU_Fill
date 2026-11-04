@@ -1,0 +1,20 @@
+{
+  "name": "Дубликатор мобов",
+  "icon": "industrialforegoing:mob_duplicator",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Механизм, который призывает мобов. При наличии энергии, $(l:agr_hus/essence)Эссенции$() и любого существа в $(l:tools/mib)Заключателе мобов$() он призовёт их вокруг себя. $(br2)Он считает существ поблизости и останавливается, если их слишком много."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:mob_duplicator"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:mob_imprisonment_tool"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "getittogetherdrops.configuration.checkY": "Проверять по Y",
+  "getittogetherdrops.configuration.checkY.tooltip": "Установите true, если выброшенные предметы должны также проверять пространство над и под собой, или false, если нет («false» — ванильное поведение).",
+  "getittogetherdrops.configuration.radius": "Радиус",
+  "getittogetherdrops.configuration.radius.tooltip": "Радиус (в блоках), в котором выброшенные предметы ищут другие выброшенные предметы, чтобы объединиться с ними («0.5» — ванильное поведение)."
+}

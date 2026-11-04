@@ -1,0 +1,27 @@
+{
+  "name": "Конвейерные ленты",
+  "icon": "industrialforegoing:conveyor",
+  "category": "industrialforegoing:transport",
+  "sortnum": 0,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Конвейерные ленты перевозят предметы, существ и жидкости. Они могут взаимодействовать с миром с помощью $(l:conveyor_upgrades)улучшений$(). Предметы и существа могут подниматься и спускаться по лентам, а жидкости движутся только горизонтально. $(br2)Ленты можно красить, кликнув по ним правой кнопкой с красителем."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:conveyor"
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:glowstone_dust",
+      "text": "Светокамень заставляет ленты перемещать предметы и существ очень быстро."
+    },
+    {
+      "type": "spotlight",
+      "item": "industrialforegoing:plastic",
+      "text": "Пластик не даёт подбирать предметы, лежащие на ленте."
+    }
+  ]
+}

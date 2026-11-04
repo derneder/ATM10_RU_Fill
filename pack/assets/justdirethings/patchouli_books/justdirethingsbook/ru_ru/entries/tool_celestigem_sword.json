@@ -1,0 +1,17 @@
+{
+  "name": "Меч из Celestigem",
+  "sortnum": 13,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:celestigem_sword[justdirethings:forge_energy=10000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Улучшение $(l:justdirethings:tool_blazegold_sword)меча из Blazegold$(/l): этот меч использует Forge Energy вместо прочности. Он вмещает 10 000 FE, и лучше всего держать его заряженным с помощью $(l:justdirethings:item_pocket_generator)карманного генератора$(/l)."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:celestigem_sword",
+      "text": "Создание: меч из Celestigem"
+    }
+  ]
+}

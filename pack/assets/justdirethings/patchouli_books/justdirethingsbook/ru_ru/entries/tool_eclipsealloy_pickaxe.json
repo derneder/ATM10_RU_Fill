@@ -1,0 +1,17 @@
+{
+  "name": "Кирка из сплава Eclipse",
+  "sortnum": 21,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:eclipsealloy_pickaxe[justdirethings:forge_energy=500000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Кирка из сплава Eclipse сочетает огромную прочность с мощным накоплением энергии, поэтому идеально подходит для добычи даже самых твёрдых материалов. $(br2)Она поддерживает улучшения высокого уровня для добычи."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:eclipsealloy_pickaxe",
+      "text": "Создание: кирка из сплава Eclipse"
+    }
+  ]
+}

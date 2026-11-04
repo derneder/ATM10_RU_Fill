@@ -1,0 +1,13 @@
+{
+  "ars_nouveau.augment_desc.glyph_cut_glyph_aoe": "Увеличивает радиус поиска предметов для обработки.",
+  "ars_nouveau.augment_desc.glyph_cut_glyph_pierce": "Увеличивает количество предметов, обрабатываемых Резкой.",
+  "ars_nouveau.augment_desc.glyph_cut_glyph_sensitive": "Резка пытается обработать предметы поблизости.",
+  "ars_nouveau.augment_desc.glyph_flatten_glyph_aoe": "Увеличивает радиус поиска предметов для обработки.",
+  "ars_nouveau.augment_desc.glyph_flatten_glyph_pierce": "Увеличивает количество предметов, обрабатываемых Расплющиванием.",
+  "ars_nouveau.augment_desc.glyph_flatten_glyph_sensitive": "Расплющивание пытается обработать предметы поблизости.",
+  "ars_unification.augment_with": "Дополните этот глиф: %s, чтобы использовать эти рецепты.",
+  "ars_unification.cut_recipe": "Глиф Резка",
+  "ars_unification.press_recipe": "Глиф Расплющивание",
+  "emi.category.ars_unification.cut": "Глиф Резка",
+  "emi.category.ars_unification.press": "Глиф Расплющивание"
+}

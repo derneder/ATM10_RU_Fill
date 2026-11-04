@@ -1,0 +1,16 @@
+{
+  "container.the_bumblezone.crystalline_flower.search": "Поиск...",
+  "item.the_bumblezone.carpenter_bee_boots_mining_enchant_tip": "(Зачарования добычи работают на ботинках)",
+  "item.the_bumblezone.music_disc_hive_speed_beepop": "Пластинка",
+  "item.the_bumblezone.music_disc_perzzona_hive": "Пластинка",
+  "item.the_bumblezone.music_disc_string_like_a_bee": "Пластинка",
+  "jukebox_song.the_bumblezone.hive_speed_beepop": "Punpudle - Hive-Speed Beepop",
+  "jukebox_song.the_bumblezone.perzzona_hive": "Punpudle - Perzzona Hive",
+  "jukebox_song.the_bumblezone.string_like_a_bee": "Punpudle - String like a Bee",
+  "the_bumblezone.configuration.allowforestrycompat": "Датапак совместимости с Forestry",
+  "the_bumblezone.configuration.forestrycompat": "Совместимость с Forestry",
+  "the_bumblezone.midnightconfig.allowForestryCompat": "Разрешить загрузку встроенного датапака совместимости с Forestry",
+  "the_bumblezone.music_disc_hive_speed_beepop.description": " Если прислушаться, всё ещё можно услышать жужжание роя разъярённых пчёл... Эта редкая пластинка может быть куплена у странствующего торговца или найдена в некоторых структурах Жужжилища! Песня — Hive-Speed Beepop от Punpudle.",
+  "the_bumblezone.music_disc_perzzona_hive.description": " Если прислушаться, всё ещё можно услышать жужжание роя разъярённых пчёл... Эта редкая пластинка может быть куплена у странствующего торговца или найдена в некоторых структурах Жужжилища! Песня — Perzzona Hive от Punpudle.",
+  "the_bumblezone.music_disc_string_like_a_bee.description": " Если прислушаться, всё ещё можно услышать жужжание роя разъярённых пчёл... Эта редкая пластинка может быть куплена у странствующего торговца или найдена в некоторых структурах Жужжилища! Песня — String like a Bee от Punpudle."
+}

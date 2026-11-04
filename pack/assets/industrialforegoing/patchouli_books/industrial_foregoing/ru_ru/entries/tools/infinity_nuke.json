@@ -1,0 +1,17 @@
+{
+  "name": "Бесконечная ядерная бомба",
+  "icon": "industrialforegoing:infinity_nuke",
+  "category": "industrialforegoing:tools",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Бесконечная ядерная бомба — оружие массового уничтожения: радиус взрыва растёт вместе с уровнем и количеством биотоплива внутри. Бомба не разрушает блоки в приватных чанках. $(br2)Чтобы взорвать её, поставьте её на землю, нажмите правой кнопкой мыши, чтобы привести её в боевую готовность, а затем нажмите по ней огнивом."
+    },
+    {
+      "type": "industrialforegoing:dissolution",
+      "recipe": "industrialforegoing:dissolution_chamber/infinity_nuke"
+    }
+  ]
+}

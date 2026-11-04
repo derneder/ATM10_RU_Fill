@@ -1,0 +1,20 @@
+{
+  "apothic_enchanting:max_eterna": "Макс. Этерна",
+  "apothic_enchanting:max_eterna.desc": "Максимальное количество Этерны, которое можно использовать в столе зачарования.",
+  "block.apothic_enchanting.apothic_enchanting_table": "Апотический стол зачарования",
+  "block.apothic_enchanting.apothic_enchanting_table.desc": "Декоративный вариант стола зачарования.",
+  "block.apothic_enchanting.basic_bookshelf": "Простая книжная полка",
+  "block.apothic_enchanting.raven_enchanting_table": "Стол зачарования Ворона",
+  "block.apothic_enchanting.raven_enchanting_table.desc": "Позволяет вручную настраивать основные параметры зачарования.",
+  "gui.apothic_enchanting.enchant.eterna.limited": "Ограничено до %s атрибутом «Макс. Этерна»",
+  "gui.apothic_enchanting.enchant.eterna.limited.world_tier": "Ограничено до %s уровнем мира (CTRL+T)",
+  "item.apothic_enchanting.music_disc_arcana": "Пластинка",
+  "item.apothic_enchanting.music_disc_eterna": "Пластинка",
+  "item.apothic_enchanting.music_disc_quanta": "Пластинка",
+  "jukebox_song.apothic_enchanting.arcana": "Firel — Arcana",
+  "jukebox_song.apothic_enchanting.eterna": "Firel — Eterna",
+  "jukebox_song.apothic_enchanting.quanta": "Firel — Quanta",
+  "subtitle.apothic_enchanting.music_disc.arcana": "Firel — Arcana",
+  "subtitle.apothic_enchanting.music_disc.eterna": "Firel — Eterna",
+  "subtitle.apothic_enchanting.music_disc.quanta": "Firel — Quanta"
+}

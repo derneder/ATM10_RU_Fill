@@ -1,0 +1,22 @@
+{
+  "ftbultimine.client_settings.general.shape_feedback_hotbar_message": "Сообщение над панелью быстрого доступа при смене формы",
+  "ftbultimine.client_settings.general.shape_feedback_hotbar_message.tooltip": "Если true, при смене формы Ultimine над панелью быстрого доступа показывается сообщение с новой формой",
+  "ftbultimine.client_settings.overlay.overlay_scale": "Масштаб оверлея",
+  "ftbultimine.client_settings.overlay.overlay_scale.tooltip": "Для лучшего отображения шрифта рекомендуются значения, кратные 0.25",
+  "ftbultimine.info.denied_tool": "Инструмент не разрешён",
+  "ftbultimine.info.no_block_targeted": "Блок не выбран",
+  "ftbultimine.info.no_experience": "Недостаточно опыта",
+  "ftbultimine.info.no_food": "Слишком сильный голод",
+  "ftbultimine.info.no_permission": "Нет разрешения",
+  "ftbultimine.info.no_tool": "Нет подходящего инструмента",
+  "ftbultimine.info.no_valid_block": "Неподходящий блок",
+  "ftbultimine.info.other_restriction": "Другое ограничение",
+  "ftbultimine.modifier.cooldown": "FTB Ultimine: перезарядка (тики)",
+  "ftbultimine.modifier.exhaustion": "FTB Ultimine: расход сытости",
+  "ftbultimine.modifier.experience": "FTB Ultimine: затраты опыта",
+  "ftbultimine.modifier.max_blocks": "FTB Ultimine: макс. блоков",
+  "ftbultimine.server_settings.costs_limits.require_valid_tool_for_block": "Требовать подходящий инструмент для Ultimine",
+  "ftbultimine.server_settings.costs_limits.require_valid_tool_for_block.tooltip": "Если true, экипированный инструмент должен подходить для добываемого блока,\nт. е. позволять получить с него добычу\nСм. также «Активировать Ultimine только с инструментами»",
+  "ftbultimine.server_settings.features.single_crop_harvesting": "Сбор урожая с одного растения",
+  "ftbultimine.server_settings.features.single_crop_harvesting.tooltip": "Если true, ПКМ по растению без зажатой клавиши Ultimine собирает с него урожай"
+}

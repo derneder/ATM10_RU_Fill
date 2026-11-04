@@ -1,0 +1,17 @@
+{
+  "name": "Разрушитель мобов",
+  "icon": "industrialforegoing:mob_crusher",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "sortnum": 6,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Механизм, который $(6)убивает$() мобов, словно это сделал игрок, и получает добычу и эссенцию. Добыча создаётся прямо из таблицы добычи моба. $(br2)У механизма есть альтернативный режим: вместо эссенции он выдаёт добычу со случайным уровнем $(6)удачи$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:mob_crusher"
+    }
+  ]
+}

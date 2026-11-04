@@ -1,0 +1,21 @@
+{
+  "name": "Жезл Voidshift",
+  "sortnum": 6,
+  "category": "justdirethings:items",
+  "icon": "justdirethings:voidshift_wand[justdirethings:forge_energy=10000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Жезл Voidshift — развитие $(l:justdirethings:item_blazejet_wand)жезла Blazejet$(/l) — использует энергию измерений для более сложных действий.$(br2)Новая способность «Сдвиг в пустоте» позволяет телепортироваться туда, куда вы смотрите, — но не дальше определённого расстояния."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Откройте экран настроек инструмента, чтобы изменить горячую клавишу или кнопку мыши для активации. Лично мне нравится «Воздушный взрыв» на правой кнопке и «Сдвиг в пустоте» на левой.$(br2)Также можно уменьшить максимальную дистанцию перемещения и включить или отключить отображение игрока."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание: жезл Voidshift",
+      "recipe": "justdirethings:voidshift_wand"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "item.camol.camo_item": "Камуфляжный блок",
+  "item.camol.camo_item.camo": "Камуфляжный блок — %s",
+  "item.camol.camo_item.hover": "Нажмите ПКМ по блоку, чтобы замаскировать его под этот блок. Нажмите ПКМ по замаскированному блоку, чтобы снять маскировку.",
+  "item.camol.camo_item.hover_empty": "Скрафтите вместе с блоком.",
+  "item.camol.camo_item.hover_type": "Использует форму столкновений замаскированного блока.",
+  "item.camol.solid_camo_item": "Камуфляжный блок с сохранением формы",
+  "item.camol.solid_camo_item.camo": "Камуфляжный блок с сохранением формы — %s",
+  "item.camol.solid_camo_item.hover": "Нажмите ПКМ по блоку, чтобы замаскировать его под этот блок. Нажмите ПКМ по замаскированному блоку, чтобы снять маскировку.",
+  "item.camol.solid_camo_item.hover_empty": "Скрафтите вместе с блоком.",
+  "item.camol.solid_camo_item.hover_type": "Использует форму столкновений блока-маскировки."
+}

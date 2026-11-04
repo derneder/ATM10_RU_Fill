@@ -1,0 +1,17 @@
+{
+  "name": "Мотыга из Celestigem",
+  "sortnum": 17,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:celestigem_hoe[justdirethings:forge_energy=10000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Улучшенная версия $(l:justdirethings:tool_blazegold_hoe)мотыги из Blazegold$(/l): у инструментов из Celestigem вместо прочности используется Forge Energy. Эта мотыга создаёт почву VoidShimmer.$(br2)Если у мотыги есть способность «Телепортация дропа» и она привязана к инвентарю, почва будет телепортировать автоматически собранные блоки в этот инвентарь."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:celestigem_hoe",
+      "text": "Создание: мотыга из Celestigem"
+    }
+  ]
+}

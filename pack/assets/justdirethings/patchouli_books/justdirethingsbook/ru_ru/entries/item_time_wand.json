@@ -1,0 +1,24 @@
+{
+  "name": "Временной жезл",
+  "sortnum": 7,
+  "category": "justdirethings:items",
+  "icon": "justdirethings:time_wand[justdirethings:forge_energy=100000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Временной жезл — портативный способ воспользоваться способностью $(l:justdirethings:res_time_crystal)временных кристаллов$(/l) изменять время.$(br2)Учтите: чтобы пользоваться этим жезлом, его нужно зарядить и Forge Energy, и $(l:justdirethings:res_time_fluid)временной жидкостью$(/l)."
+    },
+    {
+      "type": "justdirethings:text_with_config",
+      "text": "Просто щёлкните правой кнопкой по любому блоку, который обновляется каждый тик, — это относится к машинам вроде печей и к растениям вроде пшеницы. Сначала блок начнёт работать в два раза быстрее. Щёлкните ещё раз, чтобы удвоить это до 4x, затем до 8x и так далее — вплоть до скорости #time_wand.time_wand_max_multiplier#x!$(br2)Каждое ускорение расходует и Forge Energy, и временную жидкость в зависимости от того, насколько сильно растёт скорость.$(br2)Ускорение действует 30 секунд.",
+      "config_options": [
+        "time_wand.time_wand_max_multiplier"
+      ]
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание: временной жезл",
+      "recipe": "justdirethings:time_wand"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "balm.configuration.exampleCategory": "Пример категории",
+  "config.jade.plugin_balm.jade": "Balm",
+  "disconnect.balm.mod_missing_on_client": "У вас не установлен %s. Установите %s версии %s, чтобы играть на этом сервере.",
+  "disconnect.balm.mod_missing_on_server": "На сервере не установлен %s. Удалите мод из игры или установите его и на сервер.",
+  "disconnect.balm.mod_version_mismatch": "Несовпадение версий %s. Сервер ожидает версию %s, а у вас установлена %s. Установите правильную версию.",
+  "tag.item.c.chests.chests": "Деревянные сундуки",
+  "tag.item.c.cooking_oil": "Растительное масло",
+  "tag.item.c.eggs": "Яйца"
+}

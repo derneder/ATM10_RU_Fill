@@ -1,0 +1,17 @@
+{
+  "name": "Руда Blazegold",
+  "sortnum": 2,
+  "category": "justdirethings:resources",
+  "icon": "justdirethings:raw_blazegold_ore",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Золотой блок, преобразованный слизью Blazebloom, становится рудой Blazegold. При добыче этого блока выпадает сырой Blazegold, который переплавляется в $(l:justdirethings:res_blazegold)слитки Blazegold$(/l)."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "justdirethings:raw_blazegold",
+      "text": "Сырой Blazegold выпадает при разрушении руды Blazegold."
+    }
+  ]
+}

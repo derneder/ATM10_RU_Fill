@@ -1,0 +1,12 @@
+{
+  "name": "Уголь Voidflame",
+  "sortnum": 23,
+  "category": "justdirethings:resources",
+  "icon": "justdirethings:coal_t3",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Уголь Voidflame получают, разместив блок $(l:justdirethings:res_coal_t2)угля Blaze Ember$(/l) рядом со $(l:justdirethings:gooblock_tier3)слизью VoidShimmer$(/l). Этот вид угля обладает мистическими свойствами, повышающими его энергоотдачу."
+    }
+  ]
+}

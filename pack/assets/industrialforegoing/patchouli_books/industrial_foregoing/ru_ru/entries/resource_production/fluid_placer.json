@@ -1,0 +1,17 @@
+{
+  "name": "Жидкостный установщик",
+  "icon": "industrialforegoing:fluid_placer",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 4,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Устанавливает жидкости.$(br2)Берёт жидкость из внутреннего контейнера и расходует $(6)1000$() RF."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:fluid_placer"
+    }
+  ]
+}

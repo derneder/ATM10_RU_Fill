@@ -1,0 +1,17 @@
+{
+  "name": "Кирка из Blazegold",
+  "sortnum": 8,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:blazegold_pickaxe",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Быстрее, чем $(l:justdirethings:tool_ferricore_pickaxe)кирка из Ferricore$(/l), и обладает способностью «Ремонт в лаве» — чинится, если бросить её в лаву."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:blazegold_pickaxe",
+      "text": "Создание: кирка из Blazegold"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "simplemagnets.gui.demagnetization_coil.show_range": "Подсветка области: %s",
+  "simplemagnets.gui.demagnetization_coil.show_range.off": "Нет",
+  "simplemagnets.gui.demagnetization_coil.show_range.on": "Да"
+}

@@ -1,0 +1,6 @@
+{
+  "emi.category.tiab.test": "Блоки из чёрного списка TIAB",
+  "item.tiab.time_in_a_bottle": "Время в бутылке",
+  "item.tiab.time_in_a_bottle.tooltip.stored_time": "Запасено времени: %s:%s:%s",
+  "item.tiab.time_in_a_bottle.tooltip.total_accumulated_time": "Всего накоплено времени: %s:%s:%s"
+}

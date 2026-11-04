@@ -1,0 +1,16 @@
+{
+  "name": "Телепортационная панель",
+  "icon": "allthemodium:teleport_pad",
+  "category": "allthemodium:dimensions",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "allthemodium:teleport_pad"
+    },
+    {
+      "type": "text",
+      "text": "Телепортационная панель позволяет телепортироваться в $(l:dimensions/miningdim)Шахтёрское измерение$(/c) и $(l:dimensions/otherdim)Другое измерение$(/c): нужно щёлкнуть правой кнопкой мыши, зажав Shift, при пустых основной и второй руке.$(br2)Обратите внимание: $(l:dimensions/miningdim)Шахтёрское измерение$(/c) отключено в сборке ATM6: To The Sky"
+    }
+  ]
+}

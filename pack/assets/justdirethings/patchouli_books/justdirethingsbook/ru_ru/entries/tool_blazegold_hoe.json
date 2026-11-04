@@ -1,0 +1,17 @@
+{
+  "name": "Мотыга из Blazegold",
+  "sortnum": 11,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:blazegold_hoe",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Улучшает $(l:justdirethings:tool_ferricore_hoe)мотыгу из Ferricore$(/l): работает быстрее и обладает способностью «Ремонт в лаве». При вспашке создаётся почва Blazebloom, которая ещё сильнее ускоряет рост культур и включает автосбор урожая — растения сами выбрасывают свои ресурсы.$(br2)Собранные предметы быстро исчезают. Используйте $(l:justdirethings:mach_itemcollector)сборщик предметов$(/l), чтобы эффективно собирать дроп."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:blazegold_hoe",
+      "text": "Создание: мотыга из Blazegold"
+    }
+  ]
+}

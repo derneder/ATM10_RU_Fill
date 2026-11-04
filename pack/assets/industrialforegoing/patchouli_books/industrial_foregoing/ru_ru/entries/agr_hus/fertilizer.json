@@ -1,0 +1,13 @@
+{
+  "name": "Удобритель",
+  "icon": "industrialforegoing:fertilizer",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "sortnum": 15,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Материал, который вырабатывает $(l:agr_hus/sewage_composter)Грязевой компостер$(). Используется как костная мука."
+    }
+  ]
+}

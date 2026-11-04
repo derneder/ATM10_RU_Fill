@@ -1,0 +1,17 @@
+{
+  "name": "Завод-резня мобов",
+  "icon": "industrialforegoing:mob_slaughter_factory",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "sortnum": 9,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Механизм, который перерабатывает мобов и животных в $(l:agr_hus/meat)Жидкое мясо$() и $(l:agr_hus/pink_slime)Розовую слизь$(). Мобы, убитые этим механизмом, не оставляют добычу и опыт. $(br2)Мирные мобы дают больше розовой слизи, чем немирные."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:mob_slaughter_factory"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "ftbchunks.claim_mode.circle": "Захват кругом",
+  "ftbchunks.claim_mode.freehand": "Свободный захват",
+  "ftbchunks.claim_mode.rectangle": "Захват прямоугольником",
+  "ftbchunks.config.client": "Настройки клиента",
+  "ftbchunks.config.client.appearance.claim_mode": "Режим захвата чанков",
+  "ftbchunks.config.client.minimap.reticle": "Линии прицела",
+  "ftbchunks.config.client.minimap.text_above_minimap": "Показывать текст над миникартой",
+  "ftbchunks.config.server": "Настройки сервера",
+  "ftbchunks.config.server.fire_spread_protection": "Защита от распространения огня",
+  "ftbchunks.config.server.fire_spread_protection.tooltip": "Если true, огонь не распространяется между приватами разных команд (если у целевого привата нет публичного разрешения «edit block»).\nПо умолчанию false; включение может вызвать проблемы с производительностью сервера, особенно когда горит много блоков\nЕсли 'disable_protection' имеет значение true, эта настройка игнорируется.",
+  "ftbchunks.config.server.flowing_fluid_protection": "Защита от растекания жидкостей",
+  "ftbchunks.config.server.flowing_fluid_protection.tooltip": "Если true, жидкости не растекаются по горизонтали между приватами разных команд (если у целевого привата нет публичного разрешения «edit block»).\nПо умолчанию false; включение может вызвать проблемы с производительностью сервера, так как тики растекания жидкостей проверяются очень часто, особенно для больших водоёмов\nЕсли 'disable_protection' имеет значение true, эта настройка игнорируется.",
+  "ftbchunks.gui.edit": "Изменить",
+  "ftbchunks.gui.edit_waypoint": "Изменить путевую точку"
+}

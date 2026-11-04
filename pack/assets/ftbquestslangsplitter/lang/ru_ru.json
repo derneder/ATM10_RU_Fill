@@ -1,0 +1,15 @@
+{
+  "ftbquestslangsplitter.commands.added_missing_lang_entries": "Добавлено недостающих записей: %s (язык: %s)",
+  "ftbquestslangsplitter.commands.all_lang_file_split": "Все языковые файлы успешно разделены",
+  "ftbquestslangsplitter.commands.file_already_exists": "Файл %s уже существует, пропуск...",
+  "ftbquestslangsplitter.commands.lang_file_split": "Языковой файл %s успешно разделён",
+  "ftbquestslangsplitter.commands.lang_manager_force_saved": "Менеджер языков принудительно сохранён",
+  "ftbquestslangsplitter.commands.no_missing_entries": "В языке %s нет недостающих записей",
+  "ftbquestslangsplitter.commands.permission_denied": "У вас нет прав на выполнение этой команды",
+  "ftbquestslangsplitter.commands.purged_merged_files": "Объединённые файлы удалены",
+  "ftbquestslangsplitter.commands.unsupported_locale": "Язык %s не поддерживается",
+  "ftbquestslangsplitter.configuration.section.ftbquestslangsplitter.common.toml": "Настройки FTB Quests Lang Splitter",
+  "ftbquestslangsplitter.configuration.section.ftbquestslangsplitter.common.toml.title": "Настройки FTB Quests Lang Splitter",
+  "ftbquestslangsplitter.configuration.title": "Настройки FTB Quests Lang Splitter",
+  "ftbquestslangsplitter.split.lang_saved_reminder": "Вы в режиме редактирования, и, похоже, языковой файл был сохранён. Не забудьте разделить его, когда полностью закончите!"
+}

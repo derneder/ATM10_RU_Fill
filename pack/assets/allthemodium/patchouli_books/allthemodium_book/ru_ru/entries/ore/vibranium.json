@@ -1,0 +1,15 @@
+{
+  "name": "Вибраниевая руда",
+  "icon": "allthemodium:vibranium_ore",
+  "category": "allthemodium:ore",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "allthemodium:vibranium_ore",
+      "title": "Вибраниевая руда",
+      "link_recipe": false,
+      "text": "Вибраниевая руда встречается в Нижнем мире выше Y 64. Она также есть в Другом измерении, глубоко под землёй в пещерах"
+    }
+  ]
+}

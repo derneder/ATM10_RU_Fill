@@ -1,0 +1,17 @@
+{
+  "name": "Основа жидкостного лазера",
+  "icon": "industrialforegoing:fluid_laser_base",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 15,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Будучи полностью заряженной $(l:resource_production/laser_drill)Лазерной дрелью$(), она добывает жидкости. Для этого нужен определённый катализатор, который не расходуется, а механизм должен стоять в определённом биоме и бурить на определённой глубине. $(br2)Для некоторых жидкостей под механизмом должно находиться существо. $(br2)Значения смотрите в JEI."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:fluid_laser_base"
+    }
+  ]
+}

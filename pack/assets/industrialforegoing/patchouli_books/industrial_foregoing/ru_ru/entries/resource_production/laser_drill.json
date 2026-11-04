@@ -1,0 +1,17 @@
+{
+  "name": "Лазерная дрель",
+  "icon": "industrialforegoing:laser_drill",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 13,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "При наличии энергии этот механизм заряжает первые найденные в его рабочей зоне $(l:resource_production/ore_laser_base)Лазерную основу$() и $(l:resource_production/fluid_laser_base)Основу жидкостного лазера$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:laser_drill"
+    }
+  ]
+}

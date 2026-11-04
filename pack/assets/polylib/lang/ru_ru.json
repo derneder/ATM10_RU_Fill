@@ -1,0 +1,15 @@
+{
+  "energy_bar.polylib.capacity": "Ёмкость:",
+  "energy_bar.polylib.energy_storage": "Хранилище энергии",
+  "energy_bar.polylib.rf": "RF",
+  "energy_bar.polylib.stored": "Накоплено:",
+  "fluid_tank.polylib.capacity": "Ёмкость:",
+  "fluid_tank.polylib.contains": "Содержит:",
+  "fluid_tank.polylib.fluid_storage": "Хранилище жидкости",
+  "fluid_tank.polylib.mb": "mB",
+  "fluid_tank.polylib.stored": "Накоплено:",
+  "rs_mode.polylib.active_high": "Работает при сигнале редстоуна",
+  "rs_mode.polylib.active_low": "Работает без сигнала редстоуна",
+  "rs_mode.polylib.always_active": "Всегда активно",
+  "rs_mode.polylib.never_active": "Никогда не активно"
+}

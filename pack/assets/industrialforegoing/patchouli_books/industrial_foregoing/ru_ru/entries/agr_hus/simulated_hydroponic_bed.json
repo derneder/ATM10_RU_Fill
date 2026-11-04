@@ -1,0 +1,17 @@
+{
+  "name": "Симулированная кровать гидропоники",
+  "icon": "industrialforegoing:simulated_hydroponic_bed",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "sortnum": 16,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Этот механизм при наличии энергии создаёт добычу с культур на основе данных Процессора гидропонной симуляции."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:simulated_hydroponic_bed"
+    }
+  ]
+}

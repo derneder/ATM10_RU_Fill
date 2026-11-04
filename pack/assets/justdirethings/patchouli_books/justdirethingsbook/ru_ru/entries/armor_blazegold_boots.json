@@ -1,0 +1,17 @@
+{
+  "name": "Ботинки из Blazegold",
+  "sortnum": 8,
+  "category": "justdirethings:armor",
+  "icon": "justdirethings:blazegold_boots",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Ботинки из Blazegold лучше защищают ноги и обладают способностью «Ремонт в лаве». Чтобы полностью починить эти ботинки, бросьте их в источник лавы."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание: ботинки из Blazegold",
+      "recipe": "justdirethings:blazegold_boots"
+    }
+  ]
+}

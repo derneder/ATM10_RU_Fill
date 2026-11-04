@@ -1,0 +1,17 @@
+{
+  "name": "Бесконечная пила",
+  "icon": "industrialforegoing:infinity_saw",
+  "category": "industrialforegoing:tools",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Бесконечная пила — инструмент для эффективной рубки деревьев: чем выше уровень, тем больше блоков срубается одновременно. Продолжайте ломать один и тот же блок, чтобы срубить большое дерево."
+    },
+    {
+      "type": "industrialforegoing:dissolution",
+      "recipe": "industrialforegoing:dissolution_chamber/infinity_saw"
+    }
+  ]
+}

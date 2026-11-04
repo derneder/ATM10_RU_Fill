@@ -1,0 +1,17 @@
+{
+  "name": "Жидкостный собиратель",
+  "icon": "industrialforegoing:fluid_collector",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 7,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Осушает источник жидкости перед собой.$(br2)Помещает жидкость во внутренний контейнер и расходует $(6)1000$() RF."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:fluid_collector"
+    }
+  ]
+}

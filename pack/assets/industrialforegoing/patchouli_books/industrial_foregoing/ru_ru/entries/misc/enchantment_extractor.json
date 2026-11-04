@@ -1,0 +1,17 @@
+{
+  "name": "Извлекатель зачарований",
+  "icon": "industrialforegoing:enchantment_extractor",
+  "category": "industrialforegoing:misc",
+  "sortnum": 4,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Этот механизм может извлекать зачарования из предметов при наличии книги. $(br2)Он работает двумя способами: извлекает зачарования в книгу или извлекает зачарование и превращает его в $(l:agr_husb/essence)Эссенцию$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:enchantment_extractor"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Ускоритель узла",
+  "icon": "laserio:overclocker_node",
+  "sortnum": 3,
+  "category": "laserio:items",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Ускорители узла — более сложный компонент.$(br2)Каждый $(l:laserio:laser_node)узел$(/l) может обрабатывать только 1 карту на сторону за тик. $(br2)Если на стороне узла стоят 3 карты извлечения, за игровой тик сработает только первая, а вторая сработает, только если первая ничего не сделала."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Без ускорителей узла",
+      "images": [
+        "laserio:textures/book/entries/overclocker_node1.png"
+      ],
+      "border": true,
+      "text": "Ускорители узла не установлены"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Каждый ускоритель узла, установленный на сторону узла, позволяет этой стороне обрабатывать больше карт за тик. Всего можно установить 8 ускорителей узла, и тогда будут обрабатываться все 9 карт. $(br2)Вставляющим картам ускорители $(l)$(#ff0000)НЕ$() нужны, они нужны $(l)ТОЛЬКО$() картам извлечения и снабжения."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "2 ускорителя узла",
+      "images": [
+        "laserio:textures/book/entries/overclocker_node2.png"
+      ],
+      "border": true,
+      "text": "Установлено два ускорителя узла"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Ускоритель узла",
+      "recipe": "laserio:overclocker_node"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.playBellSound": "Звук колокола",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.playBellSound.@Tooltip": "Должен ли звучать колокол перед первым призывом Эндер-дракона и при повторных призывах",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerInitially": "Создавать центральную башню сразу",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerInitially.@Tooltip": "Должна ли центральная башня появляться в Энде при первой генерации мира",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerOnResummon": "Восстанавливать центральную башню при повторном призыве",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerOnResummon.@Tooltip": "Должна ли центральная башня восстанавливаться в Энде при повторном призыве Эндер-дракона",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaEndGateways": "Создавать ванильные врата Энда",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaEndGateways.@Tooltip": "Создавать ли в Энде ванильные врата вместо обновлённых"
+}

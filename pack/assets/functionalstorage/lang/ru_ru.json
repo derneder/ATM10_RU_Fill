@@ -1,0 +1,7 @@
+{
+  "gui.functionalstorage.armory_search": "Поиск",
+  "gui.functionalstorage.fluid_drawer_hint": "Ящик для жидкостей",
+  "gui.functionalstorage.fluid_drawer_hint.empty": "%s: вылить из ёмкости в ящик",
+  "gui.functionalstorage.fluid_drawer_hint.fill": "%s: наполнить ёмкость из ящика",
+  "gui.functionalstorage.priority": "Приоритет"
+}

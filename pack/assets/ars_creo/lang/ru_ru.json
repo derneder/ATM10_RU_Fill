@@ -1,0 +1,19 @@
+{
+  "ars_creo.display_link": "Ars Creo: передатчик информации",
+  "ars_creo.display_source.for_source_status": "для состояния Источника",
+  "ars_creo.display_source.source_count": "Источник: %s",
+  "ars_creo.display_source.source_jar": "Количество Источника",
+  "ars_creo.display_source.turret": "Заклинание",
+  "ars_creo.display_source.turret.for_turret_status": "для состояния турели",
+  "ars_creo.display_source.turret.no_spell": "Заклинание не задано.",
+  "ars_creo.display_source.turret.not_enough_space": "Недостаточно места ",
+  "ars_creo.display_source.turret.spell_name": "Заклинание: %s",
+  "ars_creo.display_source.turret_target": "Заклинательная турель",
+  "ars_creo.fluid_tank": "Ars Creo: жидкостный бак",
+  "ars_creo.page.behaviors": "Ars Creo добавляет особое поведение в штуковинах для блоков Ars Nouveau, включая заклинательные турели и кувшины Источника. Основная заклинательная турель — выпускает заклинание на штуковине при взаимодействии. Турель с таймером — выпускает заклинание с заданным интервалом. Зачарованная заклинательная турель — выпускает заклинание на каждом новом блоке, через который проходит. Кувшин Источника — его Источник могут расходовать турели на штуковине.",
+  "ars_creo.page1.ars_creo.display_link": "Передатчик информации можно прикрепить к кувшину Источника, чтобы выводить количество Источника в нём, или к заклинательной турели, чтобы выводить текущее заклинание на механическое табло.",
+  "ars_creo.page1.ars_creo.fluid_tank": "Зелья можно хранить в жидкостном баке Create и перекачивать между баками с помощью труб.",
+  "ars_creo.page1.starbuncle_wheel": "Генерирует вращательную силу для Create. Если поставить золотой блок перед колесом, скорость вращения увеличится.",
+  "block.ars_creo.starbuncle_wheel": "Колесо Звездоуха",
+  "itemGroup.ars_creo.general": "Ars Creo"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Уголь Blaze Ember",
+  "sortnum": 22,
+  "category": "justdirethings:resources",
+  "icon": "justdirethings:coal_t2",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Уголь Blaze Ember создаётся при размещении блока $(l:justdirethings:res_coal_t1)первобытного угля$(/l) рядом со $(l:justdirethings:gooblock_tier2)слизью Blazebloom$(/l). Он горит жарче и эффективнее своего предшественника и вырабатывает ещё больше RF/т."
+    }
+  ]
+}

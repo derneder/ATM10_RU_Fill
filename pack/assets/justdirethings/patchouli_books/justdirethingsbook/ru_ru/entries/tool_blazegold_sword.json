@@ -1,0 +1,17 @@
+{
+  "name": "Меч из Blazegold",
+  "sortnum": 7,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:blazegold_sword",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Наносит больше урона, чем $(l:justdirethings:tool_ferricore_sword)меч из Ferricore$(/l). Обладает способностью «Ремонт в лаве»: если бросить меч в лаву, он полностью починится."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:blazegold_sword",
+      "text": "Создание: меч из Blazegold"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "block.easy_villagers.inventory_viewer": "Просмотрщик инвентаря",
+  "config.jade.plugin_easy_villagers.breeder": "Заводчик",
+  "config.jade.plugin_easy_villagers.converter": "Конвертер",
+  "config.jade.plugin_easy_villagers.villager": "Крестьянин",
+  "gui.easy_villagers.inventory_viewer": "Просмотрщик инвентаря",
+  "gui.easy_villagers.villager_equipment": "Снаряжение крестьянина",
+  "gui.easy_villagers.villager_inventory": "Инвентарь крестьянина"
+}

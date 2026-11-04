@@ -1,0 +1,16 @@
+{
+  "name": "Постройщик визеров",
+  "icon": "industrialforegoing:wither_builder",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Механизм, который призывает визеров. При наличии энергии, $(6)3 черепов визер-скелета$() и $(6)4 блоков песка душ$() он полностью построит структуру для призыва визера в рабочей зоне."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:wither_builder"
+    }
+  ]
+}

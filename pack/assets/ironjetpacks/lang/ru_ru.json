@@ -1,0 +1,6 @@
+{
+  "keybind.ironjetpacks.ascend": "Подъём",
+  "keybind.ironjetpacks.hud": "Переключить HUD",
+  "tooltip.ironjetpacks.hud": "HUD",
+  "tooltip.ironjetpacks.toggle_hud": "HUD: %s"
+}

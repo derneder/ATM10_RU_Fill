@@ -1,0 +1,16 @@
+{
+  "name": "Очищенное топливо Voidflame",
+  "sortnum": 28,
+  "category": "justdirethings:resources",
+  "icon": "justdirethings:refined_t3_fluid_bucket",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Очищенное топливо Voidflame создаётся улучшением неочищенного топлива Voidflame. Сначала бросьте $(l:justdirethings:res_coal_t3)уголь Voidflame$(/l) в $(l:justdirethings:res_refined_fuel_t2)очищенное топливо Blaze Ember$(/l). Затем подвергните эту жидкость воздействию блока слизи VoidShimmer для очистки. Это топливо отличается более высокой энергоотдачей по сравнению с топливом предыдущих уровней и заметно повышает FE/т и общую выработку FE."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Очищенное топливо Voidflame — эффективное топливо, его можно использовать для выработки энергии в $(l:justdirethings:mach_generatorfluidt1)топливном генераторе$(/l)."
+    }
+  ]
+}

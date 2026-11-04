@@ -1,0 +1,13 @@
+{
+  "block.justdirethings.gooblock_tier1": "Слизь Primogel",
+  "block.justdirethings.gooblock_tier2": "Слизь Blazebloom",
+  "block.justdirethings.gooblock_tier3": "Слизь VoidShimmer",
+  "block.justdirethings.gooblock_tier4": "Слизь Shadowpulse",
+  "entity.justdirethings.creature_catcher": "Ловец существ",
+  "entity.justdirethings.justdireareaeffectcloud": "Облако эффекта",
+  "entity.justdirethings.justdirearrow": "Стрела Dire",
+  "entity.justdirethings.portal_entity": "Портал Dire",
+  "entity.justdirethings.portal_projectile": "Снаряд портала",
+  "justdirethings.flight.detailtext": "Полёт как в творческом режиме",
+  "justdirethings.screen.fepertick": "FE/т: %s"
+}

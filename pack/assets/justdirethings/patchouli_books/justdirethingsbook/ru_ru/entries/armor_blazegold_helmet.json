@@ -1,0 +1,17 @@
+{
+  "name": "Шлем из Blazegold",
+  "sortnum": 5,
+  "category": "justdirethings:armor",
+  "icon": "justdirethings:blazegold_helmet",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Шлем из Blazegold защищает лучше своего предшественника из Ferricore и обладает уникальной способностью «Ремонт в лаве». Бросьте этот предмет в источник лавы, чтобы полностью его починить."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание: шлем из Blazegold",
+      "recipe": "justdirethings:blazegold_helmet"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Кирка из Celestigem",
+  "sortnum": 14,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:celestigem_pickaxe[justdirethings:forge_energy=10000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Улучшение $(l:justdirethings:tool_blazegold_pickaxe)кирки из Blazegold$(/l) с накоплением Forge Energy: этот инструмент вмещает до 10 000 FE. Для непрерывной работы заряжайте его с помощью $(l:justdirethings:item_pocket_generator)карманного генератора$(/l)."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:celestigem_pickaxe",
+      "text": "Создание: кирка из Celestigem"
+    }
+  ]
+}

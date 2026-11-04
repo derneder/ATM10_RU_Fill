@@ -1,0 +1,18 @@
+{
+  "block.refinedtypes.creative_energy_storage_block": "Творческий блок энергохранилища",
+  "block.refinedtypes.creative_soul_storage_block": "Творческий блок хранилища душ",
+  "block.refinedtypes.creative_source_storage_block": "Творческий блок хранилища источника",
+  "block.refinedtypes.network_energizer": "Сетевой энерджайзер",
+  "gui.refinedtypes.network_energizer.redstone_mode_help": "Когда это устройство неактивно, сеть хранения не расходует энергию из ячеек энергохранилища на своё поддержание.",
+  "item.refinedtypes.creative_energy_storage_block.help": "Уже содержит бесконечное количество FE.",
+  "item.refinedtypes.creative_energy_storage_disk": "Творческая ячейка энергохранилища",
+  "item.refinedtypes.creative_energy_storage_disk.help": "Уже содержит бесконечное количество FE.",
+  "item.refinedtypes.creative_soul_storage_block.help": "Уже содержит бесконечное количество душ.",
+  "item.refinedtypes.creative_soul_storage_disk": "Творческая ячейка хранилища душ",
+  "item.refinedtypes.creative_soul_storage_disk.help": "Уже содержит бесконечное количество душ.",
+  "item.refinedtypes.creative_source_storage_block.help": "Уже содержит бесконечное количество Источника.",
+  "item.refinedtypes.creative_source_storage_disk": "Творческая ячейка хранилища источника",
+  "item.refinedtypes.creative_source_storage_disk.help": "Уже содержит бесконечное количество Источника.",
+  "item.refinedtypes.network_energizer.help": "Автоматически расходует энергию из ячеек энергохранилища сети на её поддержание.",
+  "item.refinedtypes.soul.help": "Совет: используйте улучшение «Регулятор», чтобы экспортер не сбрасывал все ваши души в подключённую трубу для душ"
+}

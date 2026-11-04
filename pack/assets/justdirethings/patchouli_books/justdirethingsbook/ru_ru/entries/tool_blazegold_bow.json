@@ -1,0 +1,17 @@
+{
+  "name": "Лук из Blazegold",
+  "sortnum": 12,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:bow_blazegold",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Мощнее, чем $(l:justdirethings:tool_ferricore_bow)лук из Ferricore$(/l). Обладает способностью «Ремонт в лаве».$(br2)Кроме того, имеет 2 слота под $(l:justdirethings:item_potion_canister)канистры для зелий$(/l)."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:bow_blazegold",
+      "text": "Создание: лук из Blazegold"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Всемодиевая морковь",
+  "icon": "allthemodium:allthemodium_carrot",
+  "category": "allthemodium:food",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "allthemodium:allthemodium_carrot",
+      "title": "Всемодиевая морковь"
+    },
+    {
+      "type": "text",
+      "text": "Всемодиевая морковь восполняет 40 единиц голода и 320 единиц насыщения. Эффекты моркови:$(li)Быстро съедается$(li)Можно есть всегда$(li)Поглощение X на 30 сек.$(li)Регенерация X на 30 сек."
+    }
+  ]
+}

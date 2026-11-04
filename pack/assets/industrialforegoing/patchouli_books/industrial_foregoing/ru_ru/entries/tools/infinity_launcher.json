@@ -1,0 +1,17 @@
+{
+  "name": "Бесконечный лаунчер",
+  "icon": "industrialforegoing:infinity_launcher",
+  "category": "industrialforegoing:tools",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Бесконечный лаунчер — инструмент, позволяющий захватывать существ в Заключатель мобов или выпускать их оттуда на расстоянии. Выберите режим в интерфейсе и выстрелите из лаунчера, чтобы выпустить или захватить мобов с помощью Заключателя мобов из вашего инвентаря."
+    },
+    {
+      "type": "industrialforegoing:dissolution",
+      "recipe": "industrialforegoing:dissolution_chamber/infinity_launcher"
+    }
+  ]
+}

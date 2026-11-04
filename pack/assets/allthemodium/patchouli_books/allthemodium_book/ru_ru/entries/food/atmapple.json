@@ -1,0 +1,16 @@
+{
+  "name": "Всемодиевое яблоко",
+  "icon": "allthemodium:allthemodium_apple",
+  "category": "allthemodium:food",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "allthemodium:allthemodium_apple",
+      "title": "Всемодиевое яблоко"
+    },
+    {
+      "type": "text",
+      "text": "Всемодиевое яблоко восполняет 20 единиц голода и 80 единиц насыщения. Эффекты яблока:$(li)Быстро съедается$(li)Можно есть всегда$(li)Поглощение X на 30 сек.$(li)Регенерация X на 30 сек."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Топор из сплава Eclipse",
+  "sortnum": 23,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:eclipsealloy_axe[justdirethings:forge_energy=500000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Этот топор из сплава Eclipse отлично справляется с рубкой дерева: он очень эффективен и вмещает больше энергии. $(br2)Он создан для самых тяжёлых лесозаготовительных работ."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:eclipsealloy_axe",
+      "text": "Создание: топор из сплава Eclipse"
+    }
+  ]
+}

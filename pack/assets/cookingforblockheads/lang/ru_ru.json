@@ -1,0 +1,10 @@
+{
+  "config.jade.plugin_cookingforblockheads.preservation_chamber": "Камера сохранения",
+  "container.cookingforblockheads.cooking_table": "Кухонный стол",
+  "gui.cookingforblockheads.cooking_pot_obstructed": "Кухонный котёл загорожен",
+  "gui.cookingforblockheads.moved_to_cooking_pot": "Перемещено в кухонный котёл",
+  "gui.cookingforblockheads.moved_to_oven": "Перемещено в духовку",
+  "tooltip.cookingforblockheads.kitchen_upgrade": "Улучшение кухни",
+  "tooltip.cookingforblockheads.missing_cooking_pot": "Отсутствует кухонный котёл для готовки",
+  "tooltip.cookingforblockheads.sort_by_eatenness": "Сортировать по съеденному"
+}

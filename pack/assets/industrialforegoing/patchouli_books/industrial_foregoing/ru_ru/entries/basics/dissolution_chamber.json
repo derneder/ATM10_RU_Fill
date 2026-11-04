@@ -1,0 +1,17 @@
+{
+  "name": "Камера растворения",
+  "icon": "industrialforegoing:dissolution_chamber",
+  "category": "industrialforegoing:basics",
+  "sortnum": 6,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Мощный механизм для создания материалов из $(6)8$() предметов и/или $(6)1$() жидкости. Он может выдавать предметы и/или жидкости. $(br2)Все рецепты бесформенные, то есть ингредиенты можно класть в любые ячейки. $(br2)Когда рецепт найден, механизм блокирует все ячейки, чтобы в них нельзя было положить что-то ещё."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:dissolution_chamber"
+    }
+  ]
+}

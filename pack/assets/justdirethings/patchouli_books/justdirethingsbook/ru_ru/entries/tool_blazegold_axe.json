@@ -1,0 +1,17 @@
+{
+  "name": "Топор из Blazegold",
+  "sortnum": 10,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:blazegold_axe",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Рубит быстрее, чем $(l:justdirethings:tool_ferricore_axe)топор из Ferricore$(/l). Обладает способностью «Ремонт в лаве» — автоматически чинится в лаве."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:blazegold_axe",
+      "text": "Создание: топор из Blazegold"
+    }
+  ]
+}

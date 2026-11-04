@@ -1,0 +1,19 @@
+{
+  "effect.tombstone.silent_bond": "Безмолвная связь",
+  "entity.tombstone.flying_carpet": "Ковёр из полета",
+  "readable_scroll.nights_of_nour.author": "Бесконечный сказитель",
+  "readable_scroll.nights_of_nour.title": "Ночи Нур",
+  "stat.tombstone.nights_of_nour": "Ночи Нур",
+  "tombstone.command.tbreadable.usage": "Выдаёт копию уже полученных свитков повествования\n/tbreadable <narrative>",
+  "tombstone.compendium.flying_carpet.desc": "Летающий ковёр — это средство передвижения, позволяющее путешествовать по воздуху и под водой в направлении вашего взгляда.\nПризовите его, нажав ПКМ (или Shift+ПКМ, чтобы призвать его, не садясь сразу).\nОн перезаряжается, паря над песком душ.",
+  "tombstone.item.flying_carpet": "Ковёр из полета",
+  "tombstone.item.flying_carpet.desc": "Ковёр может нести вас по воздуху или под водой в направлении вашего взгляда",
+  "tombstone.item.flying_carpet.use": "Нажмите ПКМ, чтобы встать на ковёр",
+  "tombstone.item.sarheed_lamp": "Лампа Сархида",
+  "tombstone.message.flight_not_allowed": "Летающий транспорт запрещён на этом сервере",
+  "tombstone.message.no_scroll_found": "Вы не нашли ни одного свитка этого повествования",
+  "tombstone.message.readable.success": "Вы получили ранее найденные свитки истории %1$s: %2$s/%3$s",
+  "tombstone.message.unknown_narrative": "Неизвестное повествование: %s",
+  "tombstone.message.watcher_knowledge_4.find_nights_of_nour": "Нужно найти все части Ночей Нур",
+  "tombstone.message.watcher_knowledge_4.unlocked": "Ашкар наконец свободен и в знак благодарности оставляет вам летающий ковёр"
+}

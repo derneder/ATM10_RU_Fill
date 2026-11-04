@@ -1,0 +1,17 @@
+{
+  "name": "Кровать гидропоники",
+  "icon": "industrialforegoing:hydroponic_bed",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "sortnum": 16,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Этот механизм при наличии энергии и $(6)воды$() (или $(6)лавы$() для адских растений) немного ускоряет рост культур. $(br2)Если подавать совсем немного $(l:resource_production/ether_gas)Эфира$(), растения будут расти намного быстрее и автоматически сажаться заново."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:hydroponic_bed"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "container.utilityvest.tool_vest": "Жилет для инструментов",
+  "input.utilityvest.wheel.down": "Прокрутка вниз",
+  "input.utilityvest.wheel.up": "Прокрутка вверх",
+  "itemGroup.utilityvest": "Рабочий жилет",
+  "key.utilityvest.radial": "Открыть радиальное меню",
+  "tooltip.utilityvest.menu.cycle": "%s и %s — переключение панелей быстрого доступа",
+  "tooltip.utilityvest.menu.insert": "%s — положить %s в инвентарь жилета",
+  "tooltip.utilityvest.menu.swap": "%s — поменять местами с %s",
+  "tooltip.utilityvest.vest.radial": "Удерживайте %s и нажмите цифровую клавишу, чтобы открыть меню быстрого выбора",
+  "utilityvest.configuration.invert_radial_scroll": "Инвертировать прокрутку радиального меню",
+  "utilityvest.configuration.radial_stack_count": "Количество в радиальном меню",
+  "utilityvest.configuration.radial_tooltip": "Подсказка радиального меню",
+  "utilityvest.configuration.remember_radial_row": "Запоминать ряд радиального меню"
+}

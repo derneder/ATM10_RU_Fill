@@ -1,0 +1,17 @@
+{
+  "name": "Фабрика каменных материалов",
+  "icon": "industrialforegoing:material_stonework_factory",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 0,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Генератор $(6)булыжника$() нового поколения.$(br2)При подаче $(6)60$() RF/т, а также $(6)воды$() и $(6)лавы$() его можно настроить на создание определённых материалов.$(br)Эти материалы можно дополнительно обработать действиями:$(br)$(li)Плавка$(br)$(li)Дробление$(br)$(li)Крафт"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:material_stonework_factory"
+    }
+  ]
+}

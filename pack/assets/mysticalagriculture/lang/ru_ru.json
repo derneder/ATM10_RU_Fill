@@ -1,0 +1,8 @@
+{
+  "block.mysticalagriculture.awakened_supremium_growth_accelerator": "Пробуждённый супремиевый ускоритель роста",
+  "crop.mysticalagriculture.amethyst_bronze": "аметистовой бронзы",
+  "enchantment.mysticalagriculture.soul_siphoner": "Похититель душ",
+  "enchantment.mysticalagriculture.soul_siphoner.desc": "Увеличивает количество душ, собираемых при убийстве мобов, на 10 процентов за уровень.",
+  "tooltip.mysticalagriculture.chance": "Шанс: %s",
+  "tooltip.mysticalagriculture.requires_effective_farmland": "Нужно посадить на: %s"
+}

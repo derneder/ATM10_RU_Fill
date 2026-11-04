@@ -1,0 +1,9 @@
+{
+  "block.undergarden.depthrock_pot": "Ваза из глубинного камня",
+  "config.undergarden.return_portal_frame_block_id": "ID блока рамки обратного портала",
+  "config.undergarden.toggle_utheric_infection_number_display": "Отображение числа утеритовой инфекции",
+  "config.undergarden.toggle_utheric_infection_overlay": "Наложение утеритовой инфекции",
+  "entity.undergarden.mysterious_pot": "Загадочный горшок",
+  "item.undergarden.crumbling_catalyst": "Разрушающий катализатор",
+  "item.undergarden.mysterious_pot_spawn_egg": "Яйцо призыва загадочного горшка"
+}

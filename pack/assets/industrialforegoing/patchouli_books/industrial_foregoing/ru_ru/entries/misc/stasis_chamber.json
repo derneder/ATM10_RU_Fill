@@ -1,0 +1,17 @@
+{
+  "name": "Камера стазиса",
+  "icon": "industrialforegoing:stasis_chamber",
+  "category": "industrialforegoing:misc",
+  "sortnum": 5,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "При наличии энергии этот механизм $(6)замораживает$() и $(6)лечит$() всех существ в своей рабочей зоне."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:stasis_chamber"
+    }
+  ]
+}

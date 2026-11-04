@@ -1,0 +1,12 @@
+{
+  "screen.torchmaster.feral_flare_lantern.description": "Размещение света",
+  "screen.torchmaster.feral_flare_lantern.line_of_sight.disabled": "Освещать места даже за стенами.",
+  "screen.torchmaster.feral_flare_lantern.line_of_sight.disabled.description": "Фонарю не нужен прямой обзор.",
+  "screen.torchmaster.feral_flare_lantern.line_of_sight.enabled": "Освещать только места в поле зрения фонаря.",
+  "screen.torchmaster.feral_flare_lantern.line_of_sight.enabled.description": "Источники света не будут размещаться за стенами.",
+  "screen.torchmaster.feral_flare_lantern.title": "Большой осветительный фонарь",
+  "screen.torchmaster.volume_gui.range": "Дальность в каждом направлении: §a%s§r бл.",
+  "screen.torchmaster.volume_gui.title": "Отображение области действия Torchmaster",
+  "screen.torchmaster.volume_gui.toggle_off": "Включить отображение области",
+  "screen.torchmaster.volume_gui.toggle_on": "Выключить отображение области"
+}

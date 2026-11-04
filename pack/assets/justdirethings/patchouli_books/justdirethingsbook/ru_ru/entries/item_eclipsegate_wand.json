@@ -1,0 +1,21 @@
+{
+  "name": "Жезл Eclipsegate",
+  "sortnum": 7,
+  "category": "justdirethings:items",
+  "icon": "justdirethings:eclipsegate_wand[justdirethings:forge_energy=100000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Жезл Eclipsegate — вершина развития магических инструментов, обладающая беспрецедентной силой.$(br2)Помимо способностей $(l:justdirethings:item_voidshift_wand)жезла Voidshift$(/l), вы можете активировать способность «Врата Eclipse». Просто щёлкните правой кнопкой по блоку, и все блоки вокруг него и позади него временно исчезнут!"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Через несколько мгновений исходные блоки вернутся в прежнем виде. Блок-сущности, например сундуки, это не затрагивает.$(br2)Дальность этой способности можно изменить на экране настроек. "
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание: жезл Eclipsegate",
+      "recipe": "justdirethings:eclipsegate_wand"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Животный распределитель",
+  "icon": "industrialforegoing:animal_baby_separator",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "sortnum": 16,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Механизм, который отделяет $(6)детёнышей$() от взрослых животных. Детёныши телепортируются в заднюю часть механизма. Тип перемещаемых мобов можно изменить в интерфейсе."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:animal_baby_separator"
+    }
+  ]
+}

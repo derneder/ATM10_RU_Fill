@@ -1,0 +1,17 @@
+{
+  "name": "Ботинки из Celestigem",
+  "sortnum": 12,
+  "category": "justdirethings:armor",
+  "icon": "justdirethings:celestigem_boots[justdirethings:forge_energy=10000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Ботинки из Celestigem работают на Forge Energy и вмещают до 10 000 FE. Для наилучшей работы поддерживайте заряд с помощью $(l:justdirethings:item_pocket_generator)карманного генератора$(/l)."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание: ботинки из Celestigem",
+      "recipe": "justdirethings:celestigem_boots"
+    }
+  ]
+}

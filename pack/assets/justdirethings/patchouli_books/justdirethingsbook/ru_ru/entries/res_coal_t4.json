@@ -1,0 +1,12 @@
+{
+  "name": "Уголь Eclipse Ember",
+  "sortnum": 24,
+  "category": "justdirethings:resources",
+  "icon": "justdirethings:coal_t4",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Уголь Eclipse Ember — финальная ступень эволюции специального угля; его создают, разместив блок $(l:justdirethings:res_coal_t3)угля Voidflame$(/l) рядом со $(l:justdirethings:gooblock_tier4)слизью Shadowpulse$(/l). Среди видов угля у него самая высокая плотность энергии."
+    }
+  ]
+}

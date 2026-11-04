@@ -1,0 +1,17 @@
+{
+  "name": "Обогатитель грязи",
+  "icon": "industrialforegoing:sludge_refiner",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 10,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Механизм, который превращает $(6)мусор$() во что-то полезное.$(br2)Получив $(6)Мусор$() от $(l:agriculture_n_husbandry/plant_gatherer)Сборщика растений$(), он создаст $(6)что-нибудь$().$(br)Этот процесс требует $(6)1000$() RF/т, так что позаботьтесь о запасе энергии."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:sludge_refiner"
+    }
+  ]
+}

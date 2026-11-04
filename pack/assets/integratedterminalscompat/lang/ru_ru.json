@@ -1,0 +1,20 @@
+{
+  "gui.integratedterminalscompat.terminal_storage.crafting_job.error.title": "Ошибка задания на крафт",
+  "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.failed_only": "Ошибка автокрафта: %s",
+  "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.mixed": "Автокрафт запущен: %s; ошибка: %s",
+  "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.started_only": "Автокрафт запущен: %s",
+  "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.title.failed_only": "Ошибка автокрафта",
+  "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.title.mixed": "Частичная ошибка автокрафта",
+  "gui.integratedterminalscompat.terminal_storage.crafting_job.summary.title.started_only": "Запуск автокрафта",
+  "gui.integratedterminalscompat.terminal_storage.craftinggrid.emisync": "Синхронизация поиска с EMI",
+  "gui.integratedterminalscompat.terminal_storage.craftinggrid.emisync.info": "Синхронизировать поле поиска с EMI.",
+  "gui.integratedterminalscompat.terminal_storage.craftinggrid.jeisync": "Синхронизация поиска с JEI",
+  "gui.integratedterminalscompat.terminal_storage.craftinggrid.jeisync.info": "Синхронизировать поле поиска с JEI.",
+  "gui.integratedterminalscompat.terminal_storage.craftinggrid.reisync": "Синхронизация поиска с REI",
+  "gui.integratedterminalscompat.terminal_storage.craftinggrid.reisync.info": "Синхронизировать поле поиска с REI.",
+  "gui.integratedterminalscompat.terminal_storage.jei.transfer.craft.info": "Ctrl + клик для запуска автокрафта",
+  "gui.integratedterminalscompat.terminal_storage.jei.transfer.craft.info_cmd": "Cmd + клик для запуска автокрафта",
+  "gui.integratedterminalscompat.terminal_storage.jei.transfer.craftable": "Предметы, доступные для автокрафта",
+  "gui.integratedterminalscompat.terminal_storage.jei.transfer.craftable_partial": "Предметы, частично доступные для автокрафта",
+  "gui.integratedterminalscompat.terminal_storage.jei.transfer.missing": "Недостающие предметы"
+}

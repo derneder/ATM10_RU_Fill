@@ -1,0 +1,17 @@
+{
+  "name": "Кирка из Ferricore",
+  "sortnum": 2,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:ferricore_pickaxe",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Кирка из Ferricore сочетает прочность и эффективность и немного превосходит железную. Её можно улучшить способностями, расширяющими возможности добычи."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:ferricore_pickaxe",
+      "text": "Создание: кирка из Ferricore"
+    }
+  ]
+}

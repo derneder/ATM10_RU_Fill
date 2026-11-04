@@ -1,0 +1,5 @@
+{
+  "block.evilcraft.eternal_water.auto_output.disabled": "Автовывод отключён",
+  "block.evilcraft.eternal_water.auto_output.enabled": "Автовывод включён",
+  "info_book.evilcraft.second_age.evolved_blood_machinery.purifier.text4": "Наконец, &1очиститель&0 способен обратить порчу голов мобов, вызванную &1насыщателем кровью&0. Если полностью заполнить его &4кровью&0 и поместить внутрь &1череп визер-скелета&0, &1голову крипера&0 или &1голову зомби&0 — голова вернётся на предыдущую ступень своего развития."
+}

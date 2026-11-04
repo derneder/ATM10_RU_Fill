@@ -1,0 +1,11 @@
+{
+  "error.gateways.no_nearby_player": "Врата взорвались, потому что рядом не было игроков",
+  "error.gateways.out_of_lives": "Врата взорвались, потому что у вас закончились жизни",
+  "rule.gateways.lives": "Жизни: %s",
+  "rule.gateways.requires_nearby_player": "Требуется игрок поблизости: %s",
+  "subtitle.gateways.gate_ambient": "Фоновый звук врат",
+  "subtitle.gateways.gate_end": "Врата закрываются",
+  "subtitle.gateways.gate_start": "Врата открываются",
+  "subtitle.gateways.gate_warp": "Врата порождают объект",
+  "text.gateways.errored_gate_pearl": "Неизвестные врата: %s"
+}

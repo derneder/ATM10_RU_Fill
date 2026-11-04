@@ -1,0 +1,17 @@
+{
+  "name": "Меч из Ferricore",
+  "sortnum": 1,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:ferricore_sword",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Меч из Ferricore — надёжное оружие ближнего боя, немного превосходящее обычные железные мечи. Изготовленный из Ferricore, он не только наносит больше урона, но и позволяет дополнительно улучшить его особыми способностями, расширяя его пригодность в бою."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "justdirethings:ferricore_sword",
+      "text": "Вот как можно создать меч из Ferricore:"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Обнаружитель мобов",
+  "icon": "industrialforegoing:mob_detector",
+  "category": "industrialforegoing:misc",
+  "sortnum": 6,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Этот механизм определяет, сколько существ находится перед ним, и выдаёт сзади сигнал красного камня той же силы, что и количество обнаруженных существ."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:mob_detector"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "yacl3.config.variantsandventures:variantsandventures.murkSpawnMaxGroupSize": "Максимальный размер группы омутов",
+  "yacl3.config.variantsandventures:variantsandventures.murkSpawnMaxGroupSize.desc": "Максимальное количество омутов, появляющихся одновременно в биомах тёплого океана.",
+  "yacl3.config.variantsandventures:variantsandventures.murkSpawnMinGroupSize": "Минимальный размер группы омутов",
+  "yacl3.config.variantsandventures:variantsandventures.murkSpawnMinGroupSize.desc": "Минимальное количество омутов, появляющихся одновременно в биомах тёплого океана.",
+  "yacl3.config.variantsandventures:variantsandventures.murkSpawnWeight": "Вес появления омута",
+  "yacl3.config.variantsandventures:variantsandventures.murkSpawnWeight.desc": "Вес появления омута: чем выше значение, тем чаще омут появляется по сравнению с другими мобами в биомах тёплого океана."
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Водный конденсатор",
+  "icon": "industrialforegoing:water_condensator",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 11,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Механизм, который вырабатывает $(6)воду$() из окружающих источников.$(br2)Он начинает работать, когда рядом есть как минимум $(6)2 источника воды$().$(br)Если добавить ещё источники и подавать $(6)1000 RF за операцию, механизм станет заметно быстрее."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:water_condensator"
+    }
+  ]
+}

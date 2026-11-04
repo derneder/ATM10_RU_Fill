@@ -1,0 +1,17 @@
+{
+  "name": "Заключатель мобов",
+  "icon": "industrialforegoing:mob_imprisonment_tool",
+  "category": "industrialforegoing:tools",
+  "sortnum": 0,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Если $(6)кликнуть правой кнопкой$() по существу, держа Заключатель мобов (MIB) в руке, это существо окажется внутри него. $(br2)Выпустить существо можно, $(6)кликнув правой кнопкой$() с ним по земле."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:mob_imprisonment_tool"
+    }
+  ]
+}

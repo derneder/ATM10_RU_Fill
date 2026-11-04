@@ -1,0 +1,17 @@
+{
+  "name": "Бесконечный трезубец",
+  "icon": "industrialforegoing:infinity_trident",
+  "category": "industrialforegoing:tools",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Бесконечный трезубец — инструмент, раскрывающий истинную силу трезубца. С повышением уровня открываются разные ступени $(6)верности$(), $(6)тягуна$() и $(6)громовержца$(). $(br2)Громовержец и урон от попадания наносятся по площади."
+    },
+    {
+      "type": "industrialforegoing:dissolution",
+      "recipe": "industrialforegoing:dissolution_chamber/infinity_trident"
+    }
+  ]
+}

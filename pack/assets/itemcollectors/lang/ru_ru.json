@@ -1,0 +1,7 @@
+{
+  "gui.itemcollectors.advanced_collector.show_area.off": "Радиус скрыт",
+  "gui.itemcollectors.advanced_collector.show_area.on": "Радиус показан",
+  "itemcollectors.basic_collector.info.range": "Радиус (блоков): %s",
+  "itemcollectors.block.advanced_collector": "Продвинутый сборщик предметов",
+  "itemcollectors.block.basic_collector": "Базовый сборщик предметов"
+}

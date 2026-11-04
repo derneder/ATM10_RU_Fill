@@ -1,0 +1,17 @@
+{
+  "name": "Нагрудник из Blazegold",
+  "sortnum": 6,
+  "category": "justdirethings:armor",
+  "icon": "justdirethings:blazegold_chestplate",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Нагрудник из Blazegold не только лучше защищает, но и обладает способностью «Ремонт в лаве». Бросьте нагрудник в источник лавы, чтобы полностью его починить."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание: нагрудник из Blazegold",
+      "recipe": "justdirethings:blazegold_chestplate"
+    }
+  ]
+}

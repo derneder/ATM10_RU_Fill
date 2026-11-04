@@ -1,0 +1,17 @@
+{
+  "name": "Поножи из сплава Eclipse",
+  "sortnum": 22,
+  "category": "justdirethings:armor",
+  "icon": "justdirethings:eclipsealloy_leggings[justdirethings:forge_energy=500000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Эти поножи созданы для предельной выносливости и работают на Forge Energy, вмещая 500 000 FE. Используйте $(l:justdirethings:item_pocket_generator)карманный генератор$(/l), чтобы поддерживать уровень заряда и работоспособность."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание: поножи из сплава Eclipse",
+      "recipe": "justdirethings:eclipsealloy_leggings"
+    }
+  ]
+}

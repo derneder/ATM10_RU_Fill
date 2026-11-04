@@ -1,0 +1,26 @@
+{
+  "name": "Лазерный коннектор",
+  "icon": "laserio:laser_connector",
+  "sortnum": 1,
+  "category": "laserio:blocks",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Несколько $(l:laserio:laser_node)лазерных узлов$(/l) можно соединить напрямую с помощью $(l:laserio:laser_wrench)лазерного ключа$(/l), однако максимальная дальность — 8 блоков. $(br2)Лазерные коннекторы служат более дешёвой промежуточной точкой между узлами и позволяют построить сеть из связанных хранилищ."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Лазерный узел",
+      "images": [
+        "laserio:textures/book/entries/laser_connector1.png"
+      ],
+      "border": true,
+      "text": "Коннектор между двумя узлами"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Лазерный коннектор",
+      "recipe": "laserio:laser_connector"
+    }
+  ]
+}

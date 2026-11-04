@@ -1,0 +1,17 @@
+{
+  "name": "Станция ферментизации",
+  "icon": "industrialforegoing:fermentation_station",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 20,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Используя сырую мясную руду, этот механизм запечатывает содержимое, когда достигнут заданный уровень, и ферментирует это мясо выбранным типом производства."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:fermentation_station"
+    }
+  ]
+}

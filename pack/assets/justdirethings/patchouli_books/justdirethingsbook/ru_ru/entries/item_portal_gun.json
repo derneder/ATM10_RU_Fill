@@ -1,0 +1,17 @@
+{
+  "name": "Портал-пушка",
+  "sortnum": 10,
+  "category": "justdirethings:items",
+  "icon": "justdirethings:portalgun[justdirethings:forge_energy=100000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Портал-пушка — революционное устройство, позволяющее создавать порталы. Щёлкните левой кнопкой, чтобы выстрелить снарядом, создающим синий портал, или правой — для оранжевого. Шагните в один портал, чтобы выйти из другого; это работает как для игроков, так и для предметов."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание: портал-пушка",
+      "recipe": "justdirethings:portalgun"
+    }
+  ]
+}

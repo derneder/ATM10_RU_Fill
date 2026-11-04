@@ -1,0 +1,21 @@
+{
+  "entity.little_big_redstone.sticky_note": "Стикер",
+  "entity.little_big_redstone.sticky_note.black": "Чёрный стикер",
+  "entity.little_big_redstone.sticky_note.blue": "Синий стикер",
+  "entity.little_big_redstone.sticky_note.brown": "Коричневый стикер",
+  "entity.little_big_redstone.sticky_note.cyan": "Бирюзовый стикер",
+  "entity.little_big_redstone.sticky_note.gray": "Серый стикер",
+  "entity.little_big_redstone.sticky_note.green": "Зелёный стикер",
+  "entity.little_big_redstone.sticky_note.light_blue": "Голубой стикер",
+  "entity.little_big_redstone.sticky_note.light_gray": "Светло-серый стикер",
+  "entity.little_big_redstone.sticky_note.lime": "Лаймовый стикер",
+  "entity.little_big_redstone.sticky_note.magenta": "Пурпурный стикер",
+  "entity.little_big_redstone.sticky_note.orange": "Оранжевый стикер",
+  "entity.little_big_redstone.sticky_note.pink": "Розовый стикер",
+  "entity.little_big_redstone.sticky_note.purple": "Фиолетовый стикер",
+  "entity.little_big_redstone.sticky_note.red": "Красный стикер",
+  "entity.little_big_redstone.sticky_note.white": "Белый стикер",
+  "entity.little_big_redstone.sticky_note.yellow": "Жёлтый стикер",
+  "item.little_big_redstone.battery": "Батарея",
+  "text.little_big_redstone.logic_help_battery": "Выходной сигнал всегда равен настроенной силе сигнала."
+}

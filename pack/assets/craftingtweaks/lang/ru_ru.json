@@ -1,0 +1,21 @@
+{
+  "craftingtweaks.configuration.client": "Клиент",
+  "craftingtweaks.configuration.client.disabledAddons": "Отключённые дополнения",
+  "craftingtweaks.configuration.client.disabledAddons.tooltip": "Укажите ID модов, для которых нужно отключить поддержку Crafting Tweaks.",
+  "craftingtweaks.configuration.client.hideVanillaCraftingGuide": "Скрыть ванильную книгу рецептов",
+  "craftingtweaks.configuration.client.hideVanillaCraftingGuide.tooltip": "Мы оба знаем, что JEI гораздо лучше. Эта настройка скрывает кнопку ванильной книги рецептов вместо её перемещения.",
+  "craftingtweaks.configuration.client.mode": "Режим",
+  "craftingtweaks.configuration.client.mode.tooltip": "«DEFAULT» — включить и кнопки, и горячие клавиши. «BUTTONS» — только кнопки. «HOTKEYS» — только горячие клавиши. «DISABLED» — полностью отключить.",
+  "craftingtweaks.configuration.client.rightClickCraftsStack": "ПКМ создаёт стопку",
+  "craftingtweaks.configuration.client.rightClickCraftsStack.tooltip": "Если true, нажатие ПКМ по слоту результата на верстаке создаёт полную стопку.",
+  "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetX": "Смещение ванильной книги рецептов по X",
+  "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetX.tooltip": "Отступ справа при перемещении кнопки ванильной книги рецептов.",
+  "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetY": "Смещение ванильной книги рецептов по Y",
+  "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetY.tooltip": "Отступ сверху при перемещении кнопки ванильной книги рецептов.",
+  "craftingtweaks.configuration.common": "Общие",
+  "craftingtweaks.configuration.common.compressDenylist": "Запрет сжатия",
+  "craftingtweaks.configuration.common.compressDenylist.tooltip": "Список записей modid:name, которые не будут создаваться клавишей сжатия.",
+  "craftingtweaks.configuration.common.compressRequiresCraftingGrid": "Сжатие только в сетке крафта",
+  "craftingtweaks.configuration.common.compressRequiresCraftingGrid.tooltip": "Установите false, если хотите, чтобы сжатие/распаковка работали вне интерфейсов крафта (работает в инвентаре игрока, только если мод установлен на сервере)",
+  "key.craftingtweaks.transfer_stack": "Перенести в сетку крафта"
+}

@@ -1,0 +1,18 @@
+{
+  "advancement.dysoncubeproject.em_railejector_controller/sphere_percentage_100.description": "Выпущено 100% парусов. Дневной свет теперь доступен по подписке.",
+  "advancement.dysoncubeproject.em_railejector_controller/sphere_percentage_100.title": "Поздравляем! Дневной свет теперь ваш",
+  "advancement.dysoncubeproject.em_railejector_controller/sphere_percentage_15.description": "Выпущено 15% парусов. Местные фотоны подали жалобу.",
+  "advancement.dysoncubeproject.em_railejector_controller/sphere_percentage_15.title": "Слегка тревожное окружение Солнца",
+  "advancement.dysoncubeproject.em_railejector_controller/sphere_percentage_25.description": "Выпущено 25% парусов. Четверть пути к космическому безумию.",
+  "advancement.dysoncubeproject.em_railejector_controller/sphere_percentage_25.title": "Четверть сферы, полные амбиции",
+  "advancement.dysoncubeproject.em_railejector_controller/sphere_percentage_5.description": "Выпущено 5% парусов. Солнце почти не заметило. Наверное.",
+  "advancement.dysoncubeproject.em_railejector_controller/sphere_percentage_5.title": "Солнце уведомлено",
+  "advancement.dysoncubeproject.em_railejector_controller/sphere_percentage_50.description": "Выпущено 50% парусов. Полсферы — вдвое больше гордыни.",
+  "advancement.dysoncubeproject.em_railejector_controller/sphere_percentage_50.title": "На полпути к звёздному землевладельцу",
+  "advancement.dysoncubeproject.em_railejector_controller/sphere_percentage_75.description": "Выпущено 75% парусов. Солнце официально изучает пути отступления.",
+  "advancement.dysoncubeproject.em_railejector_controller/sphere_percentage_75.title": "Солнце заметно нервничает",
+  "advancement.dysoncubeproject.root.description": "СЕГОДНЯ МЫ УКРАДЁМ СОЛНЦЕ!",
+  "advancement.dysoncubeproject.root.title": "Проект «Куб Дайсона»",
+  "gui.dysoncubeproject.unsubscribe": "Отключиться от всех сфер (вы вернётесь к своей личной сфере)",
+  "tooltip.dysoncubeproject.power_optional": "*Питание необязательно; с ним можно увеличить количество выпускаемых балок/парусов*"
+}

@@ -1,0 +1,14 @@
+{
+  "aquaculture.message25": "Null Pointer Exception: Aquaculture.MessageInABottle (String) не может быть null.",
+  "tag.item.aquaculture.bobber": "Поплавок",
+  "tag.item.aquaculture.fish_mount": "Трофейные доски",
+  "tag.item.aquaculture.fishing_line": "Леска",
+  "tag.item.aquaculture.hook": "Крючки",
+  "tag.item.aquaculture.tackle_box": "Ящик снастей",
+  "tag.item.aquaculture.tackle_box_green": "Зелёный краситель для ящика снастей",
+  "tag.item.aquaculture.turtle": "Черепаха",
+  "tag.item.aquaculture.turtle_edible": "Съедобно для черепах",
+  "tag.item.c.ingots.neptunium": "Нептуниевые слитки",
+  "tag.item.c.nuggets.neptunium": "Нептуниевые самородки",
+  "tag.item.c.storage_blocks.neptunium": "Блоки хранения нептуния"
+}

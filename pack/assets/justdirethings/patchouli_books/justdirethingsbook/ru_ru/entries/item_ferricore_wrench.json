@@ -1,0 +1,17 @@
+{
+  "name": "Ключ из Ferricore",
+  "sortnum": 3,
+  "category": "justdirethings:items",
+  "icon": "justdirethings:ferricore_wrench",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Ключ из Ferricore — универсальный инструмент для поворота блоков и связывания обменников. Незаменим для строителей и техников, которые хотят оптимизировать свои конструкции."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание: ключ из Ferricore",
+      "recipe": "justdirethings:ferricore_wrench"
+    }
+  ]
+}

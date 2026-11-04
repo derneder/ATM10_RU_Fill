@@ -1,0 +1,13 @@
+{
+  "fabric-data-attachment-api-v1.unknown-target.attachment-identifier": "Идентификатор прикреплённых данных: %s",
+  "fabric-data-attachment-api-v1.unknown-target.block-entity-position": "Позиция блока-сущности: %s",
+  "fabric-data-attachment-api-v1.unknown-target.chunk-position": "Позиция чанка: %s",
+  "fabric-data-attachment-api-v1.unknown-target.entity-network-id": "Сетевой ID сущности: %s",
+  "fabric-data-attachment-api-v1.unknown-target.target-type": "Тип цели: %s",
+  "fabric-data-attachment-api-v1.unknown-target.target-type.block-entity": "Блок-сущность",
+  "fabric-data-attachment-api-v1.unknown-target.target-type.chunk": "Чанк",
+  "fabric-data-attachment-api-v1.unknown-target.target-type.entity": "Сущность",
+  "fabric-data-attachment-api-v1.unknown-target.target-type.world": "Мир",
+  "fabric-data-attachment-api-v1.unknown-target.title": "Получено изменение прикреплённых данных для неизвестной цели!",
+  "fabric-data-attachment-api-v1.unknown-target.world": "Мир: %s"
+}

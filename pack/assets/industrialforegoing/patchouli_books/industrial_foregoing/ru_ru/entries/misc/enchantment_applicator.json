@@ -1,0 +1,17 @@
+{
+  "name": "Применятель зачарований",
+  "icon": "industrialforegoing:enchantment_applicator",
+  "category": "industrialforegoing:misc",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Этот механизм работает так же, как наковальня, но вместо опыта использует $(l:agr_husb/essence)Эссенцию$(). Если стоимость слишком велика, он может брать эссенцию из резервуара сверху."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:enchantment_applicator"
+    }
+  ]
+}

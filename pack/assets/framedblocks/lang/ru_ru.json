@@ -1,0 +1,5 @@
+{
+  "config.framedblocks.client.showCamoCraftingInJei": "Показывать рецепты нанесения камуфляжа в JEI",
+  "desc.framedblocks.framed_axe.retain_camo": "Каркасные блоки, сломанные этим топором, сохраняют камуфляж, а не выбрасывают его отдельно",
+  "item.framedblocks.framed_axe": "Топор для каркаса"
+}

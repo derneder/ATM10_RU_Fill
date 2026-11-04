@@ -1,0 +1,12 @@
+{
+  "name": "Паксель из сплава Eclipse",
+  "sortnum": 26,
+  "category": "justdirethings:tools",
+  "icon": "justdirethings:eclipsealloy_paxel[justdirethings:forge_energy=500000]",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Паксель из сплава Eclipse — вершина интеграции инструментов: он объединяет функции кирки, топора и лопаты в одном внушительном инструменте. $(br2)Создайте его, объединив кирку, топор и лопату из сплава Eclipse в столе кузнеца, либо улучшите $(l:justdirethings:tool_celestigem_paxel)паксель из Celestigem$(/l) в столе кузнеца. Оба способа сохраняют все установленные улучшения."
+    }
+  ]
+}

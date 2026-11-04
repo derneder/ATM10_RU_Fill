@@ -1,0 +1,6 @@
+{
+  "gui.ae2addonlib.SetAmount": "Задать количество",
+  "gui.tooltips.ae2addonlib.Disabled": "Отключено",
+  "gui.tooltips.ae2addonlib.Enabled": "Включено",
+  "gui.tooltips.ae2addonlib.InvalidHexInput": "Неверный hex-код"
+}

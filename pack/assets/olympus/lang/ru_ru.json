@@ -1,0 +1,13 @@
+{
+  "olympus.color.preset.defaults": "По умолчанию",
+  "olympus.color.preset.mc_colors": "Цвета чата",
+  "olympus.color.preset.recents": "Недавние",
+  "olympus.ui.back": "Назад",
+  "olympus.ui.cancel": "Отмена",
+  "olympus.ui.delete": "Удалить",
+  "olympus.ui.loading": "Загрузка...",
+  "olympus.ui.refresh": "Обновить",
+  "olympus.ui.tristate.false": "Нет",
+  "olympus.ui.tristate.true": "Да",
+  "olympus.ui.tristate.undefined": "Не задано"
+}

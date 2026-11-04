@@ -1,0 +1,17 @@
+{
+  "name": "Копировщик настроек машин",
+  "sortnum": 9,
+  "category": "justdirethings:items",
+  "icon": "justdirethings:machinesettingscopier",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Этот инструмент позволяет копировать настройки машин. Щёлкните правой кнопкой с Shift по $(l:justdirethings:machines)машине$(/l), чтобы скопировать её настройки, затем щёлкните правой кнопкой по другой машине, чтобы вставить их. Щёлкните в воздух, чтобы открыть меню и выбрать, какие именно настройки копировать."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание: копировщик настроек машин",
+      "recipe": "justdirethings:machinesettingscopier"
+    }
+  ]
+}

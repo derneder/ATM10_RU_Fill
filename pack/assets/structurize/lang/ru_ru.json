@@ -1,0 +1,10 @@
+{
+  "com.ldtteam.structurize.gui.replaceblock.info": "Выберите блок для замены",
+  "com.ldtteam.structurize.gui.scantool.item.tooltipclick": "Нажмите, чтобы подсветить эти блоки в мире",
+  "com.ldtteam.structurize.gui.scantool.show_hidden": "Отметьте, чтобы показывать скрытые блоки, полностью окружённые твёрдыми блоками",
+  "com.ldtteam.structurize.gui.scantool.show_visible": "Отметьте, чтобы показывать видимые блоки",
+  "com.ldtteam.structurize.gui.selectres.count": "Количество",
+  "com.ldtteam.structurize.gui.switchpack.authors": "Авторы: %s",
+  "com.ldtteam.structurize.gui.switchpack.list.empty": "Пакеты структур не найдены, пожалуйста, установите их",
+  "com.ldtteam.structurize.gui.switchpack.pack_disabled.hover_text": "Этот пакет отключён, так как существует только на клиенте. Чтобы использовать его, на сервере должен быть включён параметр '%s'."
+}

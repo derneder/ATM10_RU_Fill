@@ -1,0 +1,17 @@
+{
+  "name": "Грязевой компостер",
+  "icon": "industrialforegoing:sewage_composter",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "sortnum": 14,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Получив $(l:agr_hus/sewage)Грязь$(), этот механизм создаёт из неё $(l:agr_hus/fertilizer)Удобритель$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:sewage_composter"
+    }
+  ]
+}

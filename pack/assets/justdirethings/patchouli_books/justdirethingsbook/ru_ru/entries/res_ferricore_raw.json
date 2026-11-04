@@ -1,0 +1,17 @@
+{
+  "name": "Руда Ferricore",
+  "sortnum": 0,
+  "category": "justdirethings:resources",
+  "icon": "justdirethings:raw_ferricore_ore",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Когда железный блок поглощается слизью Primogel, он превращается в руду Ferricore. Добудьте этот блок, чтобы получить сырой Ferricore, который можно переплавить в $(l:justdirethings:res_ferricore)слитки Ferricore$(/l)."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "justdirethings:raw_ferricore",
+      "text": "Сырой Ferricore выпадает при разрушении руды Ferricore."
+    }
+  ]
+}

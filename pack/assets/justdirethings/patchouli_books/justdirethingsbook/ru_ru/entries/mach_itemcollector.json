@@ -1,0 +1,17 @@
+{
+  "name": "Сборщик предметов",
+  "sortnum": 1,
+  "category": "justdirethings:machines",
+  "icon": "justdirethings:itemcollector",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Сборщик предметов работает как $(l:justdirethings:mach_advanced_controls)продвинутая машина$(/l), хотя и создаётся из ресурсов 1-го уровня. Он засасывает все выпавшие предметы в зоне действия и помещает их в инвентарь, к которому подключён.$(br2)В интерфейсе можно настроить фильтр подбираемых предметов и при желании увеличить скорость подбора."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Простой разрушитель блоков",
+      "recipe": "justdirethings:itemcollector"
+    }
+  ]
+}

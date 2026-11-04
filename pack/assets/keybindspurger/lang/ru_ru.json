@@ -1,0 +1,6 @@
+{
+  "button.keybindspurger.purge": "Очистить все привязки в этой категории",
+  "button.keybindspurger.purge_all": "Очистить все привязки",
+  "button.keybindspurger.purge_non_vanilla": "Очистить все неванильные привязки",
+  "button.keybindspurger.reset": "Сбросить все привязки в этой категории"
+}

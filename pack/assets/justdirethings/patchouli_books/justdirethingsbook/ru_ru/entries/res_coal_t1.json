@@ -1,0 +1,12 @@
+{
+  "name": "Первобытный уголь",
+  "sortnum": 21,
+  "category": "justdirethings:resources",
+  "icon": "justdirethings:coal_t1",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Первобытный уголь — начальная стадия специального угля, получаемая при размещении угольного блока рядом со $(l:justdirethings:gooblock_tier1)слизью Primogel$(/l). Он горит заметно дольше обычного угля и вырабатывает больше FE/т в генераторах и в карманном генераторе."
+    }
+  ]
+}

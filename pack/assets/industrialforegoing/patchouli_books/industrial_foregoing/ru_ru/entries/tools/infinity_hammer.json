@@ -1,0 +1,21 @@
+{
+  "name": "Бесконечный молот",
+  "icon": "industrialforegoing:infinity_hammer",
+  "category": "industrialforegoing:tools",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Бесконечный молот — инструмент, позволяющий наносить урон врагам по площади. С повышением уровня открываются разные ступени $(6)обезглавливания$(), что позволяет легко добывать головы мобов."
+    },
+    {
+      "type": "text",
+      "text": "Если ударить им по земле правым кликом, он создаст эффект $(6)раскола$() земли в форме конуса перед игроком."
+    },
+    {
+      "type": "industrialforegoing:dissolution",
+      "recipe": "industrialforegoing:dissolution_chamber/infinity_hammer"
+    }
+  ]
+}

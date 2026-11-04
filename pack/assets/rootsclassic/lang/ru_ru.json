@@ -1,0 +1,20 @@
+{
+  "rootsclassic.configuration.barkKnifeBlockStripChance": "Шанс обтёсывания блока ножом для коры",
+  "rootsclassic.configuration.berriesDropChance": "Шанс выпадения ягод",
+  "rootsclassic.configuration.client": "Клиент",
+  "rootsclassic.configuration.disablePVP": "Отключить PvP",
+  "rootsclassic.configuration.dragonsEyeDropChance": "Шанс выпадения глаза дракона",
+  "rootsclassic.configuration.efficiencyBonusUses": "Доп. использования от «Эффективности»",
+  "rootsclassic.configuration.infernalStemDropChance": "Шанс выпадения адского стебля",
+  "rootsclassic.configuration.items": "Предметы",
+  "rootsclassic.configuration.magic": "Магия",
+  "rootsclassic.configuration.manaBarOffset": "Смещение полосы маны",
+  "rootsclassic.configuration.oldRootDropChance": "Шанс выпадения старого корня",
+  "rootsclassic.configuration.showTabletWave": "Показывать волну планшета",
+  "rootsclassic.configuration.staffChargeTicks": "Тики зарядки посоха",
+  "rootsclassic.configuration.staffUses": "Использования посоха",
+  "rootsclassic.configuration.staffUsesBasic": "Базовые использования посоха",
+  "rootsclassic.configuration.staffUsesEfficiency": "Использования посоха с «Эффективностью»",
+  "rootsclassic.configuration.ticksPerManaRegen": "Тиков на восстановление маны",
+  "rootsclassic.configuration.verdantSprigDropChance": "Шанс выпадения зелёной веточки"
+}

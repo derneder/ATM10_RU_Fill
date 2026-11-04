@@ -1,0 +1,13 @@
+{
+  "name": "Мусор (ведро)",
+  "icon": "industrialforegoing:sludge_bucket",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "sortnum": 2,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Жидкость, которую вырабатывает $(l:agr_hus/plant_gatherer)Сборщик растений$(). Используется в $(l:resource_production/sludge_refiner)Обогатителе грязи$()."
+    }
+  ]
+}

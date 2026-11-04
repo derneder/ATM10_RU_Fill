@@ -1,0 +1,21 @@
+{
+  "name": "Мицелиевый реактор",
+  "icon": "industrialforegoing:mycelial_reactor",
+  "category": "industrialforegoing:generators",
+  "sortnum": 2,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Используя $(6)мицелиевую сеть$() (подпространственную область, содержащую живую растительную массу гриба под названием мицелий), этот реактор может обнаруживать другие $(6)мицелиевые генераторы$() и вырабатывать огромное количество FE. $(br2)Для этого нужно, чтобы одновременно работало по одному экземпляру каждого генератора."
+    },
+    {
+      "type": "text",
+      "text": "Возможно, в будущем с помощью этой сети удастся открыть новые технологии."
+    },
+    {
+      "type": "industrialforegoing:dissolution",
+      "recipe": "industrialforegoing:dissolution_chamber/mycelial_reactor"
+    }
+  ]
+}

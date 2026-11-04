@@ -1,0 +1,13 @@
+{
+  "name": "Биотопливо (жидкость)",
+  "icon": "industrialforegoing:biofuel_bucket",
+  "category": "industrialforegoing:generators",
+  "sortnum": 1,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Пурпурная жидкость из растений, красителей и некоторых сомнительных вещей вроде черепов, получаемая в $(l:generators/bioreactor)Биогенераторе$(). $(br2)Используется в $(l:generators/biofuel_generator)Генераторе на биотопливе$() и в $(l:tools/infinity_tools)Бесконечных инструментах$()."
+    }
+  ]
+}
