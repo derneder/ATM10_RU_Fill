@@ -1,0 +1,17 @@
+{
+  "name": "Самонаводящаяся стрела",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_homing",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Повысьте точность с улучшением «Самонаводящаяся стрела». Снаряды, изменённые этим улучшением, будут искать цели поблизости, так что ваши выстрелы никогда не пролетят мимо."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание: улучшение «Самонаводящаяся стрела»",
+      "recipe": "justdirethings:upgrade_homing"
+    }
+  ]
+}

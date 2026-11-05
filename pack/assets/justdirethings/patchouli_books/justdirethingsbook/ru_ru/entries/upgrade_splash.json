@@ -1,0 +1,17 @@
+{
+  "name": "Разбрызгивание",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_splash",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Усильте свои дальние атаки с улучшением «Разбрызгивание». Оно превращает попадания стрел в эффекты разбрызгивания, распространяя воздействие на большую площадь."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание: улучшение «Разбрызгивание»",
+      "recipe": "justdirethings:upgrade_splash"
+    }
+  ]
+}

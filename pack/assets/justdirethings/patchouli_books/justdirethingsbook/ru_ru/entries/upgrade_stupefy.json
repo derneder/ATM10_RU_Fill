@@ -1,0 +1,17 @@
+{
+  "name": "Оглушение",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_stupefy",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Запутайте своих врагов с улучшением «Оглушение». Если посмотреть на врага и активировать эту способность горячей клавишей, он тут же забудет о вас!.$(br2)Кроме того, какое-то время он не сможет снова нацелиться на вас. У этой способности есть перезарядка!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание: улучшение «Оглушение»",
+      "recipe": "justdirethings:upgrade_stupefy"
+    }
+  ]
+}

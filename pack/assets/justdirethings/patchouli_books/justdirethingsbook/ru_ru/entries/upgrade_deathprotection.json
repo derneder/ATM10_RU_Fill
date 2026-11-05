@@ -1,0 +1,17 @@
+{
+  "name": "Защита от смерти",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_deathprotection",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Защититесь от смертельного урона с улучшением «Защита от смерти». Отмотайте время назад, к моменту до гибели, когда у вас было чуть больше здоровья!$(br2)Требует очень много Forge Energy и имеет очень долгую перезарядку."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание: улучшение «Защита от смерти»",
+      "recipe": "justdirethings:upgrade_deathprotection"
+    }
+  ]
+}

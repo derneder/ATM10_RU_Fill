@@ -1,0 +1,17 @@
+{
+  "name": "Вальщик деревьев",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_treefeller",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "«Вальщик деревьев» — пассивная способность, устанавливаемая на топоры из Ferricore и выше. Когда вы ломаете бревно, одновременно ломаются все соседние такие же блоки древесины.$(br2)Срубайте деревья одним взмахом!$(br2)Примечание: срубить целое дерево сразу занимает чуть больше времени, чем один блок!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание: улучшение «Вальщик деревьев»",
+      "recipe": "justdirethings:upgrade_treefeller"
+    }
+  ]
+}

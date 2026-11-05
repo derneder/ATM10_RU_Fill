@@ -1,0 +1,17 @@
+{
+  "name": "Добыча руды",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_oreminer",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Улучшение «Добыча руды» — пассивная способность, которую можно установить на кирки из Ferricore и выше. Оно автоматически добывает рудные блоки, соединённые с тем, который вы ломаете, — что-то вроде «добычи жилами», но только для руд и в автоматическом режиме."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание: улучшение «Добыча руды»",
+      "recipe": "justdirethings:upgrade_oreminer"
+    }
+  ]
+}

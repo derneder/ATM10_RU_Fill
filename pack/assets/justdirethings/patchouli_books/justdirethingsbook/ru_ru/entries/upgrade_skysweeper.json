@@ -1,0 +1,17 @@
+{
+  "name": "Очиститель неба",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_skysweeper",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "«Очиститель неба» — пассивная способность, устанавливаемая на лопаты из Ferricore и выше. Когда вы ломаете блок, подверженный гравитации (например, гравий или песок), все такие же блоки над ним тоже ломаются автоматически.  Больше никакого падающего гравия при добыче!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание: улучшение «Очиститель неба»",
+      "recipe": "justdirethings:upgrade_skysweeper"
+    }
+  ]
+}

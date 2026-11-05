@@ -1,0 +1,17 @@
+{
+  "name": "Отмена урона от падения",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_negatefalldamage",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Защититесь от случайных падений с улучшением «Отмена урона от падения». Оно поглощает весь урон от падения, обеспечивая безопасное приземление.$(br2)Примечание: на смягчение падения тратится энергия. Чем больше урона блокируется, тем больше энергии уходит. У ботинок из Celestigem энергии не так уж много...."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание: улучшение «Отмена урона от падения»",
+      "recipe": "justdirethings:upgrade_negatefalldamage"
+    }
+  ]
+}

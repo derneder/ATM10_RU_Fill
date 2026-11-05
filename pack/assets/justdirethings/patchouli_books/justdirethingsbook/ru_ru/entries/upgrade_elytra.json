@@ -1,0 +1,17 @@
+{
+  "name": "Элитры",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_elytra",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Парите в небесах с улучшением «Элитры». Оно оснащает вашу броню крыльями элитр, позволяя лететь, когда вы падаете."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание: улучшение «Элитры»",
+      "recipe": "justdirethings:upgrade_elytra"
+    }
+  ]
+}

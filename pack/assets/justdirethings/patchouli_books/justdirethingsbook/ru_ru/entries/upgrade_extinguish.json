@@ -1,0 +1,17 @@
+{
+  "name": "Тушение",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_extinguish",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Защититесь от огненной опасности с улучшением «Тушение». Это удобное улучшение автоматически тушит огонь на игроке, обеспечивая безопасность при внезапном возгорании.$(br2)Примечание: до повторного тушения нужно дождаться перезарядки. На броне более высоких уровней эта перезарядка короче."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание: улучшение «Тушение»",
+      "recipe": "justdirethings:upgrade_extinguish"
+    }
+  ]
+}

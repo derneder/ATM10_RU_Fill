@@ -1,0 +1,17 @@
+{
+  "name": "Стрела Йонду",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_epicarrow",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Улучшение «Стрела Йонду» заставляет ваши стрелы искать цели и наносить урон цепочкой сразу нескольким врагам. Идеально для борьбы с толпами.$(br2)Это активная способность. После активации следующая выпущенная вами стрела будет перескакивать с одного моба на другого — до 10 раз!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание: улучшение «Стрела Йонду»",
+      "recipe": "justdirethings:upgrade_epicarrow"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Газонокосилка",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_lawnmower",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Улучшение «Газонокосилка» — активная способность, которую можно установить на лопаты из Ferricore и выше. При её активации вся трава и цветы поблизости будут скошены, а их предметы выпадут на землю."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание: улучшение «Газонокосилка»",
+      "recipe": "justdirethings:upgrade_lawnmower"
+    }
+  ]
+}

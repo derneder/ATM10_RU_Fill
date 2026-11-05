@@ -1,0 +1,17 @@
+{
+  "name": "Помощь при подъёме",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_stepheight",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Улучшение «Помощь при подъёме» позволяет без усилий заходить на целые блоки, не прыгая. Плавно преодолевайте местность и не сбавляйте темп."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание: улучшение «Помощь при подъёме»",
+      "recipe": "justdirethings:upgrade_stepheight"
+    }
+  ]
+}

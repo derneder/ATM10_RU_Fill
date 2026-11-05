@@ -1,0 +1,17 @@
+{
+  "name": "Копчение",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_smoker",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Улучшите свои кулинарные возможности с улучшением «Копчение». Любой дроп с мобов будет автоматически коптиться! Сырая говядина превратится в стейк.$(br2)Тратит часть прочности."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание: улучшение «Копчение»",
+      "recipe": "justdirethings:upgrade_smoker"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Длительный эффект",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_lingering",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Усильте область действия с улучшением «Длительный эффект». Оно заставляет зелья, выпущенные из лука, оставлять после себя долго действующее облако, продлевая их воздействие на окружение и врагов."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание: улучшение «Длительный эффект»",
+      "recipe": "justdirethings:upgrade_lingering"
+    }
+  ]
+}
