@@ -1,43 +1,79 @@
 <p align="center"><img src="logo.png" width="256" alt="Логотип: буква Я из золотых блоков на парящем острове"></p>
 
-# ATM10 — русский перевод
+# Bukvar: ATM10 Russian Translation
 
-Неофициальный ресурспак, который дополняет русскую локализацию сборки **All the Mods 10** (версия 8.4, Minecraft 1.21.1, NeoForge). Переводит то, что в модах осталось на английском. Там, где у мода уже есть хороший русский перевод, пакет его не трогает.
+An unofficial Russian translation add-on for **All the Mods 10 (ATM10)**. It fills in missing Russian translations for mods and their in-game content. If a mod already has a good Russian translation, this pack leaves it unchanged.
 
-> **Предварительная версия.** В игре пакет ещё не проверялся, гайды переведены частично.
+## What's Included
 
-## Что внутри (версия 8.4-r1)
+- **75,187 translated strings across 336 mods:** item and block names, tooltips, user interfaces, settings, achievements, and book texts.
+- **260 in-game guide files:** complete translations for Allthemodium, LaserIO, and Industrial Foregoing, with a partial translation for Just Dire Things. Other guides are still in progress.
+- **New Neo Vitae translation:** 3,493 strings translated using a consistent terminology glossary, including the mod's book.
+- **Missing translations in existing Russian language files:** Occultism, Mahou Tsukai, JourneyMap, Productive Bees, Ars Elemental, Sodium Extra, and others.
+
+### Mods That Needed the Most Translation Work
+
+AllTheCompressed, Auroral, Bibliocraft Legacy, Cable Tiers, Camol, Chipped, Chisel Reborn, Dyenamics, Everything is Copper, Luminax, MEGA Cells, Modern Dynamics, More Red, MrCrayfish's Furniture, Pam's HarvestCraft, RFTools, Rechiseled, Starbunclemania, Step Crafter, Steve's Carts 2, Sushi Go Crafting, Tempad.
+
+## Installation
+
+1. Place the downloaded file into your modpack's `resourcepacks` folder. Do not extract it.
+2. Launch the game and open **Options → Resource Packs**.
+3. Move **ATM10_RU_Fill** to the right-hand column. If you use another Russian resource pack, place this one above it.
+4. Make sure Russian is selected in the language settings.
+
+## Compatibility
+
+This pack is made for **ATM10 8.4** (Minecraft 1.21.1, NeoForge). Some strings may remain in English when using other modpack versions.
+
+## Translation Process
+
+The translation was created with the help of AI (Claude), while decorative block names were generated using terminology glossaries. Terms were cross-checked against Minecraft's official Russian localization, translated ATM10 quests, and Russian language files provided by the mods themselves. Formatting codes were checked automatically.
+
+The text has been selectively reviewed rather than checked line by line. The pack has not yet been fully tested in-game, so inaccuracies may occur. If you find an error, please leave a comment with the mod name, item or text, and the suggested correction.
+
+## Copyright and Disclaimer
+
+This is an unofficial project and is not affiliated with the All the Mods team or the authors of the included mods. All rights to the mods, their names, and original texts belong to their respective authors. This pack contains translations only, with no mod code or textures.
+
+If you are a mod author and do not want your mod's translation included in this pack, please contact me and I will remove it.
+
+---
+
+# Букварь: русификатор ATM10
+
+Дополняет русскую локализацию сборки **All the Mods 10**: переводит то, что в модах осталось на английском. Там, где у мода уже есть хороший русский перевод, пакет его не трогает.
+
+## Что внутри
 
 - **75 187 строк в 336 модах:** названия предметов и блоков, подсказки, интерфейс, настройки, достижения и тексты книг.
-- **260 файлов гайдов:** полностью Allthemodium, LaserIO и Industrial Foregoing, частично Just Dire Things (121 файл из 164). Остальные гайды в работе.
+- **260 файлов гайдов:** полностью Allthemodium, LaserIO и Industrial Foregoing, частично Just Dire Things. Остальные гайды в работе.
 - **Новый перевод Neo Vitae:** 3493 строки по единому словарю терминов, включая книгу мода.
 - **Строки, оставшиеся английскими в русских файлах модов:** Occultism, Mahou Tsukai, JourneyMap, Productive Bees, Ars Elemental, Sodium Extra и другие.
 
+### Моды, которым больше всего не хватало перевода
+
+AllTheCompressed, Auroral, Bibliocraft Legacy, Cable Tiers, Camol, Chipped, Chisel Reborn, Dyenamics, Everything is Copper, Luminax, MEGA Cells, Modern Dynamics, More Red, MrCrayfish's Furniture, Pam's HarvestCraft, RFTools, Rechiseled, Starbunclemania, Step Crafter, Steve's Carts 2, Sushi Go Crafting, Tempad.
+
 ## Установка
 
-1. Скачайте zip со страницы [Releases](https://github.com/derneder/ATM10_RU_Fill/releases).
-2. Положите его в папку `resourcepacks` вашей сборки. Распаковывать не нужно.
-3. В игре откройте **Настройки → Наборы ресурсов** и перенесите **ATM10_RU_Fill** в правый столбец. Если вы используете другой русский пакет, поставьте этот выше него.
+1. Положите скачанный файл в папку `resourcepacks` вашей сборки. Распаковывать его не нужно.
+2. Запустите игру и откройте **Настройки → Наборы ресурсов**.
+3. Перенесите **ATM10_RU_Fill** в правый столбец. Если вы используете другой русский пакет, поставьте этот выше него.
+4. Проверьте, что в настройках языка выбран русский.
 
-В других версиях сборки часть строк может остаться на английском.
+## Версии
+
+Пакет сделан для **ATM10 8.4** (Minecraft 1.21.1, NeoForge). В других версиях сборки часть строк может остаться на английском.
 
 ## Как сделан перевод
 
 Перевод выполнен с помощью ИИ (Claude), а названия декоративных блоков собраны генератором по словарям. Термины сверялись с ванильным русским переводом Minecraft, переведёнными квестами ATM10 и русскими файлами самих модов. Коды форматирования проверены автоматически.
 
-Текст вычитан выборочно, а не построчно, поэтому неточности возможны. Если заметили ошибку, откройте [issue](https://github.com/derneder/ATM10_RU_Fill/issues): мод, название предмета или строки и как правильно.
-
-## Что в репозитории
-
-- `pack/` — содержимое ресурспака, то же, что в zip.
-- `logo.png` и `description.md` — логотип и текст страницы для CurseForge.
+Текст вычитан выборочно, а не построчно, и в игре пакет пока не проверялся, поэтому неточности возможны. Если заметили ошибку, напишите в комментариях: мод, название предмета или строки и как правильно.
 
 ## Авторские права
 
-Это неофициальный проект, он не связан с командой All the Mods и авторами модов. Права на моды, их названия и исходные тексты принадлежат их авторам. Пакет содержит только переводы, без кода и текстур. Лицензия на сам перевод пока не указана.
+Это неофициальный проект, он не связан с командой All the Mods и авторами модов. Права на моды, их названия и исходные тексты принадлежат их авторам. Пакет содержит только переводы, без кода и текстур.
 
-Если вы автор мода и не хотите, чтобы перевод вашего мода был здесь, откройте issue, и он будет убран.
-
----
-
-**English:** Unofficial add-on that fills in the missing Russian translation for All the Mods 10 (8.4). Language files and in-game guides only, no code or textures. Not yet tested in game. Mod authors who want their mod removed can open an issue.
+Если вы автор мода и не хотите, чтобы перевод вашего мода был здесь, напишите мне, и я его уберу.
