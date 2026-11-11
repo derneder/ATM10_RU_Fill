@@ -207,5 +207,6 @@
   "valuetype.integratedscripting.error.translation.unknown_from_graal": "Не найден преобразователь из значений Graal %s.",
   "valuetype.integratedscripting.error.translation.unknown_to_graal": "Не найден преобразователь из значений %s в Graal.",
   "valuetype.integratedscripting.error.translation.unknown_to_graal_nbt": "Не найден преобразователь из значений %s в Graal при преобразовании NBT.",
-  "valuetype.integratedscripting.error.translation.unsupported_translateToNbt": "Недопустимое преобразование %s «%s» в NBT."
+  "valuetype.integratedscripting.error.translation.unsupported_translateToNbt": "Недопустимое преобразование %s «%s» в NBT.",
+  "_comment": "------ Содержимое «О динамике интеграции» ------"
 }

@@ -1,5 +1,6 @@
 {
   "bezoar.effect": "Излечивает отравление",
   "bladder.effect": "Излечивает утомление",
-  "charcoal.effect": "Излечивает иссушение"
+  "charcoal.effect": "Излечивает иссушение",
+  "quick.snack": "Съедается быстро!"
 }

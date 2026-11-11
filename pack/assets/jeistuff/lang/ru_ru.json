@@ -62,5 +62,7 @@
   "jeistuff.tooltip.chance_unknown": "Шанс: неизвестен",
   "jeistuff.tooltip.or": " или ",
   "jeistuff.trade.tier.1": "Обычный",
-  "jeistuff.trade.tier.2": "Редкий"
+  "jeistuff.trade.tier.2": "Редкий",
+  "jeistuff.ore.biomes": "%s +%s",
+  "jeistuff.tooltip.page": "%s (%s/%s)"
 }

@@ -469,5 +469,6 @@
   "item.merrymaking.white_bulbs": "Белые лампочки",
   "item.merrymaking.white_wires": "Белый провод",
   "tooltip.merrymaking.mug_cocoa": "§ Холодная кружка какао... вы правда хотите это пить? § ",
-  "tooltip.merrymaking.mug_cocoa_shift": "Удерживайте §bSHIFT§b, чтобы узнать больше!"
+  "tooltip.merrymaking.mug_cocoa_shift": "Удерживайте §bSHIFT§b, чтобы узнать больше!",
+  "item.merrymaking.mug_cocoa_shift": ""
 }

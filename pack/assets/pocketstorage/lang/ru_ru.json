@@ -25,5 +25,6 @@
   "pocketstorage.util.sneak_left": "Shift + ЛКМ",
   "pocketstorage.util.sneak_right": "Shift + ПКМ",
   "pocketstorage.util.upgrade": "Хранилище улучшено.",
-  "pocketstorage.util.withdraw": "%s по сундуку — забрать совпадающее содержимое."
+  "pocketstorage.util.withdraw": "%s по сундуку — забрать совпадающее содержимое.",
+  "pocketstorage.util.empty": "<  >"
 }

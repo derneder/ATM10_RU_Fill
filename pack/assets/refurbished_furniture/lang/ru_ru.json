@@ -650,5 +650,7 @@
   "subtitle.refurbished_furniture.wrench_connected_link": "Связь подключена",
   "subtitle.refurbished_furniture.wrench_hover_link": "Наведение на связь",
   "subtitle.refurbished_furniture.wrench_remove_link": "Связь удалена",
-  "subtitle.refurbished_furniture.wrench_selected_node": "Узел выделен"
+  "subtitle.refurbished_furniture.wrench_selected_node": "Узел выделен",
+  "gui.refurbished_furniture.node_count": "%s / %s",
+  "gui.refurbished_furniture.progress": "%s %s %s"
 }

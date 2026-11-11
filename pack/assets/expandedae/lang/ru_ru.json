@@ -67,5 +67,7 @@
   "item.expandedae.pattern_refiller_card.tooltip.1": "Автоматически пополняет пустые шаблоны",
   "item.expandedae.upgrade.tooltip": "Улучшить: %s",
   "item.expandedae.wireless_exp_encoding_terminal": "Беспроводной расширенный терминал кодирования шаблонов",
-  "itemGroup.eae": "Expanded AE"
+  "itemGroup.eae": "Expanded AE",
+  "group.pattern_provider.name": "МЭ поставщик шаблонов",
+  "gui.expandedae.buttons.pattern.div": "§c÷%d§f"
 }

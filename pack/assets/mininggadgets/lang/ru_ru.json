@@ -1,3 +1,23 @@
 {
-  "itemGroup.mininggadgets": "Mining Gadgets"
+  "itemGroup.mininggadgets": "Mining Gadgets",
+  "item.mininggadgets.mininggadget_fancy": "Горный гаджет MK2",
+  "item.mininggadgets.mininggadget_simple": "Горный гаджет MK1",
+  "item.mininggadgets.upgrade_battery_creative": "Улучшение: Творческая батарея",
+  "item.mininggadgets.upgrade_size_2": "Улучшение: 5x5",
+  "item.mininggadgets.upgrade_size_3": "Улучшение: 7x7",
+  "mininggadgets.text.empty_table_helper": "Щёлкните с зажатым Shift, чтобы вставить из ваших слотов,\nили бросьте улучшение на этот экран.\n\nЩёлкните по улучшению, чтобы извлечь его.",
+  "mininggadgets.text.modification_table": "Стол модификаций",
+  "mininggadgets.text.open_gui": "Открыть настройки гаджета",
+  "mininggadgets.tooltip.screen.beam_preview": "Предпросмотр луча",
+  "mininggadgets.tooltip.screen.block_break_style": "Стиль разрушения",
+  "mininggadgets.tooltip.screen.blue": "Синий",
+  "mininggadgets.tooltip.screen.green": "Зелёный",
+  "mininggadgets.tooltip.screen.inner_color": "Цвет внутреннего луча",
+  "mininggadgets.tooltip.screen.outer_color": "Цвет внешнего свечения",
+  "mininggadgets.tooltip.screen.red": "Красный",
+  "mininggadgets.tooltip.screen.sizemode.auto": "Автоматический",
+  "mininggadgets.tooltip.screen.sizemode.normal": "Обычный режим",
+  "mininggadgets.tooltip.screen.sizemode.pathway": "2 вниз (дорожки)",
+  "tooltop.mininggadgets.paver": "Прокладывает дорожку под вами во время копания",
+  "tooltop.mininggadgets.size": "Позволяет копать с большим радиусом"
 }

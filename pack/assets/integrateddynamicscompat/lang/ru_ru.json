@@ -210,5 +210,6 @@
   "operator.operators.integrateddynamics.thaumcraft.aspect.israwaspectequal": "Равенство исходных аспектов",
   "operator.operators.integrateddynamics.thaumcraft.aspect.israwaspectequal.info": "Равны ли заданные исходные аспекты.",
   "valuetype.integrateddynamics.error.thaumcraftaspect.no_aspect": "Вставленный предмет не содержит аспектов.",
-  "valuetype.valuetypes.integrateddynamics.thaumcraftaspect": "Аспект Thaumcraft"
+  "valuetype.valuetypes.integrateddynamics.thaumcraftaspect": "Аспект Thaumcraft",
+  "_comment": "# Аспекты"
 }

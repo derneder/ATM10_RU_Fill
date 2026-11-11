@@ -23,5 +23,21 @@
   "tooltip.modonomicon.condition.has_visible_entries": "Требуются видимые записи в категории %s",
   "tooltip.modonomicon.condition.mod_loaded": "Требуется загруженный мод: %s",
   "tooltip.modonomicon.no_book_found_for_stack": "В базе книг Modonomicon не найдена книга для этого предмета! NBT: %s",
-  "tooltip.modonomicon.recipe.crafting_shapeless": "Бесформенный"
+  "tooltip.modonomicon.recipe.crafting_shapeless": "Бесформенный",
+  "book.modonomicon.demo.features.file_pages.anchored.text": "Эта страница удаляется файловой страницей `20_remove_by_anchor.json`.\nЕсли файловые страницы работают, вы никогда не увидите этот текст.\n",
+  "book.modonomicon.demo.features.file_pages.anchored.title": "Будет удалена (по якорю)",
+  "book.modonomicon.demo.features.file_pages.appended.text": "Эта страница была добавлена файловой страницей `50_append_extra.json`. \\\nУ неё нет цели, поэтому она добавлена в конец записи.\n",
+  "book.modonomicon.demo.features.file_pages.appended.title": "Добавленная страница",
+  "book.modonomicon.demo.features.file_pages.description": "Запись, демонстрирующая файловые страницы: замену, добавление и удаление отдельных страниц.",
+  "book.modonomicon.demo.features.file_pages.indexed.text": "Эта страница удаляется файловой страницей `10_remove_by_index.json`.\nЕсли файловые страницы работают, вы никогда не увидите этот текст.\n",
+  "book.modonomicon.demo.features.file_pages.indexed.title": "Будет удалена (по индексу)",
+  "book.modonomicon.demo.features.file_pages.name": "Файловые страницы",
+  "book.modonomicon.demo.features.file_pages.removed.text": "Эта страница удаляется файловой страницей `30_remove_by_id.json`.\nЕсли файловые страницы работают, вы никогда не увидите этот текст.\n",
+  "book.modonomicon.demo.features.file_pages.removed.title": "Будет удалена (по идентификатору)",
+  "book.modonomicon.demo.features.file_pages.replaced.text": "Эта страница заменяется файловой страницей `40_override_by_id.json`.\nЕсли файловые страницы работают, вы читаете замену, а не этот текст.\n",
+  "book.modonomicon.demo.features.file_pages.replaced.title": "Будет заменена",
+  "book.modonomicon.demo.features.file_pages.replacement.text": "Этот текст взят из файловой страницы `40_override_by_id.json`, \\\nкоторая заменила исходную страницу с идентификатором `replaced`.\n",
+  "book.modonomicon.demo.features.file_pages.replacement.title": "Заменяющая страница",
+  "book.modonomicon.demo.features.file_pages.staying.text": "Эта страница не является целью ни одной файловой страницы, поэтому она остаётся.\nУ неё выполняется `load_condition` (мод загружен: modonomicon).\n",
+  "book.modonomicon.demo.features.file_pages.staying.title": "Остающаяся страница"
 }

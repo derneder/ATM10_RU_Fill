@@ -553,5 +553,6 @@
   "screen.iceandfire.client.title": "Клиентские настройки Ice And Fire",
   "screen.iceandfire.common.title": "Общие настройки Ice And Fire",
   "text.iceandfire.not_enable": "Сначала включите эту функцию в настройках!",
-  "warning.iceandfire.dreadland.not_complete": "Ужасные земли ещё не доделаны. Пожалуйста, не сообщайте об ошибках с потерей содержимого!"
+  "warning.iceandfire.dreadland.not_complete": "Ужасные земли ещё не доделаны. Пожалуйста, не сообщайте об ошибках с потерей содержимого!",
+  "entity.iceandfire.hippogryph.": ""
 }

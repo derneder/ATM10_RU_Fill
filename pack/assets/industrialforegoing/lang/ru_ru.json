@@ -94,5 +94,8 @@
   "tooltip.industrialforegoing.hydroponic.simulating": "Симуляция: ",
   "tooltip.industrialforegoing.type": "Тип: ",
   "tooltip.titanium.facing_handler.seed": "Симулированное семя",
-  "tooltip.titanium.facing_handler.simulation": "Процессор гидропонной симуляции"
+  "tooltip.titanium.facing_handler.simulation": "Процессор гидропонной симуляции",
+  "tooltip.industrialforegoing.hydroponic.drop_format": " - %s%s x %s",
+  "tooltip.industrialforegoing.sec_short": "с",
+  "tooltip.industrialforegoing.tick_short": "т"
 }

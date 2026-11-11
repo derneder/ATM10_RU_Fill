@@ -698,5 +698,14 @@
   "stories.beginning.stevescarts.stop": "Если хотите, теперь можете нажать кнопку «Стоп», чтобы остановить его.",
   "stories.beginning.stevescarts.thanks": "Спасибо за игру! :)",
   "stories.beginning.stevescarts.title": "Начало",
-  "stories.beginning.stevescarts.trackOperator": "Вы — путевой оператор, ваша задача — следить, чтобы рельсы были настроены правильно. Нажимайте на развилки, чтобы сменить их направление, прежде чем нажать кнопку «Старт»."
+  "stories.beginning.stevescarts.trackOperator": "Вы — путевой оператор, ваша задача — следить, чтобы рельсы были настроены правильно. Нажимайте на развилки, чтобы сменить их направление, прежде чем нажать кнопку «Старт».",
+  "arcade.stevescarts.creeperHighScore": "[%1]: [%2] с",
+  "gui.stevescarts.transferBucketShort": "B",
+  "gui.stevescarts.transferItemsShort": "I",
+  "gui.stevescarts.transferStacksShort": "S",
+  "modules.addons.stevescarts.informationProviderMessagePosition": "X: [%1] Y: [%2] Z: [%3]",
+  "modules.addons.stevescarts.powerThousandSuffix": "K",
+  "modules.attachments.stevescarts.controlSystemDistanceUnits": "[%1->|к|М|Г|Т|П]м",
+  "modules.attachments.stevescarts.shooterFrequency": "#/с",
+  "modules.attachments.stevescarts.shooterSeconds": "с"
 }

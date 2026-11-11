@@ -5,5 +5,6 @@
   "config.jade.plugin_treetap.tap": "Краник",
   "item.treetap.tap.modifier": "Модификатор скорости: %s",
   "jei.treetap.life_cycle.all_year": "Круглый год",
-  "jei.treetap.tap_extract": "Подсочка деревьев"
+  "jei.treetap.tap_extract": "Подсочка деревьев",
+  "jei.treetap.life_cycle.months": "%s"
 }

@@ -50,5 +50,6 @@
   "tooltip.titanium.tank.fluid": "Жидкость: ",
   "tooltip.titanium.tank.no_action": "Нельзя заполнить или слить из предмета",
   "tooltip.titanium.tank.no_tank": "<Нет резервуара на курсоре>",
-  "tooltip.titanium.unlocks": "Открывает:"
+  "tooltip.titanium.unlocks": "Открывает:",
+  "tooltip.titanium.sec_short": "с"
 }

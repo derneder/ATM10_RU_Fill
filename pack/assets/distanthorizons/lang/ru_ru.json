@@ -486,5 +486,6 @@
   "distanthorizons.updater.update.@tooltip": "Обновляет мод один раз\n(обновление при закрытии игры)",
   "distanthorizons.updater.updateAvailable": "§lДоступно новое обновление!",
   "distanthorizons.updater.updateConfirmation": "§fОбновить с %s§f до %s§f?",
-  "distanthorizons.updater.waitingForClose": "Distant Horizons завершит обновление после перезапуска игры"
+  "distanthorizons.updater.waitingForClose": "Distant Horizons завершит обновление после перезапуска игры",
+  "distanthorizons.general.spacer": ""
 }

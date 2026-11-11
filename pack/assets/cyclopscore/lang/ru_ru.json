@@ -11,5 +11,6 @@
   "infobook.cyclopscore.external": "Веб-версия",
   "infobook.cyclopscore.keybinding": "Привязка клавиш",
   "infobook.cyclopscore.keybindings": "Привязки клавиш",
-  "itemGroup.cyclopscore": "Cyclops Core"
+  "itemGroup.cyclopscore": "Cyclops Core",
+  "_comment": "# Ванильные дополнения"
 }

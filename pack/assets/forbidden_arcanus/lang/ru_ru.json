@@ -138,5 +138,6 @@
   "modifier.forbidden_arcanus.demolishing": "Разрушительный",
   "modifier.forbidden_arcanus.magnetized": "Намагниченный",
   "modifier.forbidden_arcanus.soulbound": "Привязанный к душе",
-  "upgrade.forbidden_arcanus.darkstone_upgrade": "Применить модификатор предмета"
+  "upgrade.forbidden_arcanus.darkstone_upgrade": "Применить модификатор предмета",
+  "tooltip.forbidden_arcanus.essence.storage_format": "%s / %s"
 }

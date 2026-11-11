@@ -99,5 +99,6 @@
   "op.brandonscore.op_transfer": "Передача OP",
   "op.brandonscore.operational_potential": "Операционный потенциал",
   "struct_build.brandonscore.found_invalid": "Ошибка постройки: неподходящий блок «%s» на %s.",
-  "struct_build.brandonscore.missing_required": "Ошибка постройки: невозможно завершить структуру! Не хватает блоков: «%s»."
+  "struct_build.brandonscore.missing_required": "Ошибка постройки: невозможно завершить структуру! Не хватает блоков: «%s».",
+  "mod_gui.brandonscore.energy_bar.io": "Ввод/вывод"
 }

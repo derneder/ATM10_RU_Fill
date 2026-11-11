@@ -160,5 +160,10 @@
   "tooltip.irons_spellbooks.slowed_description": "Магическое замедление: -%d%%",
   "ui.irons_spellbooks.echoing_hits": "Эхо-ударов: %d",
   "ui.irons_spellbooks.percent_health": "Здоровье: %d%%",
-  "ui.irons_spellbooks.taunt_range": "Радиус провокации: %d"
+  "ui.irons_spellbooks.taunt_range": "Радиус провокации: %d",
+  "potion.potency.10": "X",
+  "potion.potency.6": "VI",
+  "potion.potency.7": "VII",
+  "potion.potency.8": "XIII",
+  "potion.potency.9": "IX"
 }

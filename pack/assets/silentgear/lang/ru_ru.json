@@ -559,5 +559,18 @@
   "trait.silentgear.wind_blast": "Порыв ветра",
   "trait.silentgear.wind_blast.desc": "При атаке создаёт порыв ветра",
   "trait.silentgear.yummy": "Вкуснятина",
-  "trait.silentgear.yummy.desc": "Делает предмет съедобным, но..."
+  "trait.silentgear.yummy.desc": "Делает предмет съедобным, но...",
+  "grade.silentgear.A": "A",
+  "grade.silentgear.B": "B",
+  "grade.silentgear.C": "C",
+  "grade.silentgear.D": "D",
+  "grade.silentgear.E": "E",
+  "grade.silentgear.S": "S",
+  "item.silentgear.custom_gem": "%s",
+  "misc.silentgear.space": " ",
+  "property.silentgear.armorFormat": "%1$s (%2$s)",
+  "property.silentgear.displayFormat": "%1$s §r§8:§r %2$s",
+  "property.silentgear.durabilityFormat": "%1$s / %2$s",
+  "property.silentgear.harvest_tier.withLevelHint": "%s (%s)",
+  "property.silentgear.traits.displayWithDescription": "%1$s§r§7: %2$s"
 }

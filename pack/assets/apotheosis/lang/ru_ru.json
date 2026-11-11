@@ -65,5 +65,6 @@
   "subtitle.apotheosis.music_disc.shimmer": "Чемберлен Кайфри — Shimmer",
   "text.apotheosis.malice_notice_final": "Злоба сплетается с %s и полностью овладевает вашим предметом!",
   "tier_augment.apotheosis.damage_reduction": "+%s%% к сопротивлению: %s",
-  "title.apotheosis.stoneforming": "Камнеформинг"
+  "title.apotheosis.stoneforming": "Камнеформинг",
+  "misc.apotheosis.attribute_toggle.state": "[%s]"
 }

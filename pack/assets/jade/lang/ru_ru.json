@@ -122,5 +122,10 @@
   "narration.jade.brewingStand.fuel": "Топливо: %s",
   "narration.jade.by": "Сделано с любовью Snownee. Нажмите кнопку, чтобы посмотреть все мои работы!",
   "toast.jade.please_wait.1": "Пожалуйста, подождите...",
-  "toast.jade.please_wait.2": "Это может занять несколько секунд."
+  "toast.jade.please_wait.2": "Это может занять несколько секунд.",
+  "jade.access.block.door_open": "%s (открыто)",
+  "jade.customNameEntity": "%s (%s)",
+  "jade.fluid.text": "%s: %s",
+  "jade.fluid.with_capacity": "%s / %s",
+  "jade.typeNameEntity": "%s (%s)"
 }

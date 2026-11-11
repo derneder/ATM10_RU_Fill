@@ -1,4 +1,5 @@
 {
   "gui.ae2.Resume": "Продолжить",
-  "gui.ae2.Suspend": "Приостановить"
+  "gui.ae2.Suspend": "Приостановить",
+  "dimension.ae2.spatial_storage": "Пространственное хранилище"
 }

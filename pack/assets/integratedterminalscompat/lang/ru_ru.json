@@ -16,5 +16,6 @@
   "gui.integratedterminalscompat.terminal_storage.jei.transfer.craft.info_cmd": "Cmd + клик для запуска автокрафта",
   "gui.integratedterminalscompat.terminal_storage.jei.transfer.craftable": "Предметы, доступные для автокрафта",
   "gui.integratedterminalscompat.terminal_storage.jei.transfer.craftable_partial": "Предметы, частично доступные для автокрафта",
-  "gui.integratedterminalscompat.terminal_storage.jei.transfer.missing": "Недостающие предметы"
+  "gui.integratedterminalscompat.terminal_storage.jei.transfer.missing": "Недостающие предметы",
+  "_comment": "# Интерфейс"
 }

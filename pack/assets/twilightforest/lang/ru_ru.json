@@ -580,5 +580,8 @@
   "twilightforest.tips.trollber_ripening": "Убийство тролля заставляет созреть ближайший тролльбер.",
   "twilightforest.tips.trophy_pedestal": "Пьедестал для трофеев можно добыть только после активации.",
   "twilightforest.tips.uncrafting_table": "Разборочный стол нужен не только для разбирания предметов. С его помощью можно переделывать одни предметы в другие, чинить инструменты и броню и переносить зачарования между снаряжением!",
-  "twilightforest.tips.wrought_iron": "Кованые железные слитки нельзя получить обычным способом — только разбирая сделанные из них блоки."
+  "twilightforest.tips.wrought_iron": "Кованые железные слитки нельзя получить обычным способом — только разбирая сделанные из них блоки.",
+  "misc.twilightforest.ore_meter_ratio": "(%s%%)",
+  "misc.twilightforest.ore_meter_separator": "-",
+  "travellers_gear.info_indent": "  ⤷ "
 }

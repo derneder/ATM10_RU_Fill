@@ -6,5 +6,6 @@
   "gui.cookingforblockheads.moved_to_oven": "Перемещено в духовку",
   "tooltip.cookingforblockheads.kitchen_upgrade": "Улучшение кухни",
   "tooltip.cookingforblockheads.missing_cooking_pot": "Отсутствует кухонный котёл для готовки",
-  "tooltip.cookingforblockheads.sort_by_eatenness": "Сортировать по съеденному"
+  "tooltip.cookingforblockheads.sort_by_eatenness": "Сортировать по съеденному",
+  "gui.cookingforblockheads.feedback_stacked": "%s x%d"
 }

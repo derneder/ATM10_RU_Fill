@@ -12,5 +12,10 @@
   "ftbchunks.config.server.flowing_fluid_protection": "Защита от растекания жидкостей",
   "ftbchunks.config.server.flowing_fluid_protection.tooltip": "Если true, жидкости не растекаются по горизонтали между приватами разных команд (если у целевого привата нет публичного разрешения «edit block»).\nПо умолчанию false; включение может вызвать проблемы с производительностью сервера, так как тики растекания жидкостей проверяются очень часто, особенно для больших водоёмов\nЕсли 'disable_protection' имеет значение true, эта настройка игнорируется.",
   "ftbchunks.gui.edit": "Изменить",
-  "ftbchunks.gui.edit_waypoint": "Изменить путевую точку"
+  "ftbchunks.gui.edit_waypoint": "Изменить путевую точку",
+  "ftbchunks.admin_bypass_reminder": "Напоминание: обход защиты FTB Chunks для администраторов сейчас включён.\nПереключить его можно командой '/ftbchunks admin bypass_protection'.",
+  "ftbchunks.config.server.nether_portal_creation": "Создание незерского портала",
+  "ftbchunks.config.server.nether_portal_creation.tooltip": "Что делать, если игра попытается создать незерский портал для игрока в чанке, занятом чужой командой\nno_portal: разрешить телепортацию, но не создавать структуру портала\nfailure: полностью запретить телепортацию\nallow: просто создать портал как обычно",
+  "ftbchunks.nether_portal.failure": "Невозможно телепортироваться сюда: создание удалённого портала запрещено!",
+  "ftbchunks.nether_portal.no_portal": "Телепортация разрешена, создание портала запрещено"
 }

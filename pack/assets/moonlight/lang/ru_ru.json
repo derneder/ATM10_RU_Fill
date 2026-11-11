@@ -248,5 +248,10 @@
   "tooltip.moonlight.media.partner_server": "Нужен сервер? Арендуйте его в %s",
   "tooltip.moonlight.media.patreon": "Поддержите меня на Patreon :D",
   "tooltip.moonlight.media.twitter": "Страница в Twitter",
-  "tooltip.moonlight.media.youtube": "Канал на YouTube"
+  "tooltip.moonlight.media.youtube": "Канал на YouTube",
+  "commands.moonlight.registry.element": "%s : %s",
+  "commands.moonlight.registry.registry_key": "%s",
+  "moonlight.config.common.x": "X",
+  "moonlight.config.common.y": "Y",
+  "moonlight.config.common.z": "Z"
 }

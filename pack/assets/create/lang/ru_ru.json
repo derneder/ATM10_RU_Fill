@@ -11,5 +11,12 @@
   "create.keyinfo.alt_modifier": "Модификатор Alt",
   "create.keyinfo.ctrl_modifier": "Модификатор Ctrl",
   "create.keyinfo.shift_modifier": "Модификатор Shift",
-  "tag.item.c.foods.dough.wheat": "Пшеничное тесто"
+  "tag.item.c.foods.dough.wheat": "Пшеничное тесто",
+  "create.schematic.tool.flip.description.3": "",
+  "create.schematic.tool.move.description.3": "",
+  "create.schematic.tool.move_y.description.2": "",
+  "create.schematic.tool.move_y.description.3": "",
+  "create.schematic.tool.print.description.3": "",
+  "create.schematic.tool.rotate.description.2": "",
+  "create.schematic.tool.rotate.description.3": ""
 }

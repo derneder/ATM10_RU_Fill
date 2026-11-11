@@ -209,5 +209,19 @@
   "tag.moonlight.amendments.soft_fluid.cant_extinguish": "Не тушит",
   "tag.moonlight.amendments.soft_fluid.cant_go_in_liquid_cauldron": "Нельзя налить в котёл для жидкостей",
   "tag.moonlight.amendments.soft_fluid.no_tint_in_cauldron": "Без окраски в котле",
-  "tag.worldgen.amendments.structure.add_potion_cauldron": "Добавлять котёл с зельем"
+  "tag.worldgen.amendments.structure.add_potion_cauldron": "Добавлять котёл с зельем",
+  "amendments.configuration.container_pickup": "Подбор в контейнер",
+  "amendments.configuration.container_pickup.held_container_pickup": "Подбор в контейнер в руке",
+  "amendments.configuration.container_pickup.held_container_pickup.description": "Подобранные предметы сразу попадают в мешок, шалкеровый ящик или любой другой предмет с инвентарём, находящийся в выбранной руке (руках). Добавьте предметы в тег amendments:held_pickup_blacklist, чтобы исключить их",
+  "amendments.configuration.container_pickup.pickup_sound": "Звук подбора",
+  "amendments.configuration.container_pickup.pickup_sound.description": "Воспроизводит звук, когда предмет подбирается в контейнер в руке",
+  "amendments.configuration.hotbar_slot_animation": "Анимация слота панели быстрого доступа",
+  "amendments.configuration.hotbar_slot_animation.opaque_behavior": "Поведение при непрозрачной текстуре",
+  "amendments.configuration.hotbar_slot_animation.opaque_behavior.description": "Поведение анимации, когда текстура выделения непрозрачна. NONE — оставляет её поверх предметов, IN_BACKGROUND — перемещает за них, TURNS_OFF — отключает анимацию",
+  "amendments.configuration.hotbar_slot_animation.speed": "Скорость",
+  "amendments.configuration.hotbar_slot_animation.speed.description": "Выбранный слот панели быстрого доступа плавно перемещается на новое место. Чем больше значение, тем быстрее; 0 — как в ванильной игре",
+  "amendments.configuration.hotbar_slot_animation.wrap": "Зацикливание",
+  "amendments.configuration.hotbar_slot_animation.wrap.description": "Переходит ли анимация слота панели быстрого доступа через её края",
+  "amendments.configuration.misc.candle_holder_item_size": "Размер подсвечника в руке",
+  "amendments.configuration.misc.candle_holder_item_size.description": "Размер подсвечников, когда они находятся в руке"
 }

@@ -75,5 +75,7 @@
   "text.extended_industrialization.electric_beacon_beam_obstructed": "Луч заблокирован",
   "text.extended_industrialization.electric_beacon_eu_cost_tooltip": "Потребление: %s",
   "text.extended_industrialization.electric_beacon_help": "Расходует зелья и даёт их эффекты всем игрокам поблизости на половину длительности, потребляя %s на эффект.",
-  "text.extended_industrialization.electric_beacon_remaining_time_tooltip": "Оставшееся время эффекта: %s"
+  "text.extended_industrialization.electric_beacon_remaining_time_tooltip": "Оставшееся время эффекта: %s",
+  "text.extended_industrialization.farmer_enhanced_fortune": "При использовании %s вся добыча будет увеличена, а не только та, на которую обычно влияет %s.",
+  "text.extended_industrialization.machine_chainer_help_max_transfer": "Может передавать лишь в %s раз больше энергии, чем кабели его напряжения."
 }

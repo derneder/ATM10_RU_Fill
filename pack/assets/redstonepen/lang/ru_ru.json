@@ -62,5 +62,13 @@
   "redstonepen.overlay.remote_saved": "Связь сохранена: %4$s [%1$s, %2$s, %3$s]",
   "redstonepen.overlay.repeater_delay": " %1$sт",
   "redstonepen.tooltip.hint.extended": "§6[§9shift§r Подробнее§6]§r",
-  "redstonepen.tooltip.hint.help": "§6[§9ctrl-shift§r Справка§6]§r"
+  "redstonepen.tooltip.hint.help": "§6[§9ctrl-shift§r Справка§6]§r",
+  "language": "Русский",
+  "language.code": "ru_ru",
+  "language.region": "Россия",
+  "redstonepen.overlay.direct_power": "[%1$s]",
+  "redstonepen.overlay.direct_power_at": "[%1$s] @ %2$s",
+  "redstonepen.overlay.indirect_power": "(%1$s) @ %2$s",
+  "redstonepen.overlay.track_power": "<%1$s>",
+  "redstonepen.overlay.wire_power": "<%1$s>"
 }

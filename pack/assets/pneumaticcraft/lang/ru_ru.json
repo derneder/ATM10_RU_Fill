@@ -280,5 +280,13 @@
   "pneumaticcraft.waila.tubeModule.threshold_temp": "Порог: §e%d °C",
   "pneumaticcraft.waila.tubeModule.threshold_temp_bounds": "Границы порога: §e%d - §e%d °C",
   "programmingPuzzle.pneumaticcraft.condition_dimension.name": "Условие - Измерение",
-  "programmingPuzzle.pneumaticcraft.jump_sub.name": "Перейти к подпрограмме"
+  "programmingPuzzle.pneumaticcraft.jump_sub.name": "Перейти к подпрограмме",
+  "pneumaticcraft.armor.gui.misc.forge_energy": "Forge Energy",
+  "pneumaticcraft.entityTracker.label.main": "Основной",
+  "pneumaticcraft.entityTracker.label.stopped": "Остановлено",
+  "pneumaticcraft.gui.misc.depthMeters": "%d м",
+  "pneumaticcraft.gui.progWidget.area.type.axis.x": "X",
+  "pneumaticcraft.gui.progWidget.area.type.axis.y": "Y",
+  "pneumaticcraft.gui.progWidget.area.type.axis.z": "Z",
+  "pneumaticcraft.gui.tubeModule.celsius": "°C"
 }

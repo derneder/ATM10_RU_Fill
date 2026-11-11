@@ -146,5 +146,7 @@
   "starbunclemania.wixie_cauldron.cutting_board.tooltip": "Используйте талисман Викси на разделочной доске. Тогда Викси будут использовать рецепты разделочной доски",
   "starbunclemania.wixie_cauldron.mixer.tooltip": "Используйте талисман Викси на жидкостной банке. Тогда Викси будут брать молоко и воду из боковых баков для рецептов крафта вместо вёдер.",
   "starbunclemania.wixie_cauldron.smelting.tooltip": "Используйте талисман Викси на печи. Тогда Викси будут использовать рецепты плавки и копчения.",
-  "starbunclemania.wixie_cauldron.stonecutting.tooltip": "Используйте талисман Викси на камнерезе. Тогда Викси будут использовать рецепты камнереза"
+  "starbunclemania.wixie_cauldron.stonecutting.tooltip": "Используйте талисман Викси на камнерезе. Тогда Викси будут использовать рецепты камнереза",
+  "ars_nouveau.starbuncle.default_behavior": "По умолчанию: перенос предметов",
+  "starbunclemania.glyph_name.glyph_": ""
 }

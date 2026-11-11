@@ -194,5 +194,17 @@
   "units.bookshelf.week.plural": "Недели",
   "units.bookshelf.year": "Год",
   "units.bookshelf.year.abbreviated": "г.",
-  "units.bookshelf.year.plural": "Годы"
+  "units.bookshelf.year.plural": "Годы",
+  "__formatting": "",
+  "format.bookshelf.center": "%s : %s",
+  "format.bookshelf.left": "%s :%s",
+  "format.bookshelf.none": "%s%s",
+  "format.bookshelf.right": "%s: %s",
+  "format.bookshelf.spaced": "%s %s",
+  "format.bookshelf.unit_rate": "%s/%s",
+  "units.bookshelf.day.abbreviated": "д",
+  "units.bookshelf.hour.abbreviated": "ч",
+  "units.bookshelf.minute.abbreviated": "мин",
+  "units.bookshelf.second.abbreviated": "с",
+  "units.bookshelf.tick.abbreviated": "т"
 }

@@ -45,5 +45,6 @@
   "jei.astralsorcery.info.altar.recipe_constellation.unknown": "Требуется фокус неизвестного созвездия.",
   "jei.astralsorcery.info.altar.recipe_night": "Создаётся только ночью",
   "perk.modifier_type.addition.astralsorcery.negative": " к",
-  "screen.astralsorcery.element.structure_marker": "Идентификатор маркера сооружения"
+  "screen.astralsorcery.element.structure_marker": "Идентификатор маркера сооружения",
+  "ingredient.astralsorcery.lumen_engraving.description.element": "- %s"
 }

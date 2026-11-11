@@ -25,5 +25,6 @@
   "item.bhc.red_heartpulse_belt": "Красный пояс сердцебиения",
   "item.bhc.yellow_heartpulse_belt": "Жёлтый пояс сердцебиения",
   "tooltip.bhc.heart_drops": "Выпадает из:",
-  "tooltip.bhc.hold_shift_for_drops": "Удерживайте SHIFT, чтобы узнать источники"
+  "tooltip.bhc.hold_shift_for_drops": "Удерживайте SHIFT, чтобы узнать источники",
+  "tooltip.bhc.drop_info": "%s: %s%%"
 }

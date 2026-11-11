@@ -7,5 +7,9 @@
   "gui.trophy.pose.sitting": "Сидя",
   "gui.trophy.pose.standing": "Стоя",
   "gui.trophy.size": "Размер: %s",
-  "trophymanager.trophy.name": "Трофей: %s"
+  "trophymanager.trophy.name": "Трофей: %s",
+  "block.trophymanager.trophy": "Трофей",
+  "gui.apply": "Применить",
+  "gui.trophy.rotation": "%s: %s°",
+  "trophymanager.tooltip.trophy.scale": "Масштаб: %s"
 }

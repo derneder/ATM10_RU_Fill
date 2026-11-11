@@ -717,5 +717,15 @@
   "tooltip.logisticsnetworks.wrench.mode.wrench": "Гаечный ключ",
   "tooltip.logisticsnetworks.wrench.storage_linked": "Связан с %s",
   "tooltip.logisticsnetworks.wrench.storage_linked_detail": "%s в [%s, %s, %s] (%s)",
-  "tooltip.logisticsnetworks.wrench.storage_unlinked": "Сеть хранения не привязана"
+  "tooltip.logisticsnetworks.wrench.storage_unlinked": "Сеть хранения не привязана",
+  "gui.logisticsnetworks.computer.flow.window.120": "2 мин",
+  "gui.logisticsnetworks.computer.flow.window.30": "30 с",
+  "gui.logisticsnetworks.computer.flow.window.60": "1 мин",
+  "gui.logisticsnetworks.computer.nodes_unknown": "--",
+  "gui.logisticsnetworks.computer.position": "%s %s,%s,%s",
+  "gui.logisticsnetworks.computer.telemetry.unit.items": "/с",
+  "gui.logisticsnetworks.filter.info.icon": "i",
+  "gui.logisticsnetworks.node.page_info": "%s-%s / %s",
+  "gui.logisticsnetworks.node.sort.az": "А-Я",
+  "gui.logisticsnetworks.node.sort.za": "Я-А"
 }

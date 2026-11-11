@@ -129,5 +129,6 @@
   "modularrouters.itemText.usage.item.energy_distributor_module": "Распределяет по беспроводной связи энергию FE из энергобуфера маршрутизатора или предмета с энергией в буфере предметов между ближайшими блоками, хранящими энергию",
   "modularrouters.itemText.usage.item.energy_output_module": "Выталкивает энергию FE из энергобуфера маршрутизатора или предмета с энергией в буфере предметов",
   "modularrouters.itemText.usage.item.energy_upgrade": "Увеличивает ёмкость энергобуфера маршрутизатора на %d FE и скорость передачи на %d FE/тик маршрутизатора",
-  "modularrouters.itemText.usage.item.tag_filter": "Фильтрует предметы по тегам, к которым они относятся."
+  "modularrouters.itemText.usage.item.tag_filter": "Фильтрует предметы по тегам, к которым они относятся.",
+  "modularrouters.guiText.label.inspectionSubject.none": ""
 }

@@ -15,5 +15,8 @@
   "tombstone.message.readable.success": "Вы получили ранее найденные свитки истории %1$s: %2$s/%3$s",
   "tombstone.message.unknown_narrative": "Неизвестное повествование: %s",
   "tombstone.message.watcher_knowledge_4.find_nights_of_nour": "Нужно найти все части Ночей Нур",
-  "tombstone.message.watcher_knowledge_4.unlocked": "Ашкар наконец свободен и в знак благодарности оставляет вам летающий ковёр"
+  "tombstone.message.watcher_knowledge_4.unlocked": "Ашкар наконец свободен и в знак благодарности оставляет вам летающий ковёр",
+  "bonus.tombstone.enhanced_grave_prayer": "Улучшает ваши молитвы у могил, наделяя множеством полезных эффектов",
+  "tombstone.item.ritual_flute.use": "Нажмите ПКМ по подходящему блоку, чтобы сыграть мелодию, связанную с изученным ритуалом",
+  "tombstone.message.heal_coral.success": "Вы оживили мёртвый коралл"
 }

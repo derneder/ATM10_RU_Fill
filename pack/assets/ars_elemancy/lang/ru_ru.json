@@ -182,5 +182,13 @@
   "tooltip.ars_elemancy.focus_boost.silt": "Усиливает и удешевляет глифы школ Земли и Воздуха.",
   "tooltip.ars_elemancy.focus_boost.tempest": "Усиливает и удешевляет глифы школ Воды и Воздуха.",
   "tooltip.ars_elemancy.focus_boost.vapor": "Усиливает и удешевляет глифы школ Огня и Воды.",
-  "tooltip.ars_elemancy.focus_element": "Фокус, настроенный на определённую стихию, наделяет некоторые глифы новыми эффектами."
+  "tooltip.ars_elemancy.focus_element": "Фокус, настроенный на определённую стихию, наделяет некоторые глифы новыми эффектами.",
+  "ars_elemental.armor_set.heavy.name": "Стойкость боевого мага",
+  "ars_elemental.armor_set.light.desc": "Поглощая урон своей стихии, на короткое время повышает шанс критического удара заклинаний.",
+  "ars_elemental.armor_set.light.name": "Ярость чародея",
+  "ars_elemental.armor_set.medium.desc": "Поглощая урон своей стихии, на короткое время даёт скидку на ману. В полном комплекте часть поглощённого урона преобразуется в ману.",
+  "ars_elemental.armor_set.medium.name": "Мудрость арканиста",
+  "ars_elemental.armor_set.school_set.desc": "Бонус комплекта школы (4 части одной стихии).",
+  "ars_elemental.armor_set.set_bonus.desc": "Бонус комплекта брони (требуется 2 или 4 части).",
+  "ars_nouveau.school.elemental": "Усиливает глифы всех 4 школ и снижает их стоимость."
 }

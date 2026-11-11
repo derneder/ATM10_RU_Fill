@@ -24,5 +24,6 @@
   "tooltip.keybindbundles.bundle.edit_entry": "ЛКМ, чтобы изменить запись",
   "tooltip.keybindbundles.bundle.move_clockwise": "ПКМ, чтобы сдвинуть запись по часовой стрелке",
   "tooltip.keybindbundles.bundle.move_counterclockwise": "Shift + ПКМ, чтобы сдвинуть запись против часовой стрелки",
-  "tooltip.keybindbundles.delete_bundle": "Удалить набор клавиш"
+  "tooltip.keybindbundles.delete_bundle": "Удалить набор клавиш",
+  "keybindbundles.configuration.toggleMenu": "Переключать меню набора клавиш вместо удерживания"
 }

@@ -38,5 +38,17 @@
   "ui.irons_jewelry.primary_part.innate": "Врождённый множитель качества этого шаблона: x%s",
   "ui.irons_jewelry.primary_part_header": "Основная деталь:",
   "ui.irons_jewelry.quality": "Качество",
-  "ui.irons_jewelry.quality.description": "Если %s используется как основная деталь украшения, сила всех бонусов умножается на %s"
+  "ui.irons_jewelry.quality.description": "Если %s используется как основная деталь украшения, сила всех бонусов умножается на %s",
+  "action.irons_jewelry.apply_effect.description": "(%s %s, %s)",
+  "action.irons_jewelry.apply_effect.description_instantaneous": "(%s %s)",
+  "part.irons_jewelry.band_bane_ring": "Основа",
+  "part.irons_jewelry.chain_rhinestone": "Цепочка",
+  "part.irons_jewelry.gem_rhinestone_a": "Страз",
+  "part.irons_jewelry.gem_rhinestone_b": "Страз",
+  "part.irons_jewelry.gem_rhinestone_c": "Страз",
+  "part.irons_jewelry.skull_bane_ring": "Череп",
+  "pattern.irons_jewelry.bane_ring": "Кольцо гибели",
+  "pattern.irons_jewelry.bane_ring.item": "Кольцо гибели (%1$s)",
+  "pattern.irons_jewelry.rhinestone_amulet": "Амулет со стразами",
+  "pattern.irons_jewelry.rhinestone_amulet.item": "Амулет со стразами (%1$s-%2$s-%3$s)"
 }

@@ -72,5 +72,6 @@
   "item.generatorgalore.obsidian_to_enchantment_upgrade": "Улучшение обсидианового генератора до генератора на зачарованиях",
   "item.generatorgalore.obsidian_to_ender_upgrade": "Улучшение обсидианового генератора до генератора Эндера",
   "item.generatorgalore.obsidian_to_magmatic_upgrade": "Улучшение обсидианового генератора до магматического",
-  "itemGroup.generatorgalore": "Генераторы Generator Galore"
+  "itemGroup.generatorgalore": "Генераторы Generator Galore",
+  "generatorgalore.screen.fluid_level": "%s: %s"
 }

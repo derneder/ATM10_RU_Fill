@@ -158,5 +158,9 @@
   "key.tempad.travel_timeline": "Открыть приложение Tempad «Хронология путешествий»",
   "upgrade.tempad.knowledge_repository": "Просмотр хранилища знаний",
   "upgrade.tempad.new_location": "Создание сохранённых местоположений",
-  "upgrade.tempad.player_teleport": "Телепортация к игрокам"
+  "upgrade.tempad.player_teleport": "Телепортация к игрокам",
+  "app.tempad.portal_setup.front_back": "П/З: ",
+  "app.tempad.portal_setup.left_right": "Л/П: ",
+  "app.tempad.portal_setup.up_down": "В/Н: ",
+  "key.tempad": ""
 }

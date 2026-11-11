@@ -38,5 +38,6 @@
   "message.rftoolsstorage.storage_scanner.gold": "Бонус наполнения: снижено энергопотребление",
   "message.rftoolsstorage.storage_scanner.header": "Эта машина сканирует все инвентари поблизости и показывает их списком. Затем можно искать предметы в этих инвентарях и получать к ним доступ",
   "message.rftoolsstorage.tablet_scanner.gold": "Планшет со ссылкой на сканер хранилищ: ПКМ — интерфейс сканера, присесть + ПКМ — интерфейс планшета",
-  "message.rftoolsstorage.tablet_scanner.header": "Планшет для доступа к удалённым интерфейсам и информации"
+  "message.rftoolsstorage.tablet_scanner.header": "Планшет для доступа к удалённым интерфейсам и информации",
+  "_comment": "# Сообщения"
 }

@@ -56,5 +56,8 @@
   "info_book.integratedterminals.tutorials.storage_terminal_ender.text1": "Помимо хранилища вашей сети, &lТерминал хранилища&r может дать доступ и к вашему личному &lЭндер-сундуку&r. Для этого терминал сначала нужно &oэндер-улучшить&r.",
   "info_book.integratedterminals.tutorials.storage_terminal_ender.text2": "Чтобы пройти этот учебник, установите &lТерминал хранилища&r на &lКабель&r и нажмите по нему правой кнопкой мыши с &lОком Эндера&r. &lОко Эндера&r израсходуется, а в интерфейсе терминала появится новая вкладка &lЭндер-хранилище&r. Если снова сломать терминал, &lОко Эндера&r вернётся к вам.",
   "info_book.integratedterminals.tutorials.storage_terminal_ender.text3": "То же самое можно сделать с &lПортативным терминалом хранилища&r, объединив его с &lОком Эндера&r в сетке крафта.",
-  "item.integratedterminals.terminal_storage_portable.ender_upgraded": "Эндер-улучшен"
+  "item.integratedterminals.terminal_storage_portable.ender_upgraded": "Эндер-улучшен",
+  "gui.integratedterminals.terminal_crafting_job.craftingplan.duration.unknown": "?",
+  "gui.integratedterminals.terminal_crafting_job.craftingplan.progress.short": "%s%%",
+  "gui.integratedterminals.terminal_storage.tooltip.channel_quantity": "  %s: %s"
 }

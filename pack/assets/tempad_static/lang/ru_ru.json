@@ -66,5 +66,121 @@
   "screen.tempad.marker.yoffset": "Смещение портала по Y:",
   "subtitles.tempad.entity.timedoor.open": "Открывается временная дверь",
   "tempad.error.timedoor_already_open": "Временная дверь уже открыта",
-  "tempad.tooltip.player_pos": "Цель: %s"
+  "tempad.tooltip.player_pos": "Цель: %s",
+  "dimension.minecraft.overworld": "Верхний мир",
+  "dimension.minecraft.the_end": "Энд",
+  "dimension.minecraft.the_nether": "Незер",
+  "gui.tempad.x": "X: %s",
+  "gui.tempad.y": "Y: %s",
+  "gui.tempad.z": "Z: %s",
+  "location.tempad.saved": [
+    "",
+    {
+      "text": "Сохранённая точка: ",
+      "color": "#ff6f00"
+    },
+    {
+      "index": 0,
+      "color": "#91450d"
+    }
+  ],
+  "location.tempad.player.error": [
+    "",
+    {
+      "text": "Ошибка: ",
+      "color": "#ff6f00"
+    },
+    {
+      "text": "Точки игроков нельзя сохранять",
+      "color": "#91450d"
+    }
+  ],
+  "entity.tempad.timedoor.fail": [
+    "",
+    {
+      "text": "Ошибка: ",
+      "color": "#ff6f00"
+    },
+    {
+      "text": "Не удалось открыть временную дверь",
+      "color": "#91450d"
+    }
+  ],
+  "entity.tempad.timedoor.fail.pos": [
+    "",
+    {
+      "text": "Ошибка: ",
+      "color": "#ff6f00"
+    },
+    {
+      "text": "Позиция не инициализирована",
+      "color": "#91450d"
+    }
+  ],
+  "entity.tempad.timedoor.fail.interdimensional": [
+    "",
+    {
+      "text": "Ошибка: ",
+      "color": "#ff6f00"
+    },
+    {
+      "text": "Перемещение между измерениями запрещено",
+      "color": "#91450d"
+    }
+  ],
+  "entity.tempad.timedoor.fail.intradimensional_all": [
+    "",
+    {
+      "text": "Ошибка: ",
+      "color": "#ff6f00"
+    },
+    {
+      "text": "Перемещение внутри измерений запрещено",
+      "color": "#91450d"
+    }
+  ],
+  "entity.tempad.timedoor.fail.intradimensional": [
+    "",
+    {
+      "text": "Ошибка: ",
+      "color": "#ff6f00"
+    },
+    {
+      "text": "Перемещение внутри этого измерения запрещено",
+      "color": "#91450d"
+    }
+  ],
+  "entity.tempad.timedoor.fail.leaving": [
+    "",
+    {
+      "text": "Ошибка: ",
+      "color": "#ff6f00"
+    },
+    {
+      "text": "Выход из этого измерения запрещён",
+      "color": "#91450d"
+    }
+  ],
+  "entity.tempad.timedoor.fail.entering": [
+    "",
+    {
+      "text": "Ошибка: ",
+      "color": "#ff6f00"
+    },
+    {
+      "text": "Вход в это измерение запрещён",
+      "color": "#91450d"
+    }
+  ],
+  "entity.tempad.timedoor.fail.no_chronons": [
+    "",
+    {
+      "text": "Ошибка: ",
+      "color": "#ff6f00"
+    },
+    {
+      "text": "Недостаточно хрононов",
+      "color": "#91450d"
+    }
+  ]
 }

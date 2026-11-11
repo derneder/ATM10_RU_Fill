@@ -74,5 +74,6 @@
   "text.modern_industrialization.FuelEfficiencyItemNormal": "Принимает твёрдое топливо с обычной эффективностью.",
   "text.modern_industrialization.MachineMultipleRecipes1": "Входные ресурсы подходят более чем под один рецепт.",
   "text.modern_industrialization.MachineMultipleRecipes2": "Заблокируйте все выходные слоты, причём хотя бы один — на нужный результат.",
-  "text.modern_industrialization.MeWire": "Передаёт %s ME-каналов, как ME-кабели из флюиса, но не может подключаться к подчастям. Делит блок с трубами и кабелями Modern Industrialization (не более 3)."
+  "text.modern_industrialization.MeWire": "Передаёт %s ME-каналов, как ME-кабели из флюиса, но не может подключаться к подчастям. Делит блок с трубами и кабелями Modern Industrialization (не более 3).",
+  "item_tooltip.modern_industrialization.cable.line_0": " "
 }

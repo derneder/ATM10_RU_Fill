@@ -39,5 +39,9 @@
   "part.bigreactors.energizer.chargingportfe": "Порт зарядки (FE)",
   "part.bigreactors.energizer.controller": "Контроллер",
   "part.bigreactors.energizer.powerportfe": "Порт питания FE (пассивный)",
-  "part.bigreactors.energizer.powerportfe_active": "Порт питания FE (активный)"
+  "part.bigreactors.energizer.powerportfe_active": "Порт питания FE (активный)",
+  "gui.bigreactors.energizer.controller.capacity.tooltip.value": "  %1$s",
+  "gui.bigreactors.energizer.controller.input.tooltip.value": "  @0",
+  "gui.bigreactors.energizer.controller.io.tooltip.value": "  @0",
+  "gui.bigreactors.energizer.controller.output.tooltip.value": "  @0"
 }

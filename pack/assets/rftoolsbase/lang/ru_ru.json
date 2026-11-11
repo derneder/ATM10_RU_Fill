@@ -52,5 +52,6 @@
   "message.rftoolsbase.tablet.gold": "Пустой планшет: откройте интерфейс, чтобы совместить его с подходящим информационным предметом",
   "message.rftoolsbase.tablet.header": "Планшет для доступа к удалённым интерфейсам и информации",
   "message.rftoolsbase.tablet_filled.gold": "Планшет с информацией: ПКМ — интерфейс информации, присесть + ПКМ — интерфейс планшета",
-  "message.rftoolsbase.tablet_filled.header": "Планшет для доступа к удалённым интерфейсам и информации"
+  "message.rftoolsbase.tablet_filled.header": "Планшет для доступа к удалённым интерфейсам и информации",
+  "_comment": "# Сообщения"
 }

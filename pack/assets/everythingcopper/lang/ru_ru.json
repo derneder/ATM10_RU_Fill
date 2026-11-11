@@ -353,5 +353,6 @@
   "item.everythingcopper.weathered_copper_shears": "Состаренные медные ножницы",
   "item.everythingcopper.weathered_copper_shield": "Состаренный медный щит [WIP]",
   "item.everythingcopper.weathered_copper_shovel": "Выветренная медная лопата",
-  "item.everythingcopper.weathered_copper_sword": "Выветренный медный меч"
+  "item.everythingcopper.weathered_copper_sword": "Выветренный медный меч",
+  "everythingcopper.screen.fluid_level": "%s: %s"
 }

@@ -74,5 +74,6 @@
   "transmog.irons_lib.standard_wizard_hat": "Шляпа волшебника",
   "transmog.irons_lib.standard_wizard_robes": "Мантия волшебника",
   "transmog.irons_lib.traveler": "Путешественник",
-  "transmog.irons_lib.witchhunter": "Охотник на ведьм"
+  "transmog.irons_lib.witchhunter": "Охотник на ведьм",
+  "tooltip.irons_lib.shift_tooltip": "[%s] +"
 }

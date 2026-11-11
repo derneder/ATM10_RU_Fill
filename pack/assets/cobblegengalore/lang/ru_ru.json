@@ -1,0 +1,12 @@
+{
+  "block.cobblegengalore.block_gen_copper": "Генератор медных блоков",
+  "block.cobblegengalore.block_gen_diamond": "Генератор алмазных блоков",
+  "block.cobblegengalore.block_gen_emerald": "Генератор изумрудных блоков",
+  "block.cobblegengalore.block_gen_gold": "Генератор золотых блоков",
+  "block.cobblegengalore.block_gen_iron": "Генератор железных блоков",
+  "block.cobblegengalore.block_gen_netherite": "Генератор незеритовых блоков",
+  "block.cobblegengalore.block_gen_stone": "Генератор каменных блоков",
+  "block_gen.tooltip": "Модификатор скорости: %s",
+  "jei.cobblegengalore.blockgen": "Генератор блоков",
+  "jei.cobblegengalore.consumed": "Исходный блок расходуется"
+}

@@ -52,5 +52,6 @@
   "artifacts.tooltip.ability.phantom_repellent": "Шипит на атакующих фантомов",
   "artifacts.tooltip.missing_dependency": "Установите Curios, Trinkets или Accessories, чтобы использовать этот предмет",
   "effect.artifacts.magnetism": "Магнетизм",
-  "tag.item.artifacts.slot.face": "Артефакты для слота лица"
+  "tag.item.artifacts.slot.face": "Артефакты для слота лица",
+  "artifacts.tooltip.plus_mob_effect_chance": "+%s (%s%%)"
 }

@@ -15,5 +15,6 @@
   "ars_creo.page1.ars_creo.fluid_tank": "Зелья можно хранить в жидкостном баке Create и перекачивать между баками с помощью труб.",
   "ars_creo.page1.starbuncle_wheel": "Генерирует вращательную силу для Create. Если поставить золотой блок перед колесом, скорость вращения увеличится.",
   "block.ars_creo.starbuncle_wheel": "Колесо Звездоуха",
-  "itemGroup.ars_creo.general": "Ars Creo"
+  "itemGroup.ars_creo.general": "Ars Creo",
+  "ars_creo.display_source.turret.spell": "%s"
 }

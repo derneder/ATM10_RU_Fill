@@ -26,5 +26,7 @@
   "sophisticatedcore.configuration.sortButtonsPosition.hidden": "Скрыты",
   "sophisticatedcore.configuration.sortButtonsPosition.title_line_right": "Справа в строке заголовка",
   "tooltip.sophisticatedcore.linked_storage.primary": "Главное связанное",
-  "tooltip.sophisticatedcore.linked_storage.secondary": "Связанное"
+  "tooltip.sophisticatedcore.linked_storage.secondary": "Связанное",
+  "tooltip.sophisticatedcore.linked_storage.primary_named": "%s (%s)",
+  "tooltip.sophisticatedcore.linked_storage.secondary_named": "%s (%s)"
 }

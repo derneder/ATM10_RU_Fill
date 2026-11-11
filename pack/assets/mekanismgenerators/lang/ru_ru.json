@@ -160,5 +160,7 @@
   "tag.item.c.buckets.tritium": "Вёдра жидкого трития",
   "tag.mekanism.chemical.mekanism.deuterium": "Дейтерий",
   "tag.mekanism.chemical.mekanism.fusion_fuel": "Д-Т топливо",
-  "tag.mekanism.chemical.mekanism.tritium": "Тритий"
+  "tag.mekanism.chemical.mekanism.tritium": "Тритий",
+  "tag.fluid.c.deuterium": "Дейтерий",
+  "tag.fluid.c.tritium": "Тритий"
 }

@@ -2767,5 +2767,10 @@
   "item.chisel.zelda.emerald_block": "Изумрудный блок в стиле Zelda",
   "item.chisel.zelda.lapis_block": "Лазуритовый блок в стиле Zelda",
   "item.chisel.zelda.stone": "Камень в стиле Zelda",
-  "rei.chisel.category": "Рецепты зубила"
+  "rei.chisel.category": "Рецепты зубила",
+  "chisel.deprecated": "Устарело, не используйте",
+  "gui.chisel.chisel": "Долото",
+  "item.chisel.chisel": "Долото",
+  "itemGroup.chisel.chisel": "Chisel",
+  "subtitles.chisel.chisel_sound": "Обтёсывание блоков"
 }

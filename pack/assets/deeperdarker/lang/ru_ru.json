@@ -56,5 +56,9 @@
   "tag.item.deeperdarker.sonic_weapon": "Звуковое оружие",
   "tag.item.deeperdarker.transmitter": "Передатчик",
   "tooltips.deeperdarker.sculk_transmitter.location_level": "Измерение: %s",
-  "upgrade.deeperdarker.resonarium_upgrade": "Резонариевое улучшение"
+  "upgrade.deeperdarker.resonarium_upgrade": "Резонариевое улучшение",
+  "item.minecraft.lingering_potion.effect.glowing": "Туманное зелье свечения",
+  "item.minecraft.potion.effect.glowing": "Зелье свечения",
+  "item.minecraft.splash_potion.effect.glowing": "Взрывное зелье свечения",
+  "item.minecraft.tipped_arrow.effect.glowing": "Стрела свечения"
 }

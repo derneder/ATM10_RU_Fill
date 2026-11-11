@@ -251,5 +251,8 @@
   "numprefix.draconicevolution.10-6": " Мега ",
   "numprefix.draconicevolution.10-60": " Новемдециллион ",
   "numprefix.draconicevolution.10-63": " Вигинтиллион ",
-  "numprefix.draconicevolution.10-9": " Гига "
+  "numprefix.draconicevolution.10-9": " Гига ",
+  "block.draconicevolution.structure_block": "",
+  "gui.draconicevolution.dislocator.add_1": "+1",
+  "gui.draconicevolution.dislocator.add_16": "+16"
 }

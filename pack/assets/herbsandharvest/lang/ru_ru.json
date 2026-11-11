@@ -875,5 +875,7 @@
   "tooltip.item.herbsandharvest.zucchini.seed_info": "Для посадки: семена цуккини",
   "tooltip.item.herbsandharvest.zucchini_seeds.crop_info": "Урожай: цуккини",
   "tooltip.item.spice_jar.amount": "Количество: %s",
-  "tooltip.item.spice_jar.contents": "Содержит: "
+  "tooltip.item.spice_jar.contents": "Содержит: ",
+  "herbsandharvest.guide_book.chapters.pantry_caption": "",
+  "tooltip.item.herbsandharvest.lasagna_pan.meal_info2": ""
 }
