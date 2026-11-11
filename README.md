@@ -6,8 +6,9 @@ An unofficial Russian translation add-on for **All the Mods 10 (ATM10)**. It fil
 
 ## What's Included
 
-- **75,187 translated strings across 336 mods:** item and block names, tooltips, user interfaces, settings, achievements, and book texts.
-- **260 in-game guide files:** complete translations for Allthemodium, LaserIO, and Industrial Foregoing, with a partial translation for Just Dire Things. Other guides are still in progress.
+- **75,185 translated strings across 336 mods:** item and block names, tooltips, user interfaces, settings, achievements, and book texts.
+- **337 in-game guide files:** complete translations for Allthemodium, LaserIO, Industrial Foregoing, and Just Dire Things, plus the start of the AE2 guide (34 of 126 files). Other guides are still in progress.
+- **Quest translation (8,415 strings):** the game does not read quest text from resource packs, so `quests_ru/ru_ru.snbt` has to be copied manually — instructions are in `quests_ru/README.txt`.
 - **New Neo Vitae translation:** 3,493 strings translated using a consistent terminology glossary, including the mod's book.
 - **Missing translations in existing Russian language files:** Occultism, Mahou Tsukai, JourneyMap, Productive Bees, Ars Elemental, Sodium Extra, and others.
 
@@ -28,7 +29,7 @@ This pack is made for **ATM10 8.4** (Minecraft 1.21.1, NeoForge). Some strings m
 
 ## Translation Process
 
-The translation was created with the help of AI (Claude), while decorative block names were generated using terminology glossaries. Terms were cross-checked against Minecraft's official Russian localization, translated ATM10 quests, and Russian language files provided by the mods themselves. Formatting codes were checked automatically.
+The translation was created with the help of AI (Kimi), while decorative block names were generated using terminology glossaries. Terms were cross-checked against Minecraft's official Russian localization, translated ATM10 quests, and Russian language files provided by the mods themselves. Formatting codes were checked automatically.
 
 The text has been selectively reviewed rather than checked line by line. The pack has not yet been fully tested in-game, so inaccuracies may occur. If you find an error, please leave a comment with the mod name, item or text, and the suggested correction.
 
@@ -46,8 +47,9 @@ If you are a mod author and do not want your mod's translation included in this 
 
 ## Что внутри
 
-- **75 187 строк в 336 модах:** названия предметов и блоков, подсказки, интерфейс, настройки, достижения и тексты книг.
-- **260 файлов гайдов:** полностью Allthemodium, LaserIO и Industrial Foregoing, частично Just Dire Things. Остальные гайды в работе.
+- **75 185 строк в 336 модах:** названия предметов и блоков, подсказки, интерфейс, настройки, достижения и тексты книг.
+- **337 файлов гайдов:** полностью Allthemodium, LaserIO, Industrial Foregoing и Just Dire Things, начало гайда AE2 (34 файла из 126). Остальные гайды в работе.
+- **Перевод квестов (8 415 строк):** игра не читает текст квестов из наборов ресурсов, поэтому файл `quests_ru/ru_ru.snbt` копируется вручную — инструкция в `quests_ru/README.txt`.
 - **Новый перевод Neo Vitae:** 3493 строки по единому словарю терминов, включая книгу мода.
 - **Строки, оставшиеся английскими в русских файлах модов:** Occultism, Mahou Tsukai, JourneyMap, Productive Bees, Ars Elemental, Sodium Extra и другие.
 
@@ -68,7 +70,7 @@ AllTheCompressed, Auroral, Bibliocraft Legacy, Cable Tiers, Camol, Chipped, Chis
 
 ## Как сделан перевод
 
-Перевод выполнен с помощью ИИ (Claude), а названия декоративных блоков собраны генератором по словарям. Термины сверялись с ванильным русским переводом Minecraft, переведёнными квестами ATM10 и русскими файлами самих модов. Коды форматирования проверены автоматически.
+Перевод выполнен с помощью ИИ (Kimi), а названия декоративных блоков собраны генератором по словарям. Термины сверялись с ванильным русским переводом Minecraft, переведёнными квестами ATM10 и русскими файлами самих модов. Коды форматирования проверены автоматически.
 
 Текст вычитан выборочно, а не построчно, и в игре пакет пока не проверялся, поэтому неточности возможны. Если заметили ошибку, напишите в комментариях: мод, название предмета или строки и как правильно.
 

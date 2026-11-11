@@ -185,7 +185,6 @@
   "ftbquests.quest.appearance": "Внешний вид",
   "ftbquests.quest.appearance.icon_scale": "Масштаб иконки",
   "ftbquests.quest.appearance.icon_scale.tooltip": "Не зависит от общего размера кнопки",
-  "ftbquests.quest.appearance.min_width": "Мин. ширина окна квеста",
   "ftbquests.quest.appearance.preset": "Шаблон оформления",
   "ftbquests.quest.appearance.preset.tooltip": "Шаблон оформления этого квеста\nЕсли не задан, также проверяются значения по умолчанию для главы и файла\nЕсли задан, переопределяет настройки «Фигура» и «Размер» этого квеста",
   "ftbquests.quest.appearance.shape": "Фигура",

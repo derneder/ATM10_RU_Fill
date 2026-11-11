@@ -75,7 +75,7 @@
   "commands.waystones.list.header": "Обелиски (x, y, z) игрока %s (только во владении):",
   "commands.waystones.list.in_dimension": "в %s",
   "commands.waystones.twinbound.already_linked": "У %s и %s уже есть связанные перья-близнецы",
-  "commands.waystones.twinbound.no_space": "Игроку %s нужна свободная ячейка инвентаря для пера-близнеца",
+  "commands.waystones.twinbound.no_space": "Игроку %s нужен свободный слот инвентаря для пера-близнеца",
   "commands.waystones.twinbound.same_player": "Выберите двух разных игроков",
   "commands.waystones.twinbound.success": "Перья-близнецы связаны для %s и %s",
   "commands.waystones.waystone_not_found": "В этой позиции обелиск не найден",

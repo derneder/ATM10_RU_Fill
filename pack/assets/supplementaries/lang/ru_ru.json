@@ -514,7 +514,7 @@
   "supplementaries.configuration.sack.sack_penalty": "Штраф за мешки",
   "supplementaries.configuration.sack.sack_penalty.description": "Накладывает на игрока эффект замедления, если он несёт слишком много мешков",
   "supplementaries.configuration.sack.slots": "Слоты",
-  "supplementaries.configuration.sack.slots.description": "Количество ячеек в мешке",
+  "supplementaries.configuration.sack.slots.description": "Количество слотов в мешке",
   "supplementaries.configuration.safe": "Сейф",
   "supplementaries.configuration.safe.prevent_breaking": "Защита от разрушения",
   "supplementaries.configuration.safe.prevent_breaking.description": "Сейфы может разрушить только их владелец или игрок в творческом режиме",

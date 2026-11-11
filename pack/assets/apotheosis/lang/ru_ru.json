@@ -15,7 +15,6 @@
   "affix.apotheosis:weapon/attribute/runebreaking": "Рунокрушащий",
   "affix.apotheosis:weapon/attribute/runebreaking.suffix": "рунолома",
   "bonus.apotheosis:anti_gravity_arrow.desc": "Выпущенные стрелы не подвержены гравитации.",
-  "comment_id": "Источники урона",
   "info.apotheosis.stoneforming": "Инструмент со свойством «%s» может превращать эти блоки друг в друга.",
   "info.apotheosis.stoneforming.target": "Shift+ПКМ по блоку, чтобы выбрать цель.",
   "item.apotheosis.ascent_spawner_upgrade_rune": "Руна улучшения рассадника странника",

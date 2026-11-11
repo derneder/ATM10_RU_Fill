@@ -532,7 +532,7 @@
   "gui.refurbished_furniture.package_open": "ПКМ, чтобы открыть",
   "gui.refurbished_furniture.package_sent_by": "Отправитель: %s",
   "gui.refurbished_furniture.placeable": "Можно поставить",
-  "gui.refurbished_furniture.post_box_info": "Выберите почтовый ящик из списка. Искать можно по названию ящика или по игроку, добавив в начале @. Положите предметы в ячейки посылки и при желании добавьте сообщение. Нажмите кнопку отправки, чтобы доставить посылку.",
+  "gui.refurbished_furniture.post_box_info": "Выберите почтовый ящик из списка. Искать можно по названию ящика или по игроку, добавив в начале @. Положите предметы в слоты посылки и при желании добавьте сообщение. Нажмите кнопку отправки, чтобы доставить посылку.",
   "gui.refurbished_furniture.previous_preset": "Предыдущий пресет",
   "gui.refurbished_furniture.recycle": "Переработать",
   "gui.refurbished_furniture.rename_mailbox_failed": "Не удалось изменить название почтового ящика",
