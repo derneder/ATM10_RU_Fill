@@ -23,7 +23,7 @@ An unofficial Russian translation add-on for **All the Mods 10 (ATM10)**. It fil
 
 ## What's Included
 
-- **75,185 translated strings across 336 mods:** item and block names, tooltips, user interfaces, settings, achievements, and book texts.
+- **73,131 translated strings across 336 mods:** item and block names, tooltips, user interfaces, settings, achievements, and book texts.
 - **337 in-game guide files:** complete translations for Allthemodium, LaserIO, Industrial Foregoing, and Just Dire Things, plus the start of the AE2 guide (34 of 125 files). Other guides are still in progress.
 - **Quest translation (8,415 strings):** the game does not read quest text from resource packs, so `quests_ru/ru_ru.snbt` has to be copied manually — instructions are in `quests_ru/README.txt`.
 - **New Neo Vitae translation:** 3,493 strings translated using a consistent terminology glossary, including the mod's book.
@@ -64,7 +64,7 @@ If you are a mod author and do not want your mod's translation included in this 
 
 ## Что внутри
 
-- **75 185 строк в 336 модах:** названия предметов и блоков, подсказки, интерфейс, настройки, достижения и тексты книг.
+- **73 131 строка в 336 модах:** названия предметов и блоков, подсказки, интерфейс, настройки, достижения и тексты книг.
 - **337 файлов гайдов:** полностью Allthemodium, LaserIO, Industrial Foregoing и Just Dire Things, начало гайда AE2 (34 файла из 125). Остальные гайды в работе.
 - **Перевод квестов (8 415 строк):** игра не читает текст квестов из наборов ресурсов, поэтому файл `quests_ru/ru_ru.snbt` копируется вручную — инструкция в `quests_ru/README.txt`.
 - **Новый перевод Neo Vitae:** 3493 строки по единому словарю терминов, включая книгу мода.
