@@ -3652,7 +3652,7 @@
   "rechiseled.chiseling.preview.mode_1": "Предпросмотр 3×1",
   "rechiseled.chiseling.preview.mode_2": "Предпросмотр 3×3",
   "rechiseled.chiseling.select_block": "Выбрать: %s",
-  "rechiseled.item.chisel": "Резец",
+  "rechiseled.item.chisel": "Долото",
   "rechiseled.item_group": "Rechiseled",
   "rechiseled.tooltip.connecting": "Соединяемые текстуры"
 }

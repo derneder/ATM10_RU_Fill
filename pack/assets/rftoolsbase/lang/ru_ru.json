@@ -53,5 +53,5 @@
   "message.rftoolsbase.tablet.header": "Планшет для доступа к удалённым интерфейсам и информации",
   "message.rftoolsbase.tablet_filled.gold": "Планшет с информацией: ПКМ — интерфейс информации, присесть + ПКМ — интерфейс планшета",
   "message.rftoolsbase.tablet_filled.header": "Планшет для доступа к удалённым интерфейсам и информации",
-  "_comment": "# Сообщения"
+  "_comment": "Сообщения"
 }

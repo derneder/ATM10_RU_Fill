@@ -31,7 +31,7 @@
   "network.utilityvest.open_menu.failed": "Не удалось открыть меню жилета: %s",
   "network.utilityvest.restock.failed": "Ошибка пополнения: %s",
   "network.utilityvest.save_load.failed": "Ошибка сохранения/загрузки панели быстрого доступа: %s",
-  "tooltip.utilityvest.vest.filter": "Нажмите приседание + %s, чтобы открыть меню фильтров",
+  "tooltip.utilityvest.vest.filter": "Зажмите «красться» + %s, чтобы открыть меню фильтров",
   "tooltip.utilityvest.vest.hotbar": "Назначьте фильтры: %s + цифровая клавиша. Загрузите фильтры: %s + цифровая клавиша",
   "tooltip.utilityvest.vest.inventory": "Нажмите %s, чтобы открыть меню инвентаря",
   "tooltip.utilityvest.vest.restock": "Нажмите %s, чтобы поместить предметы, подходящие под фильтры, в инвентарь жилета"
