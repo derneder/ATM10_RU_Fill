@@ -13,7 +13,7 @@ Social Links: GitHub, https://github.com/derneder/ATM10_RU_Fill
 License: All Rights Reserved
 Версия игры у файла: 1.21.1, тип релиза Beta
 
-Числа относятся к версии 8.4-r2. С каждой новой версией обновляйте их и строку про гайды, а после проверки в игре уберите фразу о том, что пакет не проверялся.
+Числа относятся к версии 8.5-r1. С каждой новой версией обновляйте их и строку про гайды, а после проверки в игре уберите фразу о том, что пакет не проверялся.
 Текст страницы начинается ниже.
 -->
 
@@ -25,7 +25,7 @@ An unofficial Russian translation add-on for **All the Mods 10 (ATM10)**. It fil
 
 - **75,749 translated strings across 355 mods:** item and block names, tooltips, user interfaces, settings, achievements, and book texts.
 - **337 in-game guide files:** complete translations for Allthemodium, LaserIO, Industrial Foregoing, and Just Dire Things, plus the start of the AE2 guide (34 of 125 files). Other guides are still in progress.
-- **Quest translation (8,415 strings):** the game does not read quest text from resource packs, so `quests_ru/ru_ru.snbt` has to be copied manually — instructions are in `quests_ru/README.txt`.
+- **Quest translation (8,436 strings):** the game does not read quest text from resource packs, so `quests_ru/ru_ru.snbt` has to be copied manually — instructions are in `quests_ru/README.txt`.
 - **New Neo Vitae translation:** 3,493 strings translated using a consistent terminology glossary, including the mod's book.
 - **Missing translations in existing Russian language files:** Occultism, Mahou Tsukai, JourneyMap, Productive Bees, Ars Elemental, Sodium Extra, and others.
 
@@ -42,7 +42,7 @@ AllTheCompressed, Auroral, Bibliocraft Legacy, Cable Tiers, Camol, Chipped, Chis
 
 ## Compatibility
 
-This pack is made for **ATM10 8.4** (Minecraft 1.21.1, NeoForge). Some strings may remain in English when using other modpack versions.
+This pack is made for **ATM10 8.5** (Minecraft 1.21.1, NeoForge). Some strings may remain in English when using other modpack versions.
 
 ## Translation Process
 
@@ -66,7 +66,7 @@ If you are a mod author and do not want your mod's translation included in this 
 
 - **75 749 строк в 355 модах:** названия предметов и блоков, подсказки, интерфейс, настройки, достижения и тексты книг.
 - **337 файлов гайдов:** полностью Allthemodium, LaserIO, Industrial Foregoing и Just Dire Things, начало гайда AE2 (34 файла из 125). Остальные гайды в работе.
-- **Перевод квестов (8 415 строк):** игра не читает текст квестов из наборов ресурсов, поэтому файл `quests_ru/ru_ru.snbt` копируется вручную — инструкция в `quests_ru/README.txt`.
+- **Перевод квестов (8 436 строк):** игра не читает текст квестов из наборов ресурсов, поэтому файл `quests_ru/ru_ru.snbt` копируется вручную — инструкция в `quests_ru/README.txt`.
 - **Новый перевод Neo Vitae:** 3493 строки по единому словарю терминов, включая книгу мода.
 - **Строки, оставшиеся английскими в русских файлах модов:** Occultism, Mahou Tsukai, JourneyMap, Productive Bees, Ars Elemental, Sodium Extra и другие.
 
@@ -83,7 +83,7 @@ AllTheCompressed, Auroral, Bibliocraft Legacy, Cable Tiers, Camol, Chipped, Chis
 
 ## Версии
 
-Пакет сделан для **ATM10 8.4** (Minecraft 1.21.1, NeoForge). В других версиях сборки часть строк может остаться на английском.
+Пакет сделан для **ATM10 8.5** (Minecraft 1.21.1, NeoForge). В других версиях сборки часть строк может остаться на английском.
 
 ## Как сделан перевод
 
