@@ -24,7 +24,7 @@ An unofficial Russian translation add-on for **All the Mods 10 (ATM10)**. It fil
 ## What's Included
 
 - **75,749 translated strings across 355 mods:** item and block names, tooltips, user interfaces, settings, achievements, and book texts.
-- **337 in-game guide files:** complete translations for Allthemodium, LaserIO, Industrial Foregoing, and Just Dire Things, plus the start of the AE2 guide (34 of 125 files). Other guides are still in progress.
+- **429 in-game guide files:** complete translations for Allthemodium, LaserIO, Industrial Foregoing, Just Dire Things, and the full AE2 guide (126 pages). Other guides are still in progress.
 - **Quest translation (8,436 strings):** the game does not read quest text from resource packs, so `quests_ru/ru_ru.snbt` has to be copied manually — instructions are in `quests_ru/README.txt`.
 - **New Neo Vitae translation:** 3,493 strings translated using a consistent terminology glossary, including the mod's book.
 - **Missing translations in existing Russian language files:** Occultism, Mahou Tsukai, JourneyMap, Productive Bees, Ars Elemental, Sodium Extra, and others.
@@ -65,7 +65,7 @@ If you are a mod author and do not want your mod's translation included in this 
 ## Что внутри
 
 - **75 749 строк в 355 модах:** названия предметов и блоков, подсказки, интерфейс, настройки, достижения и тексты книг.
-- **337 файлов гайдов:** полностью Allthemodium, LaserIO, Industrial Foregoing и Just Dire Things, начало гайда AE2 (34 файла из 125). Остальные гайды в работе.
+- **429 файлов гайдов:** полностью Allthemodium, LaserIO, Industrial Foregoing и Just Dire Things, а также гайд AE2 целиком (126 страниц). Остальные гайды в работе.
 - **Перевод квестов (8 436 строк):** игра не читает текст квестов из наборов ресурсов, поэтому файл `quests_ru/ru_ru.snbt` копируется вручную — инструкция в `quests_ru/README.txt`.
 - **Новый перевод Neo Vitae:** 3493 строки по единому словарю терминов, включая книгу мода.
 - **Строки, оставшиеся английскими в русских файлах модов:** Occultism, Mahou Tsukai, JourneyMap, Productive Bees, Ars Elemental, Sodium Extra и другие.
