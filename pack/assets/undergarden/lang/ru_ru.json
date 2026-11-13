@@ -6,10 +6,7 @@
   "entity.undergarden.mysterious_pot": "Загадочный горшок",
   "item.undergarden.crumbling_catalyst": "Разрушающий катализатор",
   "item.undergarden.mysterious_pot_spawn_egg": "Яйцо призыва загадочного горшка",
-  "tooltip.undergarden.cloggrum_boots": "Сквернослизь не замедляет вас при ношении",
   "tooltip.undergarden.forgotten_tool": "Добыча блоков Подземного сада в 1.5х раза быстрее",
   "tooltip.undergarden.forgotten_weapon": "Наносит в 1.5х раза больше урона всем монстрам Подземного сада, кроме боссов",
-  "tooltip.undergarden.froststeel_weapon": "Замедляет цели",
-  "tooltip.undergarden.slingshot_ammo": "Можно использовать как снаряд для рогатки",
   "tooltip.undergarden.utherium_weapon": "Наносит в 1.5х раза больше урона гнилым монстрам"
 }

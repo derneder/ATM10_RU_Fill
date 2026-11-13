@@ -1,7 +1,3 @@
 {
-  "tag.recipe_type.sawmill.whitelist": "Белый список",
-  "entity.minecraft.villager.carpenter": "Плотник",
-  "sawmill.category.wood_cutting": "Распил древесины",
-  "subtitles.sawmill.entity.villager.work_carpenter": "Плотник работает",
-  "subtitles.sawmill.ui.sawmill.take_result": "Лесопилка использована"
+  "tag.recipe_type.sawmill.whitelist": "Белый список"
 }

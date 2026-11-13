@@ -1,14 +1,1 @@
-{
-  "item.mob_bottle.tooltip": "Содержит: %s",
-  "item.mob_bottle.tooltip_empty": "Нажмите ПКМ стеклянной бутылкой по уменьшенной сущности, чтобы захватить её",
-  "item.mob_bottle.tooltip_with_name": "Содержит: %s (%s)",
-  "item.shrink.shrink_bottle": "Стеклянная бутылка",
-  "item.shrink.shrinking_device": "Персональное устройство уменьшения",
-  "itemGroup.shrink": "Shrink",
-  "key.shrink.category": "Shrink",
-  "key.shrink.shrink": "Переключить уменьшение",
-  "shrink.deny_shrink": "Уменьшение сущности заблокировано запрещающим тегом",
-  "shrink.message.already_shrunk": "Невозможно открыть, пока вы уменьшены",
-  "shrink.message.missing": "Отсутствует атрибут уменьшения",
-  "shrink.message.power": "Недостаточно энергии"
-}
+{}

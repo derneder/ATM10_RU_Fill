@@ -3643,16 +3643,5 @@
   "rechiseled.chiseling.shape.stairs": "Ступеньки",
   "rechiseled.recipe_category.conversion_value": "Ценность преобразования: %s",
   "rechiseled.recipe_category.title": "Высекание",
-  "rechiseled.chiseling.chisel_all": "Обработать всё",
-  "rechiseled.chiseling.connecting": "Соединение текстур: %s",
-  "rechiseled.chiseling.connecting.off": "Выкл.",
-  "rechiseled.chiseling.connecting.on": "Вкл.",
-  "rechiseled.chiseling.preview": "Предпросмотр блока",
-  "rechiseled.chiseling.preview.mode_0": "Предпросмотр 1×1",
-  "rechiseled.chiseling.preview.mode_1": "Предпросмотр 3×1",
-  "rechiseled.chiseling.preview.mode_2": "Предпросмотр 3×3",
-  "rechiseled.chiseling.select_block": "Выбрать: %s",
-  "rechiseled.item.chisel": "Долото",
-  "rechiseled.item_group": "Rechiseled",
-  "rechiseled.tooltip.connecting": "Соединяемые текстуры"
+  "rechiseled.chiseling.preview.mode_2": "Предпросмотр 3×3"
 }
