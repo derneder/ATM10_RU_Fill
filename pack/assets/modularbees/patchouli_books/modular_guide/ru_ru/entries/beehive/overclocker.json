@@ -1,0 +1,36 @@
+{
+  "name": "Ускоритель улья",
+  "icon": "modularbees:modular_beehive_overclocker",
+  "read_by_default": true,
+  "category": "modularbees:beehive",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Ускоритель улья",
+      "text": "С помощью ускорителя улья пчёлы будут производить продукцию ещё быстрее. Для работы ему нужны энергия и электрод — чем лучше электрод, тем выше бонус скорости.$(br)При использовании нескольких ускорителей одновременно бонусы скорости складываются. Например, два незеритовых электрода (+400%) ускорят работу пчёл в 9 раз (+800%)."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:modular_overclocker",
+      "text": "$(o)Абсолютно безопасно"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Электрод",
+      "text": "Существует четыре уровня электродов, их бонусы можно посмотреть в JEI или в подсказке.$(br)Электроды изнашиваются сильнее, чем больше пчел в улье. Формула: floor[(x/15+1)*(1.03^x)], где x — количество пчёл."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:electrode_copper",
+      "recipe2": "modularbees:electrode_iron"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:electrode_gold"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "modularbees:electrode_netherite"
+    }
+  ]
+}

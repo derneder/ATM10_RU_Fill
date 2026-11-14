@@ -1,0 +1,20 @@
+{
+  "name": "Ядро автомата: Земледелие",
+  "icon": "advancedperipherals:husbandry_automata_core",
+  "category": "advancedperipherals:metaphysics",
+  "advancement": "advancedperipherals:weak_automata_core",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Ядро автомата: Земледелие",
+      "item": "advancedperipherals:husbandry_automata_core",
+      "text": "Поглотив 3 куриц, 3 коров и 3 овец, слабое ядро автомата превратится в ядро автомата Земледелия!$(p)Помимо того, что это более мощная версия слабого ядра автомата, эта душа, похоже, даёт способности взаимодействовать с животными!"
+    },
+    {
+      "type": "link",
+      "text": "В дополнение к способностям слабого ядра автомата это ядро позволяет взаимодействовать с животными и даже перемещать их внутрь себя!$(p)Но имейте в виду: все сохранённые животные будут потеряны, если черепашка сломается.",
+      "url": "https://docs.advanced-peripherals.de/metaphysics/husbandry_automata/",
+      "link_text": "Документация API"
+    }
+  ]
+}

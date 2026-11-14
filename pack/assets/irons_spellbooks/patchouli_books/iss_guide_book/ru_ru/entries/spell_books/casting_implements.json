@@ -1,0 +1,34 @@
+{
+  "name": "Орудия колдовства",
+  "icon": "irons_spellbooks:graybeard_staff",
+  "category": "irons_spellbooks:root",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Орудия колдовства",
+      "text": "Орудия колдовства — предметы, которые можно использовать (щелчок правой кнопкой мыши), чтобы произнести активное заклинание. Чаще всего они дают и пассивные преимущества, позволяя играть за настоящего волшебника."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:graybeard_staff",
+      "text": "Простой палки достаточно, чтобы начать свой путь колдуна."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:artificer_cane",
+      "text": "Иногда немного стиля — всё, что нужно, чтобы вывести колдовство на новый уровень."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:ice_staff",
+      "text": "Поговаривают, что части мистического морозного посоха можно найти в верхнем мире. Возможно, криомант хранит в своей башне исследования, которые прольют больше света."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:blood_staff",
+      "text": "Древний скипетр с непревзойдённой силой призыва; его можно получить, только отобрав у его неживого владельца."
+    }
+  ]
+}

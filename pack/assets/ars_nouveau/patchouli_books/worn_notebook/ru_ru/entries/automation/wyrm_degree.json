@@ -1,0 +1,15 @@
+{
+  "category": "ars_nouveau:automation",
+  "icon": "starbunclemania:wyrm_degree",
+  "name": "Диплом Книгочея",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Позволяет Звездоухам помещать/извлекать предметы с определённой стороны с помощью свитков направления."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "starbunclemania:wyrm_degree"
+    }
+  ]
+}

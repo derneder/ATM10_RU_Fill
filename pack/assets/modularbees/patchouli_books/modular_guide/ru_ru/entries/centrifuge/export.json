@@ -1,0 +1,17 @@
+{
+  "name": "Шлюз экспорта центрифуги",
+  "icon": "modularbees:modular_centrifuge_export",
+  "read_by_default": true,
+  "category": "modularbees:centrifuge",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Шлюз экспорта центрифуги",
+      "text": "Выполняет роль ядра в вопросах логистики: автоматически отправляет предметы и жидкости в сундук или резервуар, к которому он обращён."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:modular_centrifuge_export"
+    }
+  ]
+}

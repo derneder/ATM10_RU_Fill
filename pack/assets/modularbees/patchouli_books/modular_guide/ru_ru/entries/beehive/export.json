@@ -1,0 +1,17 @@
+{
+  "name": "Шлюз экспорта улья",
+  "icon": "modularbees:modular_export",
+  "read_by_default": true,
+  "category": "modularbees:beehive",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Шлюз экспорта улья",
+      "text": "Выполняет роль ядра в вопросах логистики: автоматически отправляет продукцию и мёд в сундук или резервуар, к которому он обращён."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:modular_export"
+    }
+  ]
+}

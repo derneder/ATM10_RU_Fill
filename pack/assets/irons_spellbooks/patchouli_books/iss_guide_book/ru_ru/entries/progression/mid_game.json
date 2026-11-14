@@ -1,0 +1,50 @@
+{
+  "name": "Средняя игра",
+  "icon": "irons_spellbooks:scroll_forge",
+  "category": "irons_spellbooks:root",
+  "sortnum": -2,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Кузница свитков",
+      "text": "Добравшись до ресурсов незерского уровня, вы откроете совершенно новый способ обретения силы: кузницу свитков.$(br2)Кузница свитков создаёт свитки из чернил, бумаги и фокуса. Чернила определяют редкость (а значит, и уровень), а фокус — школу заклинания."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:scroll_forge"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Новые книги заклинаний",
+      "text": "Кроме того, промежуточные книги заклинаний можно создавать из ресурсов незера",
+      "recipe": "irons_spellbooks:gold_spell_book"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:diamond_spell_book",
+      "text": "Кожа хоглина выпадает с хоглинов"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:magic_cloth",
+      "title": "Новые материалы",
+      "text": "Также стоит начать создавать более прочную броню из магической ткани. Чтобы получать много эссенции волшебства, сосредоточьтесь на зачистке магических строений."
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Броня пугала",
+      "entity": "minecraft:armor_stand{ArmorItems:[{id:'irons_spellbooks:pumpkin_boots',Count:1b},{id:'irons_spellbooks:pumpkin_leggings',Count:1b},{id:'irons_spellbooks:pumpkin_chestplate',Count:1b},{id:'irons_spellbooks:pumpkin_helmet',Count:1b}],NoBasePlate:1b}"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:blank_rune",
+      "title": "Редкие материалы",
+      "text": "Чтобы продолжить прогресс, ищите рунические камни в магических строениях. Из них создаётся ещё более мощная броня. Маги со специализацией всегда роняют руну своей школы."
+    },
+    {
+      "type": "patchouli:empty",
+      "draw_filler": false
+    }
+  ]
+}

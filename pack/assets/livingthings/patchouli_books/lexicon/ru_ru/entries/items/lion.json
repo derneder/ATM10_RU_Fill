@@ -1,0 +1,1 @@
+{"name":"Сырое мясо льва","icon":"livingthings:lion","category":"livingthings:item_category","pages":[{"type":"text","text":"$(br)$(bold)Получение:$()$(br)выпадает из львов"},{"type":"spotlight","item":"livingthings:lion","text":"$(br)$(bold)Использование:$()$(li)можно съесть$(li)можно переплавить в жареное мясо льва"}]}

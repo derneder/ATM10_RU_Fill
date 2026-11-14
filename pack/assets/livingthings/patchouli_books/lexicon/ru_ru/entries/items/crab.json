@@ -1,0 +1,1 @@
+{"name":"Сырое крабовое мясо","icon":"livingthings:crab","category":"livingthings:item_category","pages":[{"type":"text","text":"$(br)$(bold)Получение:$()$(br)выпадает из крабов"},{"type":"spotlight","item":"livingthings:crab","text":"$(br)$(bold)Использование:$()$(li)можно съесть$(li)можно переплавить в жареное крабовое мясо"}]}

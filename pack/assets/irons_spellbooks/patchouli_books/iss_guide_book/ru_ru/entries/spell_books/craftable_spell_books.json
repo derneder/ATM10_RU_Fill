@@ -1,0 +1,54 @@
+{
+  "name": "Базовые книги заклинаний",
+  "icon": "irons_spellbooks:iron_spell_book",
+  "category": "irons_spellbooks:root",
+  "sortnum": 1,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Создаваемые книги заклинаний",
+      "text": "Многие книги заклинаний можно создать из сочетания ванильных и волшебных материалов. Каждый следующий уровень увеличивает число слотов в книге заклинаний и часто даёт дополнительные бонусы, повышая силу и количество заклинаний, которые она может вмещать."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:copper_spell_book",
+      "recipe2": "irons_spellbooks:iron_spell_book"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:gold_spell_book",
+      "recipe2": "irons_spellbooks:diamond_spell_book"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:netherite_spell_book",
+      "recipe2": "irons_spellbooks:dragonskin_spell_book"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Именные книги заклинаний",
+      "text": "Именные книги заклинаний можно найти во многих уголках мира; они часто дают бонусы удачливым искателям, которые ищут там, где нужно."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:rotten_spell_book",
+      "text": "Когда-то это была более могущественная книга, но с тех пор она сгнила, оставив лишь три страницы. И всё же она мощнее большинства книг верхнего мира. Такие книги можно найти в столь же сгнивших местах по всему верхнему миру."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:villager_spell_book",
+      "text": "Обычная книга с небольшим благословлением — подходящий проводник для божественной магии. Зарабатывайте репутацию у деревенских жителей, особенно освобождая пленников архизаклинателя, — и рано или поздно она попадёт к вам в руки."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:blaze_spell_book",
+      "text": "У каждого всполоха, сам того не зная, такая припрятана. Хитрость в том, чтобы убить его и надеяться, что она не превратится в пепел."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:druidic_spell_book",
+      "text": "В сгнившей книге заклинаний всё ещё живёт сильная магическая энергия. Если найти подходящее средство, книгу можно вновь благословить."
+    }
+  ]
+}

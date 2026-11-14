@@ -1,0 +1,15 @@
+{
+  "category": "ars_nouveau:automation",
+  "icon": "starbunclemania:direction_scroll",
+  "name": "Свиток направления",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Задаёт сторону/направление для автоматизации Звездоухами. Если использовать свиток на Звездоухе или поместить его в рамку на блоке, Звездоух будет взаимодействовать с блоком с указанной стороны."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "starbunclemania:direction_scroll"
+    }
+  ]
+}

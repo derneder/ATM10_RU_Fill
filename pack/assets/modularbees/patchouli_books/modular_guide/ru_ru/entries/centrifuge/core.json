@@ -1,0 +1,53 @@
+{
+  "name": "Ядро модульной центрифуги",
+  "icon": "modularbees:modular_centrifuge_core",
+  "read_by_default": true,
+  "category": "modularbees:centrifuge",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Ядро модульной центрифуги",
+      "text": "Контроллер мультиблочной модульной центрифуги — структуры 3×3×3, в нижнем слое которой только четыре угловых блока.$(br)Любую структурную стенку центрифуги можно заменить функциональным модулем, чтобы улучшить центрифугу.$(br)Модульная центрифуга не допускает совместного использования блоков с другими структурами."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "Модульная центрифуга",
+      "multiblock": {
+        "pattern": [
+          [
+            "XXX",
+            "XXX",
+            "XXX"
+          ],
+          [
+            "XXX",
+            "X0X",
+            "XCX"
+          ],
+          [
+            "X X",
+            "   ",
+            "X X"
+          ]
+        ],
+        "mapping": {
+          "X": "modularbees:modular_centrifuge_part",
+          "0": "modularbees:modular_centrifuge_part",
+          "C": "modularbees:modular_centrifuge_core[facing=east]"
+        },
+        "symmetrical": true
+      },
+      "enable_visualize": false
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Особенности",
+      "text": "Модульная центрифуга поддерживает все улучшения центрифуги: ускоряющие улучшения сокращают время обработки, а улучшения продуктивности увеличивают параллельность.$(br)Базовое время обработки совпадает с обычной центрифугой (15 с)."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:modular_centrifuge_core",
+      "recipe2": "modularbees:modular_centrifuge_part"
+    }
+  ]
+}

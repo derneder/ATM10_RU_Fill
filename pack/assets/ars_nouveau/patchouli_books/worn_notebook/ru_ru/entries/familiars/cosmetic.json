@@ -1,0 +1,15 @@
+{
+  "category": "ars_nouveau:familiars",
+  "icon": "starbunclemania:star_hat",
+  "name": "Косметические аксессуары",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Аксессуары StarbuncleMania не только для Звездоухов-работников — их можно надевать и на Звездоуха-фамильяра! Этот ничего не делает, но выглядит стильно. Shift + щелчок аксессуаром по Звездоуху наденет его только как украшение, не меняя работу."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "starbunclemania:star_hat"
+    }
+  ]
+}

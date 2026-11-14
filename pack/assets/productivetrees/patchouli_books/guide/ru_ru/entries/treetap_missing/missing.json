@@ -1,0 +1,14 @@
+{
+    "name": "Tree Tap — лучший краник",
+    "icon": "minecraft:barrier",
+    "category": "productivetrees:treetap_missing",
+    "flag": "!mod:treetap",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/treetap",
+            "link_text": "Нажмите, чтобы исправить",
+            "text": "У вас не установлен Tree Tap :sadge:"
+        }
+    ]
+}

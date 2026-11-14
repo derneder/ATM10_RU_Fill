@@ -1,0 +1,1 @@
+{"name":"Ведро с морским коньком","icon":"livingthings:seahorse_bucket","category":"livingthings:item_category","pages":[{"type":"text","text":"$(br)$(bold)Получение:$()$(br)нажмите ПКМ по морскому коньку с ведром воды, чтобы поймать его в ведро"},{"type":"spotlight","item":"livingthings:seahorse_bucket"}]}

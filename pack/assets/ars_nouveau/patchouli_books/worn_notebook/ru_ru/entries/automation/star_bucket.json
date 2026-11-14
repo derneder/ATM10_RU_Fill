@@ -1,0 +1,24 @@
+{
+  "category": "ars_nouveau:automation",
+  "icon": "starbunclemania:star_bucket",
+  "name": "Звездоведро",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Позволяет Звездоухам перевозить жидкости. Когда Звездоух наденет аксессуар, свяжите его Жезлом Владычества с баками."
+    },
+    {
+      "type": "ars_nouveau:apparatus_recipe",
+      "recipe": "starbunclemania:star_bucket"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Задаёт фильтр для автоматизации жидкостей Звездоухами. Работает как аналог для предметов: используйте на Звездоухе или поместите в рамку на баке."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "starbunclemania:fluid_scroll_allow",
+      "recipe2": "starbunclemania:fluid_scroll_deny"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"name":"Сырое мясо жирафа","icon":"livingthings:giraffe","category":"livingthings:item_category","pages":[{"type":"text","text":"$(br)$(bold)Получение:$()$(br)выпадает из жирафов"},{"type":"spotlight","item":"livingthings:giraffe","text":"$(br)$(bold)Использование:$()$(li)можно съесть$(li)можно переплавить в жареное мясо жирафа"}]}

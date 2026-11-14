@@ -1,0 +1,20 @@
+{
+  "name": "Ядро автомата: Край",
+  "icon": "advancedperipherals:end_automata_core",
+  "category": "advancedperipherals:metaphysics",
+  "advancement": "advancedperipherals:weak_automata_core",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Ядро автомата: Край",
+      "item": "advancedperipherals:end_automata_core",
+      "text": "Поглотив 10 эндерменов, слабое ядро автомата превратится в ядро автомата Края!$(p)Помимо того, что это более мощная версия слабого ядра автомата, эта душа, похоже, наделяет саму черепашку ограниченными способностями к телепортации."
+    },
+    {
+      "type": "link",
+      "text": "В дополнение к способностям слабого ядра автомата эта душа позволяет ограниченную телепортацию в пределах мира. Похоже, нужно сохранять точки, а затем телепортироваться к ним!$(p)Но имейте в виду: все сохранённые точки будут потеряны, если черепашка сломается.",
+      "url": "https://docs.advanced-peripherals.de/metaphysics/end_automata/",
+      "link_text": "Документация API"
+    }
+  ]
+}

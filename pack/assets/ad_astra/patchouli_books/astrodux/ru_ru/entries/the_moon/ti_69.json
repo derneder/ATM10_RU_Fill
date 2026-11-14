@@ -1,0 +1,19 @@
+{
+  "name": "TI-69",
+  "icon": "ad_astra:ti_69",
+  "sortnum": 4,
+  "category": "ad_astra:the_moon",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "TI-69",
+      "item": "ad_astra:ti_69",
+      "text": "TI-69 — портативное устройство, показывающее уровень кислорода, температуру и гравитацию в текущем месте. Используйте его, чтобы проверить, безопасна ли местность."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Рецепт TI-69",
+      "recipe": "ad_astra:ti_69"
+    }
+  ]
+}

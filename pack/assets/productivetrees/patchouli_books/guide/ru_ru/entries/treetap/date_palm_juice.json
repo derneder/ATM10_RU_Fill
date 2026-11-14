@@ -1,0 +1,13 @@
+{
+    "name": "Сок финиковой пальмы",
+    "icon": "productivetrees:date_palm_juice",
+    "category": "productivetrees:treetap",
+    "flag": "mod:treetap",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "productivetrees:date_palm_juice",
+            "text": "У финиковой пальмы отличные сочные стволы — не упустите возможность ими воспользоваться."
+        }
+    ]
+}

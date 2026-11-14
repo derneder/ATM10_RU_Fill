@@ -1,0 +1,15 @@
+{
+  "category": "ars_nouveau:automation",
+  "icon": "starbunclemania:star_bin",
+  "name": "ЗвездоКорзина",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Позволяет Звездоухам дать волю внутреннему еноту и уничтожать предметы. С этим аксессуаром Звездоух уничтожает любые предметы, лежащие на земле поблизости."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "starbunclemania:star_bin"
+    }
+  ]
+}

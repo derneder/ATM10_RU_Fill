@@ -1,0 +1,18 @@
+{
+    "name": "Сито для пыльцы",
+    "icon": "productivetrees:pollen_sifter",
+    "category": "productivetrees:stuff",
+    "flag": "!mod:productivebees",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "productivetrees:pollen_sifter",
+            "text": "Извлекает пыльцу из листвы."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivetrees:pollen_sifter",
+            "text": ""
+        }
+    ]
+}

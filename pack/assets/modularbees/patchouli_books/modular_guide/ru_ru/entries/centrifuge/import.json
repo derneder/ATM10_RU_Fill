@@ -1,0 +1,17 @@
+{
+  "name": "Шлюз импорта центрифуги",
+  "icon": "modularbees:modular_centrifuge_import",
+  "read_by_default": true,
+  "category": "modularbees:centrifuge",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Шлюз импорта центрифуги",
+      "text": "Входной буфер центрифуги: автоматически забирает соты из сундука или резервуара, к которому он обращён.$(br)Центрифуга может напрямую брать предметы из инвентаря шлюза."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:modular_centrifuge_import"
+    }
+  ]
+}

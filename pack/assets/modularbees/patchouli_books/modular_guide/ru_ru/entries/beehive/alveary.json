@@ -1,0 +1,17 @@
+{
+  "name": "Модульная пасека",
+  "icon": "modularbees:modular_beehive_alveary",
+  "read_by_default": true,
+  "category": "modularbees:beehive",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Модульная пасека",
+      "text": "Само ядро улья не может содержать пчёл, поэтому для их размещения нужна пасека.$(br)Каждая пасека вмещает 5 пчёл — посадить их можно с помощью клеток для пчёл.$(br)Совет: щёлкните правой кнопкой мыши по пасеке с клеткой для пчёл в руке, чтобы посадить или забрать пчелу."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:modular_alveary"
+    }
+  ]
+}

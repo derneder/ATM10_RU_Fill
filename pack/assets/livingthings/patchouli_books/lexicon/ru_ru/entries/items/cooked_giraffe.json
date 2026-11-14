@@ -1,0 +1,1 @@
+{"name":"Жареное мясо жирафа","icon":"livingthings:cooked_giraffe","category":"livingthings:item_category","pages":[{"type":"text","text":"$(br)$(bold)Получение:$()$(br)получается переплавкой сырого мяса жирафа"},{"type":"spotlight","item":"livingthings:cooked_giraffe","text":"$(br)$(bold)Использование:$()$(li)можно съесть"}]}

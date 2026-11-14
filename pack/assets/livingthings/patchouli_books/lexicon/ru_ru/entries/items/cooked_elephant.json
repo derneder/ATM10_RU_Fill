@@ -1,0 +1,1 @@
+{"name":"Жареное мясо слона","icon":"livingthings:cooked_elephant","category":"livingthings:item_category","pages":[{"type":"text","text":"$(br)$(bold)Получение:$()$(br)получается переплавкой сырого мяса слона"},{"type":"spotlight","item":"livingthings:cooked_elephant","text":"$(br)$(bold)Использование:$()$(li)можно съесть"}]}

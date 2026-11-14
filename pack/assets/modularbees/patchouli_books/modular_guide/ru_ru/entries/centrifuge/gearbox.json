@@ -1,0 +1,17 @@
+{
+  "name": "Редуктор центрифуги",
+  "icon": "modularbees:modular_centrifuge_gearbox",
+  "read_by_default": true,
+  "category": "modularbees:centrifuge",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Редуктор центрифуги",
+      "text": "Редуктор увеличивает параллельность на 1,5 и требует воск для работы.$(br)При использовании нескольких редукторов одновременно бонусы параллельности складываются.$(br)Каждый рабочий цикл расходует 40 воска."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:modular_centrifuge_gearbox"
+    }
+  ]
+}

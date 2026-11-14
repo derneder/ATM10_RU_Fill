@@ -1,0 +1,1 @@
+{"name":"Жареное крабовое мясо","icon":"livingthings:cooked_crab","category":"livingthings:item_category","pages":[{"type":"text","text":"$(br)$(bold)Получение:$()$(br)получается переплавкой сырого крабового мяса"},{"type":"spotlight","item":"livingthings:cooked_crab","text":"$(br)$(bold)Использование:$()$(li)можно съесть"}]}

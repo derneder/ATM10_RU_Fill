@@ -1,0 +1,6 @@
+{
+  "name": "Совместимость с Tree Tap",
+  "description": "Этот мод совместим с модом Tree Tap, что позволяет извлекать из деревьев некоторые дополнительные продукты.",
+  "icon": "productivetrees:maple_sap_bucket",
+  "flag": "!mod:treetap"
+}

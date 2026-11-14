@@ -1,0 +1,16 @@
+{
+  "category": "ars_nouveau:glyphs_2",
+  "icon": "starbunclemania:glyph_pickup_fluid",
+  "name": "Сбор жидкости",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Собирает жидкости в мире и заполняет бак на панели быстрого доступа или рядом с турелью"
+    },
+    {
+      "type": "ars_nouveau:glyph_recipe",
+      "recipe": "starbunclemania:glyph_pickup_fluid"
+    }
+  ],
+  "sortnum": 2
+}

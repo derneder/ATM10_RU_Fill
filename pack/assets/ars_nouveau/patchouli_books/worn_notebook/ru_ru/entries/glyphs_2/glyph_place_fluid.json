@@ -1,0 +1,16 @@
+{
+  "category": "ars_nouveau:glyphs_2",
+  "icon": "starbunclemania:glyph_place_fluid",
+  "name": "Размещение жидкости",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Размещает жидкость в мире, забирая её из бака на панели быстрого доступа или рядом с турелью"
+    },
+    {
+      "type": "ars_nouveau:glyph_recipe",
+      "recipe": "starbunclemania:glyph_place_fluid"
+    }
+  ],
+  "sortnum": 2
+}

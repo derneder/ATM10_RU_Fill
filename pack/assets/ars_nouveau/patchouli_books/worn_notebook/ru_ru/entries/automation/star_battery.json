@@ -1,0 +1,15 @@
+{
+  "category": "ars_nouveau:automation",
+  "icon": "starbunclemania:star_battery",
+  "name": "ЗвездоБатарея",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Позволяет Звездоухам перевозить энергию. Когда Звездоух наденет аксессуар, свяжите его Жезлом Владычества с блоками FE."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "starbunclemania:star_battery"
+    }
+  ]
+}

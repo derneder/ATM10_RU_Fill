@@ -1,0 +1,15 @@
+{
+  "category": "ars_nouveau:automation",
+  "icon": "starbunclemania:fluid_jar",
+  "name": "Удерживающий кувшин для жидкостей",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Бак из брёвен каскадного арчивуда, вмещающий до 16 вёдер жидкости. Если хранить в нём жидкое зелье и поставить сверху кувшин для зелий, жидкость будет переливаться в кувшин для использования во фляжках и смешивании."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "starbunclemania:fluid_jar"
+    }
+  ]
+}

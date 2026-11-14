@@ -1,0 +1,15 @@
+{
+  "category": "ars_nouveau:source",
+  "icon": "starbunclemania:fluid_sourcelink",
+  "name": "Жидкостное сочетание",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Потребляет жидкости, вырабатывая Источник. Автоматически выкачивает жидкость из совместимых баков под ним."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "starbunclemania:fluid_sourcelink"
+    }
+  ]
+}

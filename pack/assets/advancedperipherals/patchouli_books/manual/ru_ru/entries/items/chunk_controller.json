@@ -1,0 +1,15 @@
+{
+  "name": "Контроллер чанков",
+  "icon": "advancedperipherals:chunk_controller",
+  "category": "advancedperipherals:items",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Контроллер чанков — ингредиент для создания чанковой черепашки.$(p)Соедините его с черепашкой или продвинутой черепашкой, чтобы она начала подгружать чанки!$(p)Полную документацию смотрите на $(9)$(l:https://docs.advanced-peripherals.de/items/chunk_controller/)официальной вики$(/l)$()!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "advancedperipherals:chunk_controller"
+    }
+  ]
+}

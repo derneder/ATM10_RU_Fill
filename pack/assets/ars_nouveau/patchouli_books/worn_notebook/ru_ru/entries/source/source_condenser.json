@@ -1,0 +1,15 @@
+{
+  "category": "ars_nouveau:source",
+  "icon": "starbunclemania:source_condenser",
+  "name": "Конденсатор Источника",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Конденсирует Источник из кувшинов в стабильную жидкость. По возможности автоматически выводит её в баки под собой. Жезлом Владычества к нему можно привязать конкретный источник; иначе он забирает из всех ближайших кувшинов."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "starbunclemania:source_condenser"
+    }
+  ]
+}

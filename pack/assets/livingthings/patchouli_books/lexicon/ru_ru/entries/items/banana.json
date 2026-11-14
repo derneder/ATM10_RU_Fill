@@ -1,0 +1,1 @@
+{"name":"Банан","icon":"livingthings:banana","category":"livingthings:item_category","pages":[{"type":"text","text":"$(br)$(bold)Получение:$()$(br)выпадает при разрушении листвы джунглей"},{"type":"spotlight","item":"livingthings:banana","text":"$(br)$(bold)Использование:$()$(li)можно съесть"}]}

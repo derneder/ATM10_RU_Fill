@@ -1,0 +1,1 @@
+{"name":"Древний шлем","icon":"livingthings:ancient_helmet","category":"livingthings:item_category","pages":[{"type":"text","text":"$(br)$(bold)Получение:$()$(br)Может выпасть из древнего всполоха."},{"type":"spotlight","item":"livingthings:ancient_helmet","text":"$(br)$(bold)Использование:$()$(li)даёт эффект огнестойкости при ношении"}]}

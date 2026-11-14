@@ -1,0 +1,17 @@
+{
+  "name": "Уплотнитель улья",
+  "icon": "modularbees:modular_beehive_stacker",
+  "read_by_default": true,
+  "category": "modularbees:beehive",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Уплотнитель улья",
+      "text": "Уплотнитель увеличивает максимальный размер стака в выходном инвентаре улья — по умолчанию каждый стак становится втрое больше.$(br)При использовании нескольких уплотнителей одновременно бонусы к размеру стака складываются."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:modular_beehive_stacker"
+    }
+  ]
+}

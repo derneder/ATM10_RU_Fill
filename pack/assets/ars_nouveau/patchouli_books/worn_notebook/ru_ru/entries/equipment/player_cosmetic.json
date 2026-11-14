@@ -1,0 +1,25 @@
+{
+  "category": "ars_nouveau:equipment",
+  "icon": "starbunclemania:starby_ears",
+  "name": "Косметические аксессуары",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Хотели когда-нибудь стать чуть больше похожими на Звездоуха? Или носить классную песочную шляпу, рога или даже пропеллер? Теперь это возможно! Эти аксессуары чисто косметические, игроки могут носить их в слоте Curios для головы."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "starbunclemania:starby_ears"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "starbunclemania:alak_hat",
+      "recipe2": "starbunclemania:sea_bunny"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "starbunclemania:drygmy_horns",
+      "recipe2": "starbunclemania:whirli_prop"
+    }
+  ]
+}

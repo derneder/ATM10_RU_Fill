@@ -1,0 +1,15 @@
+{
+  "category": "ars_nouveau:automation",
+  "icon": "starbunclemania:star_balloon",
+  "name": "Звездошарик",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Позволяет Звездоухам перевозить простые газы [Mekanism]. При использовании как украшение его можно покрасить, но при перевозке он принимает цвет хранимого газа. Когда Звездоух наденет аксессуар, свяжите его Жезлом Владычества с газовыми баками."
+    },
+    {
+      "type": "ars_nouveau:apparatus_recipe",
+      "recipe": "starbunclemania:star_balloon"
+    }
+  ]
+}

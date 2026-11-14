@@ -1,0 +1,30 @@
+{
+  "name": "Чат-коробка",
+  "icon": "advancedperipherals:chat_box",
+  "category": "advancedperipherals:peripherals",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Периферия «Чат-коробка» позволяет взаимодействовать с игровым чатом, отправляя и получая сообщения.$(p)Можно даже отправлять сообщения, которые увидит только сама чат-коробка, — для этого начните сообщение с `$`.$(p)Полную документацию смотрите на $(9)$(l:https://docs.advanced-peripherals.de/peripherals/chat_box/)официальной вики$(/l)$()!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "advancedperipherals:chat_box"
+    },
+    {
+      "type": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "0": "computercraft:computer_advanced",
+          "P": "advancedperipherals:chat_box"
+        },
+        "pattern": [
+          [
+            "0P"
+          ]
+        ]
+      },
+      "text": "Подключите чат-коробку к компьютеру, чтобы использовать её!"
+    }
+  ]
+}

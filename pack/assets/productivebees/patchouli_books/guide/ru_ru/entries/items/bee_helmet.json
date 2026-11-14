@@ -1,0 +1,16 @@
+{
+  "name": "Шлем-гнездо",
+  "icon": "productivebees:bee_nest_diamond_helmet",
+  "category": "productivebees:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "productivebees:bee_nest_diamond_helmet",
+      "text": "Прижми пчелиное гнездо к своему красивому алмазному шлему — пусть всё липнет. Пчёлы в гнезде обязательно привыкнут к тебе и, возможно, даже защитят тебя в опасности. Эта штука также покажет другим пчёлам твои добрые намерения и удержит их от нападения."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "productivebees:bee_nest_helmet"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Ускоритель центрифуги",
+  "icon": "modularbees:modular_centrifuge_overclocker",
+  "read_by_default": true,
+  "category": "modularbees:centrifuge",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Ускоритель центрифуги",
+      "text": "С помощью ускорителя центрифуги её можно ускорить. Для работы ему нужны энергия и электрод — чем лучше электрод, тем выше бонус скорости.$(br)При использовании нескольких ускорителей одновременно бонусы скорости складываются. Например, два незеритовых электрода (+400%) ускорят работу пчёл в 9 раз (+800%)."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:modular_centrifuge_overclocker"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Электрод",
+      "text": "Существует четыре уровня электродов, их бонусы можно посмотреть в JEI или в подсказке.$(br)Электроды теряют 1 единицу прочности за каждый рабочий тик."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:electrode_copper",
+      "recipe2": "modularbees:electrode_iron"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "modularbees:electrode_gold"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "modularbees:electrode_netherite"
+    }
+  ]
+}

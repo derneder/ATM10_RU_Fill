@@ -1,0 +1,17 @@
+{
+    "name": "Окорщик",
+    "icon": "productivetrees:stripper",
+    "category": "productivetrees:stuff",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "productivetrees:stripper",
+            "text": "Снимает кору с древесины, оставляя её голой и обтёсанной. Для работы нужен топор."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivetrees:stripper",
+            "text": ""
+        }
+    ]
+}
