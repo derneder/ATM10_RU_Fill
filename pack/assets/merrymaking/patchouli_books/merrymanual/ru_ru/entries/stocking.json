@@ -1,0 +1,12 @@
+{
+    "name": "Рождественский носок",
+    "icon": "merrymaking:stocking",
+    "category": "merrymaking:mantels",
+    "pages": [
+        {
+            "type": "crafting",
+            "recipe": "merrymaking:stocking",
+            "text": "Носки с трепетом развесили у праздничной каминной полки…"
+        }
+    ]
+}

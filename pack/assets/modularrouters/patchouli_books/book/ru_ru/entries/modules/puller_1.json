@@ -1,0 +1,15 @@
+{
+  "name": "Модуль: Извлекатель Мк1",
+  "category": "modularrouters:modules",
+  "icon": "modularrouters:puller_module_1",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Этот модуль пытается извлечь первый подходящий предмет из прилегающего инвентаря в $(l:intro/modules#direction)заданном направлении/$ модуля в буфер маршрутизатора. Если буфер полон или содержит предметы, не складывающиеся ни с чем в инвентаре, ничего не будет извлечено."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:puller_module_1"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Зелья",
+    "description": "$(9)Apothic Attributes$() добавляет несколько новых зелий и новых рецептов зелий.",
+    "icon": "minecraft:potion",
+	"flag": "apotheosis:potion"
+}

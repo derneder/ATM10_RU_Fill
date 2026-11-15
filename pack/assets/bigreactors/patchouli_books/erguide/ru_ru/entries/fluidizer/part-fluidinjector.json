@@ -1,0 +1,22 @@
+{
+    "name": "Инжектор жидкости",
+    "icon": "bigreactors:fluidizerfluidinjector",
+    "category": "bigreactors:fluidizer-parts",
+    "read_by_default": true,
+    "sortnum": 6,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "bigreactors:fluidizerfluidinjector",
+            "link_recipe": true,
+            "title" : "Инжектор жидкости",
+            "text": "Инжектор жидкости позволяет вводить существующие жидкие виды топлива в флюидайзер, чтобы смешивать их и создавать новое топливо."
+        },
+        {
+            "type": "crafting-part_usage",
+            "crafting.title1": "Инжектор жидкости",
+            "crafting.recipe1": "bigreactors:fluidizer/fluidinjector",
+            "usage.text": "$(l)Обязательно:$() см. $(l:bigreactors:fluidizer/operational_mode)режим работы$(/l)$(br)$(l)Допустимые позиции:$() любая грань (не каркас)$(br)$(l)Графический интерфейс:$() нет"
+        }
+    ]
+}

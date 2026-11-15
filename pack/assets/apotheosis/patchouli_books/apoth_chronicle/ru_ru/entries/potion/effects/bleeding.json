@@ -1,0 +1,17 @@
+{
+    "name": "Кровотечение",
+    "icon": "apothic_attributes:textures/mob_effect/bleeding.png",
+    "category": "apotheosis:potion/effects",
+	"flag": "apotheosis:potion",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(c)Кровотечение$() — отрицательный эффект, накладываемый некоторыми аффиксами и бонусами самоцветов.$(p)Он заставляет вас получать урон каждые две секунды."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Урон увеличивается с уровнем $(c)Кровотечения$().$(p)Урон от $(c)Кровотечения$() игнорирует броню."
+        }
+	]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Корпуса механизмов",
+  "icon": "rftoolsbase:machine_frame",
+  "category": "rftoolsbase:category_basics",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Любой машине или устройству нужен какой-нибудь корпус — $(thing)каркас$(), если хотите. Сами по себе они ничего не делают, но это повсеместный ингредиент для крафта."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsbase:machine_frame"
+    }
+  ]
+}

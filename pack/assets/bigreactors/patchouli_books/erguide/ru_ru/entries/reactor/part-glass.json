@@ -1,0 +1,27 @@
+{
+    "name": "Стекло",
+    "icon": "bigreactors:reinforced_reactorglass",
+    "category": "bigreactors:reactor-parts",
+    "read_by_default": true,
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "bigreactors:reinforced_reactorglass",
+            "link_recipe": true,
+            "title" : "Стекло",
+            "text": "Стеклянные блоки — декоративные элементы, которые можно использовать вместо блоков корпуса, чтобы показать внутренность реактора."
+        },
+        {
+            "type": "bigreactors:crafting1x",
+            "title1": "Basic",
+            "recipe1": "bigreactors:reactor/basic/glass",
+            "title2": "Reinforced",
+            "recipe2": "bigreactors:reactor/reinforced/glass"
+        },
+        {
+            "type": "bigreactors:part_usage",
+            "text": "$(l)Обязательна:$() нет$(br)$(l)Допустимые позиции:$() любая грань (не на раме)$(br)$(l)Варианты:$() все$(br)$(l)Графический интерфейс:$() нет"
+        }
+    ]
+}

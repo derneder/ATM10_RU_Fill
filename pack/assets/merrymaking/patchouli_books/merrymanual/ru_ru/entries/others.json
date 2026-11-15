@@ -1,0 +1,19 @@
+{
+    "name": "Прочие декоративные блоки",
+    "icon": "merrymaking:quartz_platter",
+    "category": "merrymaking:other",
+    "pages": [
+        {
+            "type": "spotlight",
+            "title": "Кварцевое блюдо",
+            "item": "merrymaking:quartz_platter",
+            "text": "Следующие блоки являются чисто декоративными, но используются в рецептах ужинов и подносов с едой: $(br2)$(li)Кварцевое блюдо $(li)Деревянный поднос"
+        },
+        {
+            "type": "crafting",
+            "title": "Декоративные подносы с едой",
+            "recipe": "merrymaking:quartz_platter",
+            "recipe2": "merrymaking:empty_tray"
+        }
+    ]
+}

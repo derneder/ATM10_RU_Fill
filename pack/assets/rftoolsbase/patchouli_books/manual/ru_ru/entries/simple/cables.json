@@ -1,0 +1,31 @@
+{
+  "name": "Кабели",
+  "icon": "xnet:netcable_red",
+  "category": "rftoolsbase:category_xnet_simple",
+  "extra_recipe_mappings": {
+    "xnet:netcable_red": 0,
+    "xnet:netcable_green": 0,
+    "xnet:netcable_blue": 0,
+    "xnet:netcable_yellow": 0,
+    "xnet:netcable_routing": 0
+  },
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Цветные кабели образуют локальные сети. Красные, зелёные, синие и жёлтые кабели не соединяются друг с другом, даже если стоят рядом."
+    },
+    {
+      "type": "text",
+      "text": "Маршрутизирующие кабели отличаются: маршрутизаторы и беспроводные маршрутизаторы используют их для объединения нескольких сетей контроллеров."
+    },
+    {
+      "type": "crafting",
+      "recipe": "xnet:netcable_red"
+    },
+    {
+      "type": "crafting",
+      "recipe": "xnet:netcable_routing"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Основной",
+    "icon": "bigreactors:basic_reactorcasing",
+    "category": "bigreactors:reactor-variants",
+    "read_by_default": true,
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Основной вариант — ваш стартовый реактор.$(br2)Максимальный размер 5x5x5 блоков (внешние габариты), а для крафта нужны в основном лишь железные слитки — идеальное дешёвое решение для ранних энергетических нужд."
+        }
+    ]
+}

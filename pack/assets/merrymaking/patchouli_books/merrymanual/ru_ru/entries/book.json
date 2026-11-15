@@ -1,0 +1,17 @@
+{
+    "name": "Рецепт создания книги",
+    "icon": "merrymaking:merrymanual",
+    "category": "merrymaking:book",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "merrymaking:merrymanual",
+            "text": "Если вы потеряли эту книгу или по какой-то причине хотите сделать ещё одну, понадобится всего: 1 книга, 1 зелёный краситель и 1 карамельная трость."
+        },
+        {
+            "type": "crafting",
+            "title": "Руководство устроителя праздников",
+            "recipe": "merrymaking:merrymanual_recipe"
+        }
+    ]
+}

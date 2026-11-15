@@ -1,0 +1,26 @@
+{
+    "name": "Порт впрыска топлива",
+    "icon": "bigreactors:reinforced_reactorfluidaccessport",
+    "category": "bigreactors:reactor-parts",
+    "read_by_default": true,
+    "sortnum": 6,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "bigreactors:reinforced_reactorfluidaccessport",
+            "link_recipe": true,
+            "title" : "Порт впрыска топлива",
+            "text": "Порт впрыска топлива позволяет вводить и извлекать жидкие реактивы, которые заполнят ваши $(l:bigreactors:reactor/part-fuelrod)топливные стержни$(/l) и обеспечат работу реактора.$(br2)В графическом интерфейсе можно задать режим порта: в $(bold)режиме ввода$() порт принимает жидкое топливо, в $(bold)режиме вывода$() выводит жидкие отходы."
+        },
+        {
+            "type": "crafting-text",
+            "text": "$(l:bigreactors/wrench)Гаечным ключом$(/l) можно изменить режим порта.$(br2)В отличие от порта доступа к твёрдым материалам, при использовании порта впрыска топлива потери материала не происходит.",
+            "title1": "Reinforced",
+            "recipe": "bigreactors:reactor/reinforced/fluidaccessport"
+        },
+        {
+            "type": "part_usage",
+            "text": "$(l)Обязательна:$() нет$(br)$(l)Допустимые позиции:$() любая грань (не на раме)$(br)$(l)Варианты:$() усиленный$(br)$(l)Графический интерфейс:$() да$(br)$(l)Гаечный ключ:$() $(l:bigreactors:misc/wrench)гаечным ключом$(/l) можно переключать режим порта"
+        }
+    ]
+}

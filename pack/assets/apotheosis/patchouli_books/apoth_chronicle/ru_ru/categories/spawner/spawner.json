@@ -1,0 +1,6 @@
+{
+    "name": "Рассадники",
+    "description": "$(9)Apothic Spawners$() позволяет перемещать и модифицировать $(9)рассадники мобов$().$(p)Apotheosis заменяет рецепты улучшения рунами рассадника.",
+    "icon": "minecraft:spawner",
+	"flag": "apotheosis:spawner"
+}

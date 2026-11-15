@@ -1,0 +1,27 @@
+{
+    "name": "Порт жидкости Forge",
+    "icon": "bigreactors:reinforced_reactorfluidport_forge_passive",
+    "category": "bigreactors:reactor-parts",
+    "read_by_default": true,
+    "sortnum": 10,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "bigreactors:reinforced_reactorfluidport_forge_passive",
+            "link_recipe": true,
+            "title" : "Порт жидкости Forge",
+            "text": "Порт жидкости Forge позволяет вводить и извлекать жидкости из $(l:bigreactors/active)активно охлаждаемого$(/l) реактора. $(br2) Этот порт принимает и выводит ванильные жидкости, но только если они являются допустимыми $(l:bigreactors/coolantsystem)охладителями или парами$(/l). $(br2) С помощью $(l:bigreactors/wrench)гаечного ключа$(/l) можно переключить порт из режима ввода в режим вывода."
+        },
+        {
+            "type": "bigreactors:crafting1x",
+            "title1": "Reinforced (Passive)",
+            "recipe1": "bigreactors:reactor/reinforced/passivefluidport_forge",
+            "title2": "Reinforced (Active)",
+            "recipe2": "bigreactors:reactor/reinforced/activefluidport_forge"
+        },
+        {
+            "type": "bigreactors:part_usage",
+            "text": "$(l)Обязательна:$() нет$(br)$(l)Допустимые позиции:$() любая грань (не на раме)$(br)$(l)Варианты:$() усиленный$(br)$(l)Графический интерфейс:$() нет$(br)$(l)Гаечный ключ:$() $(l:bigreactors:misc/wrench)гаечным ключом$(/l) можно переключать режим порта."
+        }
+    ]
+}

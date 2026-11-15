@@ -1,0 +1,27 @@
+{
+  "name": "Пламенный генератор",
+  "icon": "rftoolspower:blazing_generator",
+  "category": "rftoolsbase:category_rftoolspower_powergeneration",
+  "extra_recipe_mappings": {
+    "rftoolspower:blazing_generator": 0
+  },
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Пламенный генератор сжигает пламенные стержни ради FE. Сначала обычные огненные стержни нужно обработать в $(l:rftoolsbase:powergeneration/blazingagitator)пламенном агитаторе$(/l)."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolspower:blazing_generator"
+    },
+    {
+      "type": "text",
+      "text": "У пламенного стержня есть два важных параметра: выработка энергии и длительность. Стержни более высокого качества дают больше FE/t, а стержни большей длительности дольше держат генератор в работе."
+    },
+    {
+      "type": "text",
+      "text": "Генератор может использовать до четырёх стержней и работает лучше всего в непрерывном режиме. Ему нужно время на разогрев, чтобы раскрыть весь потенциал вставленных стержней."
+    }
+  ]
+}

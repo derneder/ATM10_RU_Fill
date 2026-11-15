@@ -1,0 +1,40 @@
+{
+    "name": "Кровельные ступеньки и плиты",
+    "icon": "minecraft:writable_book",
+    "category": "merrymaking:roofs",
+    "pages": [
+        {
+            "type": "patchouli:image",
+            "images": ["merrymaking:textures/gui/stairs.png"],
+            "text": "Кровельные ступеньки/плиты, на которые выпал снег"
+        },
+        {
+            "type": "spotlight",
+            "title": "Кровельные ступеньки и плиты",
+            "item": "merrymaking:roof_acacia_stairs",
+            "text": "Кровельные ступеньки и плиты — особые блоки, которые со временем покрываются снегом.$(br2)Выпускаются во всех ванильных породах дерева, а также в вариантах из каменного кирпича, полированно-чернитного кирпича и глубинносланцевого кирпича."
+        },
+        {
+            "type": "patchouli:text",
+            "text": " $(br2)Чтобы создать кровельные ступеньки и плиты, объедините ванильные ступеньки или плиты с кровельной черепицей на верстаке.$(br2) Рецепт кровельной черепицы показан здесь:"
+        },
+        {
+            "type": "crafting",
+            "recipe": "merrymaking:roof_tiles"
+        },
+        {
+            "type": "crafting",
+            "recipe": "merrymaking:roof_jungle_stairs",
+            "recipe2": "merrymaking:roof_bamboo_slab"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Если идёт снег, плиты и ступеньки со временем автоматически превратятся в заснеженные версии. $(br2)Если вы где-то без снега — не страшно: их можно изменить вручную, бросив в них снежок."
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["merrymaking:textures/gui/change.png"],
+            "text": "Смена кровельных ступенек с помощью снежкового обстрела"
+        }
+    ]
+}

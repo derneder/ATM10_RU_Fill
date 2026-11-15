@@ -1,0 +1,15 @@
+{
+  "name": "Дополнение: Отталкиватель",
+  "category": "modularrouters:augments",
+  "icon": "modularrouters:pushing_augment",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Это дополнение можно добавить только в модули $(l:modules/extruder_1)«Экструдер Мк1»/$ и $(l:modules/extruder_2)«Экструдер Мк2»/$.$(p)Его можно ставить пачкой: каждое дополнение увеличивает силу, с которой сущности отталкиваются при выдавливании модулем блока."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:pushing_augment"
+    }
+  ]
+}

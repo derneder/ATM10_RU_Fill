@@ -1,0 +1,27 @@
+{
+  "name": "Пламенный агитатор",
+  "icon": "rftoolspower:blazing_agitator",
+  "category": "rftoolsbase:category_rftoolspower_powergeneration",
+  "extra_recipe_mappings": {
+    "rftoolspower:blazing_agitator": 0
+  },
+  "sortnum": 23,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Пламенный агитатор подготавливает огненные стержни для $(l:rftoolsbase:powergeneration/blazinggenerator)пламенного генератора$(/l). Он расходует немного FE, превращая обычные стержни в пламенные стержни."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolspower:blazing_agitator"
+    },
+    {
+      "type": "text",
+      "text": "Соседние стержни во входной сетке улучшают друг друга. С хорошими соседями обработка идёт быстрее, а качество энергии выходит выше, поэтому стоит держать в сетке несколько сильных стержней."
+    },
+    {
+      "type": "text",
+      "text": "Девять кнопок блокировки не дают готовым стержням перемещаться в выход. Используйте их, чтобы оставлять высококачественные стержни на месте как усилители для будущих стержней."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+    "name": "Рождественские ёлки",
+    "icon": "merrymaking:christmas_tree_spruce",
+    "category": "merrymaking:trees",
+    "pages": [
+        {
+            "type": "spotlight",
+            "title": "Маленькие ели",
+            "item": "merrymaking:christmas_tree_spruce",
+            "text": "Чтобы украсить рождественскую ёлку, сначала найдите и срубите маленькую ель. Она растёт в холодных биомах, а иногда её саженцы выпадают из еловой хвои."
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["merrymaking:textures/gui/small_spruce.png"],
+            "text": "Маленькие ели"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Когда ёлка готова, можно оставить её как есть или покрасить белым красителем в заснеженную рождественскую ёлку. $(br2) Далее создайте подставку, в которую будет поставлена ёлка:"
+        },
+        {
+            "type": "crafting",
+            "recipe": "merrymaking:snowy_christmas_tree",
+            "recipe2": "merrymaking:tree_stand"
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["merrymaking:textures/gui/trees_stands.png"],
+            "text": "Ёлки в подставках"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Теперь можно украшать ёлку. $(br2)Украшения для ёлки: $(li)Огоньки $(li)Ёлочные игрушки $(li)Гирлянда из сладких ягод $(li)Верхушка для ёлки$(br2)Для ёлочных огоньков и игрушек есть два цветовых варианта: белые и яркие разноцветные; для верхушки можно выбрать звезду или бант."
+        },
+        {
+            "type": "patchouli:text",
+            "text": " У ёлок 3 секции, и каждая может вместить один комплект ёлочных огоньков, один комплект игрушек и одну гирлянду из сладких ягод. Клик по верхней секции с верхушкой поместит блок верхушки над ёлкой. Чтобы снять или сменить верхушку, взаимодействуйте с самой верхушкой.$(br2)Чтобы украсить ёлку, поместите предмет на нужную секцию. Чтобы убрать предмет с ёлки, кликните по нему пустой рукой."
+        },
+        {
+            "type": "crafting",
+            "title": "Ёлочные игрушки",
+            "recipe": "merrymaking:ornaments_white",
+            "recipe2": "merrymaking:ornaments_multi"
+        },
+        {
+            "type": "patchouli:smelting",
+            "title": "Гирлянда из сладких ягод",
+            "recipe": "merrymaking:dried_berries_smelting"
+        },
+        {
+            "type": "crafting",
+            "title": "Гирлянда из сладких ягод",
+            "recipe": "merrymaking:tree_garland"
+        },
+        {
+            "type": "crafting",
+            "title": "Верхушки",
+            "recipe": "merrymaking:bow",
+            "recipe2": "merrymaking:star"
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["merrymaking:textures/gui/tree_with_presents.png"],
+            "text": "Украшенная рождественская ёлка"
+        }
+    ]
+}

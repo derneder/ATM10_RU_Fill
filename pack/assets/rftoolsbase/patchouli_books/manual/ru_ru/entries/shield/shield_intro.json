@@ -1,0 +1,18 @@
+{
+  "name": "Введение",
+  "icon": "minecraft:experience_bottle",
+  "category": "rftoolsbase:category_rftoolsbuilder_shield",
+  "extra_recipe_mappings": {
+    "rftoolsbuilder:shield_block1": 0,
+    "rftoolsbuilder:shield_block2": 0,
+    "rftoolsbuilder:shield_block3": 0,
+    "rftoolsbuilder:shield_block4": 0
+  },
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Проектор щита можно использовать для защиты областей от мобов или для удержания мобов в определённой области. Он также может наносить урон"
+    }
+  ]
+}

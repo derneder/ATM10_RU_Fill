@@ -1,0 +1,19 @@
+{
+  "name": "Дополнения",
+  "icon": "modularrouters:augment_core",
+  "category": "modularrouters:intro",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(thing)Дополнения/$ — это как $(l:intro/upgrades)улучшения/$, но вставляются они в $(l:intro/modules)модуль/$, а не в $(l:intro/modular_router)маршрутизатор/$. В каждом модуле есть 4 слота под дополнения (некоторые дополнения можно ставить пачкой). Дополнения разными способами улучшают или расширяют функциональность модуля."
+    },
+    {
+      "type": "image",
+      "images": [
+        "modularrouters:textures/patchouli/augments.png"
+      ],
+      "text": "$(italic)Модуль «Вакуум» с 6 дополнениями «Больше радиус» и дополнением «Сборщик опыта»/$",
+      "border": true
+    }
+  ]
+}

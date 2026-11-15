@@ -1,0 +1,22 @@
+{
+    "name": "Корпус",
+    "icon": "bigreactors:fluidizercasing",
+    "category": "bigreactors:fluidizer-parts",
+    "read_by_default": true,
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "bigreactors:fluidizercasing",
+            "link_recipe": true,
+            "title" : "Корпус",
+            "text": "Блоки корпуса — основные строительные блоки флюидайзера.$(br2)Они необходимы для постройки его каркаса, а также используются в крафте других деталей. Блоки корпуса также можно использовать для заполнения граней флюидайзера, если вы не слишком любите стекло."
+        },
+        {
+            "type": "crafting-part_usage",
+            "crafting.title1": "Корпус",
+            "crafting.recipe1": "bigreactors:fluidizer/casing",
+            "usage.text": "$(l)Обязательно:$() необходимы для постройки каркаса$(br)$(l)Допустимые позиции:$() любые$(br)$(l)Графический интерфейс:$() нет"
+        }
+    ]
+}

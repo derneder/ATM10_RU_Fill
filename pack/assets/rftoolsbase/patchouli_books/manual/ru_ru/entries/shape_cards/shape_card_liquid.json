@@ -1,0 +1,19 @@
+{
+  "name": "Карта формы (размещение жидкостей)",
+  "icon": "rftoolsbuilder:shape_card_liquid",
+  "category": "rftoolsbase:category_rftoolsbuilder_shape_cards",
+  "extra_recipe_mappings": {
+    "rftoolsbuilder:shape_card_liquid": 1
+  },
+  "sortnum": 40,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Карта формы (размещение жидкостей) заставляет строителя размещать жидкость в выбранной форме. Подавайте жидкость через бак, подключённый к строителю."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsbuilder:shape_card_liquid"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Порт компьютера",
+    "icon": "bigreactors:reinforced_turbinecomputerport",
+    "category": "bigreactors:turbine-parts",
+    "read_by_default": true,
+    "sortnum": 9,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "bigreactors:reinforced_turbinecomputerport",
+            "link_recipe": true,
+            "title" : "Порт компьютера",
+            "text": "Порт компьютера позволяет подключить турбину к компьютеру для сложных задач автоматизации.$(br2)Подключённому компьютеру доступен стандартный набор методов: с их помощью можно запрашивать состояние турбины и управлять её поведением."
+        },
+        {
+            "type": "crafting-text",
+            "text": "Чтобы использовать порт компьютера, нужен внешний мод, добавляющий в игру программируемые компьютеры.$(br2)В настоящее время единственный поддерживаемый (и доступный) такой мод — CC.",
+            "title": "Усиленный",
+            "recipe": "bigreactors:turbine/reinforced/computerport"
+        },
+        {
+            "type": "bigreactors:part_usage",
+            "text": "$(l)Обязательна:$() нет$(br)$(l)Допустимые позиции:$() любая грань (не на раме)$(br)$(l)Варианты:$() усиленный$(br)$(l)Графический интерфейс:$() нет"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Атрибуты",
+    "description": "Помимо ванильных атрибутов, $(9)Apothic Attributes$() добавляет множество новых.$(p)В этом разделе описаны атрибуты, которые можно найти на предметах с аффиксами и самоцветах.",
+    "icon": "minecraft:diamond_chestplate",
+	"flag": "apotheosis:adventure",
+	"parent": "apotheosis:adventure/adventure"
+}

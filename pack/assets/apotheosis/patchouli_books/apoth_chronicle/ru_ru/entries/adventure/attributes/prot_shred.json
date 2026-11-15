@@ -1,0 +1,13 @@
+{
+    "name": "Защита от пронзания",
+    "icon": "apothic_attributes:textures/mob_effect/sundering.png",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Защита от пронзания$() позволяет игнорировать процент очков защиты цели при атаке.$(p)$(9)Защита от пронзания$() применяется раньше $(9)защиты от пробивания$()."
+        }
+	]
+}

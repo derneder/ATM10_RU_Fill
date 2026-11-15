@@ -1,0 +1,23 @@
+{
+    "name": "Ограды",
+    "icon": "minecraft:writable_book",
+    "category": "merrymaking:fences",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "merrymaking:brick_garland_wall",
+            "text": "Любой ванильный блок ограды можно украсить гирляндой.$(br2)Просто объедините ограду с гирляндой по вашему выбору на верстаке."
+        },
+        {
+            "type": "crafting",
+            "title": "Ограды с гирляндой",
+            "recipe": "merrymaking:andesite_wall_garland",
+            "recipe2": "merrymaking:stone_brick_wall_garland_white"
+        },
+        {
+            "type": "crafting",
+            "title": "Ограды с гирляндой",
+            "recipe": "merrymaking:sandstone_wall_garland_multi"
+        }
+    ]
+}

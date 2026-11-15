@@ -1,0 +1,33 @@
+{
+  "name": "Антенны",
+  "icon": "xnet:antenna",
+  "category": "rftoolsbase:category_xnet_wireless",
+  "extra_recipe_mappings": {
+    "xnet:antenna": 0,
+    "xnet:antenna_base": 0,
+    "xnet:antenna_dish": 0
+  },
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Беспроводному маршрутизатору нужна антенна сверху. Обычная антенна даёт малую дальность, основание антенны улучшает её, а антенная тарелка обеспечивает неограниченную дальность."
+    },
+    {
+      "type": "text",
+      "text": "Антенны более высокого уровня стоят больше RF за канал. Проверяйте дальность и стоимость RF/т в подсказке предмета."
+    },
+    {
+      "type": "crafting",
+      "recipe": "xnet:antenna"
+    },
+    {
+      "type": "crafting",
+      "recipe": "xnet:antenna_base"
+    },
+    {
+      "type": "crafting",
+      "recipe": "xnet:antenna_dish"
+    }
+  ]
+}

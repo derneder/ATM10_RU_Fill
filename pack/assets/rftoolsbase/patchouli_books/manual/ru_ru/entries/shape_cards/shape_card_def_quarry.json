@@ -1,0 +1,40 @@
+{
+  "name": "Карта формы (карьер)",
+  "icon": "rftoolsbuilder:shape_card_quarry",
+  "category": "rftoolsbase:category_rftoolsbuilder_shape_cards",
+  "extra_recipe_mappings": {
+    "rftoolsbuilder:shape_card_quarry": 1,
+    "rftoolsbuilder:shape_card_quarry_clear": 2,
+    "rftoolsbuilder:shape_card_quarry_silk": 3,
+    "rftoolsbuilder:shape_card_quarry_fortune": 4,
+    "rftoolsbuilder:shape_card_quarry_clear_silk": 3,
+    "rftoolsbuilder:shape_card_quarry_clear_fortune": 4
+  },
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Карта формы (карьер) заставляет строителя добывать все блоки в выбранной области. Обычные карьерные карты заменяют добытую породу заданным заполнителем."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsbuilder:shape_card_quarry"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsbuilder:shape_card_quarry_clear"
+    },
+    {
+      "type": "text",
+      "text": "Варианты с очисткой оставляют воздух вместо заполнителя. Варианты с шёлковым касанием сохраняют блоки, а варианты с удачей улучшают дроп, где возможно."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsbuilder:shape_card_quarry_silk"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsbuilder:shape_card_quarry_fortune"
+    }
+  ]
+}

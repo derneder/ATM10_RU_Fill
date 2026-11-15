@@ -1,0 +1,13 @@
+{
+    "name": "Роевые рассадники",
+    "icon": "minecraft:spider_eye",
+    "category": "apotheosis:adventure/rogue_spawners",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Роевой рассадник — мерзкий подвид дикого рассадника, который спавнит мобов в большом количестве и очень быстро.$(p)Обычно они ограничены более слабыми мобами, часто паукообразными, так что это не так уж пугающе."
+        }
+	]
+}

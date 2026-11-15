@@ -1,0 +1,18 @@
+{
+    "name": "Модуль слияния полей",
+    "icon": "mffs:fusion_module",
+    "category": "mffs:projector_modules",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "mffs:fusion_module",
+            "link_recipe": true,
+            "text": "$(5)Модуль слияния полей$() можно поместить в слоты матрицы $(l:mffs:machines/projector)Проекторов силового поля$(), чтобы объединять два и более проецируемых поля. Модуль отсекает любые проецируемые блоки, перекрывающиеся с другим силовым полем. Несколько силовых полей с этим модулем бесшовно сольются в одно."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "mffs:fusion_module",
+            "text": "Создание $(5)Модуля слияния полей$()."
+        }
+    ]
+}

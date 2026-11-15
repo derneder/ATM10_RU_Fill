@@ -1,0 +1,13 @@
+{
+    "name": "Урон текущего ОЗ",
+    "icon": "minecraft:dragon_head",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Урон текущего ОЗ$() — тип урона при ударе. С каждым ударом вы наносите процент от текущего здоровья цели дополнительным физическим уроном.$(p)Этот показатель встречается только на оружии ближнего боя."
+        }
+	]
+}

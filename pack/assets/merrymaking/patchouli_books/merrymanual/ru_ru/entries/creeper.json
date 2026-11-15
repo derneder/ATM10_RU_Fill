@@ -1,0 +1,17 @@
+{
+    "name": "Рождественский крипер",
+    "icon": "merrymaking:christmas_creeper_spawn_egg",
+    "category": "merrymaking:mobs",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "В праздничном духе этот маленький парень приготовил для игроков особый сюрприз — если, конечно, они позволят ему подойти достаточно близко."
+        },
+        {
+            "type": "patchouli:entity",
+            "name": "Рождественский крипер",
+            "entity": "merrymaking:christmas_creeper",
+            "text": "Просто… не злите его. Вам не понравится, когда он разозлится."
+        }
+    ]
+}

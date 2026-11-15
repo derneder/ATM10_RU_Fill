@@ -1,0 +1,29 @@
+{
+  "name": "Модули сканера",
+  "icon": "rftoolsstorage:storage_control_module",
+  "category": "rftoolsbase:category_rftoolsstorage_scanner",
+  "extra_recipe_mappings": {
+    "rftoolsstorage:storage_control_module": 0,
+    "rftoolsstorage:dump_module": 0
+  },
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Модули «Управление хранилищем» и «Сброс» — экранные модули, работающие через привязанный сканер хранилищ. Присядьте и нажмите ПКМ модулем по сканеру, чтобы задать его цель."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsstorage:storage_control_module",
+      "recipe2": "rftoolsstorage:dump_module"
+    },
+    {
+      "type": "text",
+      "text": "Модуль экрана «Управление хранилищем» отслеживает до девяти предметных фильтров и может считать все инвентари или только отмеченные/маршрутизируемые."
+    },
+    {
+      "type": "text",
+      "text": "Модуль экрана «Сброс» перемещает подходящие предметы из инвентаря игрока в связанную сеть сканера. Он может использовать общие теги предметов для более широкого совпадения."
+    }
+  ]
+}

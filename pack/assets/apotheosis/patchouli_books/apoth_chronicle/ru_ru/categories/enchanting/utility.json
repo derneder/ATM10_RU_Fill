@@ -1,0 +1,7 @@
+{
+    "name": "Вспомогательные предметы",
+    "description": "В этом разделе описаны всевозможные инструменты, облегчающие зачарование.",
+    "icon": "apothic_enchanting:library",
+	"flag": "apotheosis:enchanting",
+	"parent": "apotheosis:enchanting/enchanting"
+}

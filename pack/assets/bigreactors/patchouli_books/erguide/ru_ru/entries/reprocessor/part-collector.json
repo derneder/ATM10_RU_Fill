@@ -1,0 +1,22 @@
+{
+    "name": "Коллектор",
+    "icon": "bigreactors:reprocessorcollector",
+    "category": "bigreactors:reprocessor-parts",
+    "read_by_default": true,
+    "sortnum": 7,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "bigreactors:reprocessorcollector",
+            "link_recipe": true,
+            "title" : "Коллектор",
+            "text": "Коллектор забирает материал из внутренней части репроцессора по завершении переработки."
+        },
+        {
+            "type": "crafting-part_usage",
+            "crafting.title1": "Collector",
+            "crafting.recipe1": "bigreactors:reprocessor/collector",
+            "usage.text": "$(l)Обязательна:$() требуется один и только один$(br)$(l)Допустимые позиции:$() нижняя грань (не на раме)$(br)$(l)Графический интерфейс:$() нет"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Фасад",
+  "icon": "xnet:facade",
+  "category": "rftoolsbase:category_xnet_simple",
+  "extra_recipe_mappings": {
+    "xnet:facade": 0
+  },
+  "sortnum": 40,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Фасады скрывают кабели XNet, имитируя другой блок. Используйте фасад по блоку, чтобы скопировать его, затем поместите фасад поверх кабеля XNet."
+    },
+    {
+      "type": "text",
+      "text": "Коннекторы также можно скрывать фасадами. Разрушение фасада вскрывает или восстанавливает находящуюся за ним кабельную схему."
+    },
+    {
+      "type": "crafting",
+      "recipe": "xnet:facade"
+    }
+  ]
+}

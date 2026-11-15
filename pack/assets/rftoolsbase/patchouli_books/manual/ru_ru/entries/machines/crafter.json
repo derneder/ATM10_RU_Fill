@@ -1,0 +1,20 @@
+{
+  "name": "Крафтер",
+  "icon": "rftoolsutility:crafter3",
+  "category": "rftoolsbase:category_rftoolsutility_machines",
+  "extra_recipe_mappings": {
+    "rftoolsutility:crafter1": 0,
+    "rftoolsutility:crafter2": 0,
+    "rftoolsutility:crafter3": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "Крафтер может автоматически изготавливать блоки и предметы. Версия высшего уровня поддерживает до 8 различных рецептов$(br2)У него 26 входных слотов (для ингредиентов) и 4 выходных слота."
+    },
+    {
+      "type": "text",
+      "text": "Кнопкой R можно $(l)запомнить$() содержимое слотов. Тогда входной или выходной слот сможет содержать только этот конкретный предмет. Кнопка F снова забывает это$(br2)$(5)Наполнение$() этой машины снижает энергопотребление$(br2)Крафтер поддерживает $(l:rftoolsbase:tools/filtermodule)модуль фильтра$(/l)."
+    }
+  ]
+}

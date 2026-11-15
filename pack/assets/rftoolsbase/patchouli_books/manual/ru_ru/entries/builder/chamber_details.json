@@ -1,0 +1,15 @@
+{
+  "name": "Детали камеры",
+  "icon": "rftoolsbuilder:space_chamber_controller",
+  "category": "rftoolsbase:category_rftoolsbuilder_builder",
+  "extra_recipe_mappings": {
+    "rftoolsbuilder:space_chamber_controller": 0
+  },
+  "sortnum": 30,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Экран «Детали камеры» показывает, что находится внутри выбранной пространственной камеры.$(br2)Нажмите ПКМ с картой пространства, чтобы открыть обзор всех блоков и сущностей, которые сейчас находятся в этой камере."
+    }
+  ]
+}

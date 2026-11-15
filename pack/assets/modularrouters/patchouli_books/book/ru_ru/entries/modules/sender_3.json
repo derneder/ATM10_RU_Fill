@@ -1,0 +1,15 @@
+{
+  "name": "Модуль: Отправитель Мк3",
+  "category": "modularrouters:modules",
+  "icon": "modularrouters:sender_module_3",
+  "pages": [
+    {
+      "type": "text",
+      "text": " Этот топовый модуль-отправитель работает почти как $(l:modules/sender_3)«Отправитель Мк2»/$, но может отправлять в любой инвентарь (в любом измерении) без ограничений!$(p)Примечание: целевой инвентарь должен быть загружен (chunk-loaded); $(modr) не сделает это за вас."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:sender_module_3"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Шаблоны",
+    "icon": "minecraft:writable_book",
+    "category": "merrymaking:misc",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "merrymaking:left_diag_template",
+            "text": "Шаблоны задают левую или правую форму блока огоньков/гирлянды при создании. Шаблоны многоразовые и остаются после создания. Для рецептов шаблонов нужны зелёный краситель и бумага; они подходят и для огоньков, и для гирлянд. Рецепты шаблонов:"
+        },
+        {
+            "type": "crafting",
+            "title": "Диагональные шаблоны",
+            "recipe": "merrymaking:left_diag_template",
+            "recipe2": "merrymaking:right_diag_template"
+        },
+        {
+            "type": "crafting",
+            "title": "Вертикальные шаблоны",
+            "recipe": "merrymaking:left_vert_template",
+            "recipe2": "merrymaking:right_vert_template"
+        },
+        {
+            "type": "crafting",
+            "title": "Шаблоны вертикального угла",
+            "recipe": "merrymaking:left_corner_template",
+            "recipe2": "merrymaking:right_corner_template"
+        }
+    ]
+}

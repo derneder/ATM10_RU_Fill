@@ -1,0 +1,31 @@
+{
+    "name": "Контроллер",
+    "icon": "bigreactors:reinforced_turbinecontroller",
+    "category": "bigreactors:turbine-parts",
+    "read_by_default": true,
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "bigreactors:reinforced_turbinecontroller",
+            "link_recipe": true,
+            "title" : "Контроллер",
+            "text": "Контроллер — ваш главный интерфейс взаимодействия с турбиной.$(br2)Щёлкните правой кнопкой мыши по контроллеру, чтобы открыть его графический интерфейс. Там можно включать и выключать турбину, проверять количество пара и охладителя во внутренних баках, следить за скоростью вращения $(l:bigreactors/rotor)ротора$(/l) и за тем, сколько энергии генерируется."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Также можно регулировать поток пара вокруг $(l:bigreactors/rotor)ротора$(/l), решать, что делать с паром после его конденсации обратно в исходный охладитель, а также включать и отключать $(l:bigreactors/coils)индукционные катушки$(/l).$(br2)При наведении курсора на элемент управления в интерфейсе отобразится всплывающая подсказка с дополнительной информацией или пояснением к этому элементу."
+        },
+        {
+            "type": "bigreactors:crafting1x",
+            "title1": "Basic",
+            "recipe1": "bigreactors:turbine/basic/controller",
+            "title2": "Reinforced",
+            "recipe2": "bigreactors:turbine/reinforced/controller"
+        },
+        {
+            "type": "bigreactors:part_usage",
+            "text": "$(l)Обязательна:$() требуется хотя бы один$(br)$(l)Допустимые позиции:$() любая грань (не на раме)$(br)$(l)Варианты:$() все$(br)$(l)Графический интерфейс:$() да"
+        }
+    ]
+}

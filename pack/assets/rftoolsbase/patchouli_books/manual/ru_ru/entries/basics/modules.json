@@ -1,0 +1,15 @@
+{
+  "name": "Модули",
+  "icon": "rftoolsbase:filter_module",
+  "category": "rftoolsbase:category_basics",
+  "extra_recipe_mappings": {
+    "rftoolsbase:filter_module": 0,
+    "rftoolsbase:crafting_card": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "Различные машины в технических модах RFTools поддерживают модули. Это предметы, которые можно вставить в машину, чтобы изменить или добавить функциональность. В большинстве случаев (если машина поддерживает модули) достаточно нажать ПКМ с модулем по машине, чтобы вставить его."
+    }
+  ]
+}

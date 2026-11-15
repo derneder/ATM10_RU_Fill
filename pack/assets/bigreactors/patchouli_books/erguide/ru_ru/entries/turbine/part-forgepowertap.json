@@ -1,0 +1,38 @@
+{
+    "name": "Выход энергии Forge",
+    "icon": "bigreactors:reinforced_turbinepowertapfe_active",
+    "category": "bigreactors:turbine-parts",
+    "read_by_default": true,
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "bigreactors:reinforced_turbinepowertapfe_active",
+            "link_recipe": true,
+            "title" : "Выход энергии Forge",
+            "text": "Выход энергии Forge позволяет извлекать энергию из турбины.$(br2)Как следует из названия, этот выход энергии выдаёт энергию через $(l:bigreactors:misc/powersystem)энергосистему$(/l) Forge Energy, поэтому его можно подключать только к трубам или механизмам, совместимым с этой системой."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "В каждой турбине можно использовать только одну $(l:bigreactors:misc/powersystem)энергосистему$(/l), поэтому в одной турбине можно использовать только один тип выхода энергии.$(br2)Выход энергии доступен в $(l:bigreactors:misc/passiveactiveparts)пассивном и активном$(/l) исполнении."
+        },
+        {
+            "type": "bigreactors:crafting1x",
+            "title1": "Basic (Passive)",
+            "recipe1": "bigreactors:turbine/basic/passivetap_fe",
+            "title2": "Reinforced (Passive)",
+            "recipe2": "bigreactors:turbine/reinforced/passivetap_fe"
+        },
+        {
+            "type": "bigreactors:crafting1x",
+            "title1": "Basic (Active)",
+            "recipe1": "bigreactors:turbine/basic/activetap_fe",
+            "title2": "Reinforced (Active)",
+            "recipe2": "bigreactors:turbine/reinforced/activetap_fe"
+        },
+        {
+            "type": "bigreactors:part_usage",
+            "text": "$(l)Обязательна:$() нет$(br)$(l)Допустимые позиции:$() любая грань (не на раме)$(br)$(l)Варианты:$() все$(br)$(l)Графический интерфейс:$() нет$(br)$(l)Энергосистема:$() Forge Energy"
+        }
+    ]
+}

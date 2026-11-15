@@ -1,0 +1,28 @@
+{
+  "name": "Карта формы (насос)",
+  "icon": "rftoolsbuilder:shape_card_pump",
+  "category": "rftoolsbase:category_rftoolsbuilder_shape_cards",
+  "extra_recipe_mappings": {
+    "rftoolsbuilder:shape_card_pump": 1,
+    "rftoolsbuilder:shape_card_pump_clear": 2
+  },
+  "sortnum": 50,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Карта формы (насос) заставляет строителя собирать жидкости из выбранной области. Откачанная жидкость должна храниться в баке, подключённом к строителю."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsbuilder:shape_card_pump"
+    },
+    {
+      "type": "text",
+      "text": "Обычная карта насоса заменяет удалённую жидкость заданным заполнителем. Вариант с очисткой вместо этого оставляет пустое пространство."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsbuilder:shape_card_pump_clear"
+    }
+  ]
+}

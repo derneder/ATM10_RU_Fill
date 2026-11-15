@@ -1,0 +1,7 @@
+{
+  "name": "Простая сеть",
+  "description": "Простая сеть.",
+  "parent": "rftoolsbase:category_xnet",
+  "icon": "xnet:netcable_red",
+  "sortnum": 10
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Порт питания",
+    "icon": "bigreactors:fluidizerpowerport",
+    "category": "bigreactors:fluidizer-parts",
+    "read_by_default": true,
+    "sortnum": 6,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "bigreactors:fluidizerpowerport",
+            "link_recipe": true,
+            "title" : "Порт питания",
+            "text": "Порт питания позволяет подавать энергию, необходимую для работы флюидайзера.$(br2)К порту питания можно подключить любой кабель или генератор, совместимые с Forge Energy."
+        },
+        {
+            "type": "crafting-part_usage",
+            "crafting.title1": "Порт питания",
+            "crafting.recipe1": "bigreactors:fluidizer/powerport",
+            "usage.text": "$(l)Обязательно:$() требуется хотя бы один$(br)$(l)Допустимые позиции:$() любая грань (не каркас)$(br)$(l)Графический интерфейс:$() нет"
+        }
+    ]
+}

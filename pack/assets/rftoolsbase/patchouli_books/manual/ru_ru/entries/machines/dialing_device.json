@@ -1,0 +1,20 @@
+{
+  "name": "Наборное устройство",
+  "icon": "rftoolsutility:dialing_device",
+  "category": "rftoolsbase:category_rftoolsutility_machines",
+  "extra_recipe_mappings": {
+    "rftoolsutility:dialing_device": 0,
+    "rftoolsutility:simple_dialer": 0,
+    "rftoolsutility:destination_analyzer": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "С помощью наборного устройства можно связать $(l:rftoolsbase:machines/matter_transmitter)передатчик материи$(/l) с $(l:rftoolsbase:machines/matter_receiver)приёмником материи$(/l). Учтите, что передатчик материи должен находиться поблизости, а приёмник материи может быть очень далеко (даже в другом измерении)$(br2)$(5)Наполнение$() этой машины снижает энергопотребление."
+    },
+    {
+      "type": "text",
+      "text": "Чтобы набрать номер, сначала нужно выбрать передатчик материи. Если поблизости только один, он будет выбран автоматически. После этого нужно выбрать приёмник материи (в нижнем списке) и нажать «Набрать» или «Набрать однократно». При «Набрать однократно» соединение прервётся, как только кто-то телепортируется."
+    }
+  ]
+}

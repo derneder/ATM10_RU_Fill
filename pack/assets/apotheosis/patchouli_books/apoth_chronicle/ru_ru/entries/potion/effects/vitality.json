@@ -1,0 +1,17 @@
+{
+    "name": "Бурлящая жизненная сила",
+    "icon": "apothic_attributes:textures/mob_effect/vitality.png",
+    "category": "apotheosis:potion/effects",
+	"flag": "apotheosis:potion",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Бурлящая жизненная сила$() — полезный эффект, даруемый зельем усиления исцеления.$(p)Под его действием всё получаемое исцеление увеличивается."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Увеличение исцеления составляет 20% за уровень."
+        }
+	]
+}

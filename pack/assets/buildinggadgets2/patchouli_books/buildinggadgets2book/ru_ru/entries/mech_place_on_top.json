@@ -1,0 +1,22 @@
+{
+  "name": "Ставить сверху",
+  "sortnum": 1,
+  "category": "buildinggadgets2:mechanics",
+  "icon": "buildinggadgets2:textures/book/icons/place_on_top.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Опция «Ставить сверху» работает немного по-разному в каждом режиме, а для некоторых режимов вообще не имеет эффекта.$(br2)В общем случае блоки размещаются не вокруг блока, а сверху него. Попробуйте и посмотрите, как это меняет отрисовку!$(br2)Пример см. на двух изображениях справа."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Ставить сверху",
+      "images": [
+        "buildinggadgets2:textures/book/images/placeontop1.png",
+        "buildinggadgets2:textures/book/images/placeontop2.png"
+      ],
+      "border": true,
+      "text": "Переключайте изображения выше, чтобы увидеть разные варианты"
+    }
+  ]
+}

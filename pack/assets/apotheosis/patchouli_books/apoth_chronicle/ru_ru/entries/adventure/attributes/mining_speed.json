@@ -1,0 +1,13 @@
+{
+    "name": "Скорость копания",
+    "icon": "minecraft:netherite_pickaxe",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Увеличение $(9)скорости копания$() повышает скорость, с которой вы разрушаете блоки. При базовом значении 1,0 вы разрушаете блоки как обычно.$(p)Встречается на инструментах для разрушения блоков и ножницах."
+        }
+	]
+}

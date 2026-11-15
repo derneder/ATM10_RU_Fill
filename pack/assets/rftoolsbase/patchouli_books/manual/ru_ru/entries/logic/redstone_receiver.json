@@ -1,0 +1,18 @@
+{
+  "name": "Редстоуновый приёмник",
+  "icon": "rftoolsutility:redstone_receiver",
+  "category": "rftoolsbase:category_rftoolsutility_logic",
+  "extra_recipe_mappings": {
+    "rftoolsutility:redstone_receiver": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "Этот блок принимает сигнал редстоуна от связанного редстоунового передатчика. Чтобы связать этот приёмник с передатчиком, нажмите этим блоком ПКМ по передатчику (или другому связанному приёмнику). Включение «аналогового режима» сохраняет уровень мощности передаваемых сигналов на принимающей стороне."
+    },
+    {
+      "type": "text",
+      "text": "Используйте $(l:rftoolsbase:logic/redstone_transmitter)редстоуновый передатчик$(/l) или кнопочный модуль в $(l:rftoolsbase:machines/screen)экране$(/l), чтобы посылать сигналы редстоуна."
+    }
+  ]
+}

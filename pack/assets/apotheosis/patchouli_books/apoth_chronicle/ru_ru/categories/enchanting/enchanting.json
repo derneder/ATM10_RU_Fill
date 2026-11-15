@@ -1,0 +1,6 @@
+{
+    "name": "Чародейство",
+    "description": "$(9)Apothic Enchanting$() отвечает за все изменения системы зачарования.$(p)Контента много — осмотритесь.",
+    "icon": "minecraft:enchanting_table",
+	"flag": "apotheosis:enchanting"
+}

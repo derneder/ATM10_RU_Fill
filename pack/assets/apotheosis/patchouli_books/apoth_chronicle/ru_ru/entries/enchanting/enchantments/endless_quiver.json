@@ -1,0 +1,17 @@
+{
+    "name": "Бесконечная колчан",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(2)Бесконечная колчан$() — шедевральное зачарование для луков.$(p)При выстреле из лука стрелы не тратятся, независимо от типа.$(p)Считается прямым улучшением зачарования $(9)Бесконечность$()."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Это зачарование делает бесконечными даже стрелы из других модов."
+        }
+	]
+}

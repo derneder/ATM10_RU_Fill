@@ -1,0 +1,7 @@
+{
+  "name": "Логические блоки",
+  "description": "Логические блоки предназначены для создания сигналов редстоуна и реакции на них.",
+  "parent": "rftoolsbase:category_rftoolsutility",
+  "icon": "rftoolsutility:sequencer",
+  "sortnum": 30
+}

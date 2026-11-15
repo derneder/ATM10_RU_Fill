@@ -1,0 +1,27 @@
+{
+  "name": "Модульное хранилище",
+  "icon": "rftoolsstorage:modular_storage",
+  "category": "rftoolsbase:category_rftoolsstorage_modularstorage",
+  "extra_recipe_mappings": {
+    "rftoolsstorage:modular_storage": 0
+  },
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Модульное хранилище — блок хранения с поиском. Вставьте $(l:rftoolsbase:modularstorage/storagemodules)модуль хранения$(/l), чтобы определить, сколько стаков он вмещает."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsstorage:modular_storage"
+    },
+    {
+      "type": "text",
+      "text": "Блок хранит предметы в модуле, поэтому модуль сохраняет содержимое при перемещении. Модули более высокого уровня открывают более ёмкие инвентари."
+    },
+    {
+      "type": "text",
+      "text": "Используйте интерфейс для поиска, сортировки, уплотнения и переключения видимых размеров инвентаря. Слот модуля определяет реальную вместимость хранилища."
+    }
+  ]
+}

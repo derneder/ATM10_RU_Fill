@@ -1,0 +1,27 @@
+{
+    "name": "Стекло",
+    "icon": "bigreactors:reinforced_turbineglass",
+    "category": "bigreactors:turbine-parts",
+    "read_by_default": true,
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "bigreactors:reinforced_turbineglass",
+            "link_recipe": true,
+            "title" : "Стекло",
+            "text": "Стеклянные блоки — декоративные блоки, которые можно использовать вместо блока $(l:bigreactors:turbine/part-casing)корпуса$(/l), чтобы показать внутренность турбины."
+        },
+        {
+            "type": "bigreactors:crafting1x",
+            "title1": "Basic",
+            "recipe1": "bigreactors:turbine/basic/glass",
+            "title2": "Reinforced",
+            "recipe2": "bigreactors:turbine/reinforced/glass"
+        },
+        {
+            "type": "bigreactors:part_usage",
+            "text": "$(l)Обязательна:$() нет$(br)$(l)Допустимые позиции:$() любая грань (не на раме)$(br)$(l)Варианты:$() все$(br)$(l)Графический интерфейс:$() нет"
+        }
+    ]
+}

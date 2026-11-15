@@ -1,0 +1,13 @@
+{
+    "name": "Сопротивление отбрасыванию",
+    "icon": "minecraft:shulker_shell",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Сопротивление отбрасыванию$() — ваша устойчивость к отбрасыванию атаками. При максимальном значении вы невосприимчивы к отбрасыванию.$(p)Обычно его дают броня или щиты."
+        }
+	]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Модули хранения",
+  "icon": "rftoolsstorage:storage_module0",
+  "category": "rftoolsbase:category_rftoolsstorage_modularstorage",
+  "extra_recipe_mappings": {
+    "rftoolsstorage:storage_module0": 0,
+    "rftoolsstorage:storage_module1": 0,
+    "rftoolsstorage:storage_module2": 0,
+    "rftoolsstorage:storage_module3": 0
+  },
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Модули хранения — это фактическое хранилище предметов модульного хранилища. Уровень 1 вмещает 100 стаков, уровень 2 — 200, уровень 3 — 300, уровень 4 — 500."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsstorage:storage_module0"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsstorage:storage_module1",
+      "recipe2": "rftoolsstorage:storage_module2"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsstorage:storage_module3"
+    },
+    {
+      "type": "text",
+      "text": "Улучшение с помощью форменных NBT-рецептов сохраняет содержимое модуля. Делайте резервные копии перед переносом ценных модулей между системами."
+    }
+  ]
+}

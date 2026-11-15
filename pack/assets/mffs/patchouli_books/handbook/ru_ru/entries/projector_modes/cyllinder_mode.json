@@ -1,0 +1,32 @@
+{
+    "name": "Режим цилиндра",
+    "icon": "mffs:cylinder_mode",
+    "category": "mffs:projector_modes",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "mffs:cylinder_mode",
+            "link_recipe": true,
+            "text": "По умолчанию $(2)Режим цилиндра$() заставляет Проектор генерировать силовое поле в форме цилиндра толщиной ровно 1 блок. Каждый $(l:mffs:upgrade_modules/scale_module)$(5)Модуль масштабирования$() увеличивает размер силового поля на 1 блок в заданном направлении."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "mffs:cylinder_mode",
+            "text": "Создание $(2)Режима цилиндра$()."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Настройка поля",
+            "text": "Помещение $(l:mffs:upgrade_modules/scale_module)$(5)Модуля масштабирования$() в слот, отмеченный направленной стрелкой, увеличит поле на 1 блок только в этом направлении. Например, чтобы увеличить высоту силового поля на 1 блок, добавьте $(l:mffs:upgrade_modules/scale_module)$(5)Модуль масштабирования$() в слот, отмеченный стрелкой, указывающей в левый верхний или правый верхний угол GUI."
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "mffs:textures/gui/handbook/cylinder_mode.png"
+            ],
+            "border": true,
+            "title": "Проецирование",
+            "text": "Масштабируемое поле $(2)Режима цилиндра$() во время проецирования."
+        }
+    ]
+}

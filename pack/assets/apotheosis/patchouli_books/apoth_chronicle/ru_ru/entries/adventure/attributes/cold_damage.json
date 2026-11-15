@@ -1,0 +1,13 @@
+{
+    "name": "Холодный урон",
+    "icon": "minecraft:blue_ice",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Холодный урон$() — бонусный магический урон, добавляемый к атакам ближнего боя. Он также накладывает замедление в зависимости от силы урона.$(p)Встречается на оружии ближнего боя."
+        }
+	]
+}

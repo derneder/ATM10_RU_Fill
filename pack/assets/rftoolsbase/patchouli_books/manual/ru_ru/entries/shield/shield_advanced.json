@@ -1,0 +1,30 @@
+{
+  "name": "Продвинутый",
+  "icon": "rftoolsbuilder:red_shield_template_block",
+  "category": "rftoolsbase:category_rftoolsbuilder_shield",
+  "extra_recipe_mappings": {
+    "rftoolsbuilder:blue_shield_template_block": 0,
+    "rftoolsbuilder:red_shield_template_block": 0,
+    "rftoolsbuilder:green_shield_template_block": 0,
+    "rftoolsbuilder:yellow_shield_template_block": 0
+  },
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Проектор щита может формировать щит из ближайших блоков-шаблонов или из карты форм, вставленной в интерфейс. Форменные щиты игнорируют блоки-шаблоны."
+    },
+    {
+      "type": "text",
+      "text": "Режимы видимости: невидимый, щит, прозрачный, твёрдый и имитация. Имитация использует блок из слота имитации как текстуру щита."
+    },
+    {
+      "type": "text",
+      "text": "Фильтры определяют, что происходит с сущностями: пропуск, блокировка, урон или блокировка с уроном. Типы фильтров: все, пассивные, враждебные, предметы и игроки."
+    },
+    {
+      "type": "text",
+      "text": "Порядок фильтров важен. Перемещайте конкретные правила выше общих, чтобы правила для именованных игроков или предметов обрабатывались раньше общего правила «все»."
+    }
+  ]
+}

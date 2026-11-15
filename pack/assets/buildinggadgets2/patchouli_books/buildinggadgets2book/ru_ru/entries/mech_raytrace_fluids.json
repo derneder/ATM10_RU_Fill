@@ -1,0 +1,21 @@
+{
+  "name": "Учитывать жидкости",
+  "sortnum": 1,
+  "category": "buildinggadgets2:mechanics",
+  "icon": "buildinggadgets2:textures/book/icons/raytrace_fluid.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Параметр «Учитывать жидкости» позволяет гаджету (гаджетам) взаимодействовать с жидкостями. Когда он включён, гаджет замены может заменять жидкости, а строительный гаджет — строить поверх жидкостей. $(br2)Когда он выключен, эти гаджеты игнорируют жидкости и строят на блоках позади них.$(br2)Подробности — в главе $(l:buildinggadgets2:mech_fluid_handling)Работа с жидкостями$(/l)."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Учитывать жидкости",
+      "images": [
+        "buildinggadgets2:textures/book/images/raytracefluids.png"
+      ],
+      "border": true,
+      "text": "Воздействие на жидкости!"
+    }
+  ]
+}

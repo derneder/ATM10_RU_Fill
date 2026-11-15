@@ -1,0 +1,19 @@
+{
+    "name": "Сопротивление",
+    "icon": "minecraft:textures/mob_effect/resistance.png",
+    "category": "apotheosis:potion/recipes",
+	"flag": "apotheosis:potion",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Сопротивление$() — весьма полезный эффект, не имеющий рецепта в ванилле.$(p)Каждый уровень даёт +20% снижения урона от всех источников.$(p)Оно также понадобится для создания зелий $(l:apotheosis:potion/effects/sundering)Раскалывания$()."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"title": "Рецепт зельеварения",
+			"item": "minecraft:shulker_shell",
+            "text": "Это зелье варится из неловкого зелья и панциря шалкера.$(p)Его можно продлить, усилить или превратить в взрывное зелье обычными ингредиентами."
+        }
+	]
+}

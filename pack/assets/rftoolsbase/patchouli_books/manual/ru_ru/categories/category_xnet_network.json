@@ -1,0 +1,7 @@
+{
+  "name": "Несколько сетей",
+  "description": "Соединение нескольких сетей с помощью маршрутизатора.",
+  "parent": "rftoolsbase:category_xnet",
+  "icon": "xnet:router",
+  "sortnum": 20
+}

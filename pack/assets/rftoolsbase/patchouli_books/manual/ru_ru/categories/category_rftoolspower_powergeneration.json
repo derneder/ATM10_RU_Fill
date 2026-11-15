@@ -1,0 +1,7 @@
+{
+  "name": "Выработка энергии",
+  "description": "Машины, вырабатывающие энергию.",
+  "parent": "rftoolsbase:category_rftoolspower",
+  "icon": "rftoolspower:coalgenerator",
+  "sortnum": 10
+}

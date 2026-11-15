@@ -1,0 +1,51 @@
+{
+  "name": "Энергоблок",
+  "icon": "rftoolspower:cell1",
+  "category": "rftoolsbase:category_rftoolspower_powerstorage",
+  "extra_recipe_mappings": {
+    "rftoolspower:cell1": 0,
+    "rftoolspower:cell2": 0,
+    "rftoolspower:cell3": 0,
+    "rftoolspower:power_core1": 0,
+    "rftoolspower:power_core2": 0,
+    "rftoolspower:power_core3": 0
+  },
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Энергоблоки$() хранят огромные объёмы энергии. Их можно ставить по отдельности или рядом друг с другом, формируя мультиблочную структуру. Энергоблоки автоматически распределяют RF между собой и соседями и объединяются в мультиблок независимо от уровня."
+    },
+    {
+      "type": "text",
+      "text": "У энергоблоков нет интерфейса, но их можно настроить на ввод, вывод или игнорирование энергии, ударив $(l:rftoolsbase:tools/smartwrench)умным гаечным ключом$() по нужной стороне в $(thing)режиме гаечного ключа$(). Синяя сторона — вход, жёлтая — выход, пустая — ничего."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolspower:power_core1",
+      "recipe2": "rftoolspower:cell1"
+    },
+    {
+      "type": "text",
+      "text": "По умолчанию $(item)энергоблок (низкий)$() вмещает 500,000RF каждый."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolspower:power_core2",
+      "recipe2": "rftoolspower:cell2"
+    },
+    {
+      "type": "text",
+      "text": "По умолчанию $(item)энергоблок (средний)$() вмещает 4,000,000RF каждый."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolspower:power_core3",
+      "recipe2": "rftoolspower:cell3"
+    },
+    {
+      "type": "text",
+      "text": "По умолчанию $(item)энергоблок (высокий)$() вмещает 20,000,000RF каждый. Это очень много RF!"
+    }
+  ]
+}

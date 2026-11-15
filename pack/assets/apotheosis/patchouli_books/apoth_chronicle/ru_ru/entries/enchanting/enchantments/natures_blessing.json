@@ -1,0 +1,13 @@
+{
+    "name": "Благословение природы",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Благословение природы$() — зачарование для мотыг.$(p)Оно позволяет использовать мотыгу как костную муку за счёт прочности.$(p)Более высокие уровни зачарования снижают расход прочности.$(p)Не срабатывает, пока вы крадётесь."
+        }
+	]
+}

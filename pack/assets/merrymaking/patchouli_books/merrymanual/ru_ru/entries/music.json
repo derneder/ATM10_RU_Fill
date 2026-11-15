@@ -1,0 +1,23 @@
+{
+    "name": "Праздничные музыкальные диски",
+    "icon": "merrymaking:christmas_music_disc_1",
+    "category": "merrymaking:music",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Праздничные музыкальные диски можно найти в сундуках по всему Верхнему миру или получить, если скелет убьёт крипера."
+        },
+        {
+            "type": "spotlight",
+            "title": "Красный праздничный диск",
+            "item": "merrymaking:christmas_music_disc_1",
+            "text": "Красный диск проигрывает сборник праздничных песен в стиле лоу-фай от LofiGeek."
+        },
+        {
+            "type": "spotlight",
+            "title": "Зелёный праздничный диск",
+            "item": "merrymaking:christmas_music_disc_2",
+            "text": "Зелёный диск проигрывает более традиционную праздничную музыку."
+        }
+    ]
+}

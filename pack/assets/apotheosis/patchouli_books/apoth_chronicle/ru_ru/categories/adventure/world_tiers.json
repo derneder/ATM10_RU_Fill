@@ -1,0 +1,7 @@
+{
+    "name": "Уровни мира",
+    "description": "Становясь сильнее, вы делаете сильнее и окружающий мир.$(p)В этом разделе рассказывается об апотических уровнях мира: что они меняют, как их разблокировать и как изменить текущий.",
+    "icon": "apotheosis:textures/gui/book/summit_icon.png",
+    "flag": "apotheosis:adventure",
+    "parent": "apotheosis:adventure/adventure"
+}

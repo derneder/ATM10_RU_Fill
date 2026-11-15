@@ -1,0 +1,86 @@
+{
+    "name": "Праздничные каминные полки",
+    "icon": "minecraft:writable_book",
+    "category": "merrymaking:mantels",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Устройтесь поудобнее в холодную ночь у красивого камина. Эти праздничные каминные полки можно украшать — идеально для чашечки какао у огня. $(br2) Полки имеют ширину 3 блока, высоту 3 блока и глубину 1 блок и центрируются относительно точки установки. $(br2) Дальше — о том, как их украшать…"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name": "Праздничные каминные полки",
+            "multiblock": {
+                "mapping": {
+                    "A": "merrymaking:oak_mantel[facing=west,section=0]",
+                    "B": "merrymaking:oak_mantel[facing=west,section=1]",
+                    "C": "merrymaking:oak_mantel[facing=west,section=2]",
+                    "D": "merrymaking:oak_mantel[facing=west,section=3]",
+                    "E": "merrymaking:oak_mantel[facing=west,section=4]"
+                },
+                "pattern": [
+                    ["DCB"],
+                    ["E0A"]
+                ],
+                "symmetrical": true
+            }
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Праздничные каминные полки украшаются кликом по каждой секции с любой горизонтальной гирляндой и/или рождественскими носками. $(br2) Чтобы сформировать угол на торце, просто поставьте вторую такую же гирлянду.$(br2) Чтобы снять украшения, кликните по полке пустой рукой. $(br2) Дальше — рецепт…"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name": "Украшение каминных полок",
+            "multiblock": {
+                "mapping": {
+                    "A": "merrymaking:oak_mantel[facing=west,section=0,type=garland]",
+                    "B": "merrymaking:oak_mantel[corner=true,facing=west,section=1,type=garland,stocking=true]",
+                    "C": "merrymaking:oak_mantel[facing=west,section=2,type=garland,stocking=true]",
+                    "D": "merrymaking:oak_mantel[corner=true,facing=west,section=3,type=garland,stocking=true]",
+                    "E": "merrymaking:oak_mantel[facing=west,section=4,type=garland]"
+                },
+                "pattern": [
+                    ["DCB"],
+                    ["E0A"]
+                ],
+                "symmetrical": true
+            }
+        },
+        {
+            "type": "text",
+            "text": "Праздничные каминные полки выпускаются во всех ванильных породах дерева. Их можно создать из 4 досок и 3 плит, как показано здесь."
+        },
+        {
+            "type": "crafting",
+            "recipe": "merrymaking:oak_mantel",
+            "text": "Читайте дальше, чтобы узнать про украшения для каминной полки…"
+        },
+        {
+            "type": "text",
+            "text": "Есть особые декоративные блоки, созданные так, чтобы идеально стоять на праздничной каминной полке. Это: $(br) $(li)Подсвечники $(li)Пряничный домик $(li)Фонарь и пуансеттия $(li)Ёлочка $(li)Фонарь и ёлочный шар $(li)Радость"
+        },
+        {
+            "type": "text",
+            "text": "Поскольку клик по украшенной полке снимает одно из украшений, при установке декоративных блоков полки (и любых других блоков) на полку используйте Шифт+клик."
+        },
+        {
+            "type": "crafting",
+            "title": "Украшения каминной полки",
+            "recipe": "merrymaking:mantel_deco_candles",
+            "recipe2": "merrymaking:mantel_deco_gbhouse"
+        },
+        {
+            "type": "crafting",
+            "title": "Украшения каминной полки",
+            "recipe": "merrymaking:mantel_deco_lantern",
+            "recipe2": "merrymaking:mantel_deco_tree"
+        },
+        {
+            "type": "crafting",
+            "title": "Украшения каминной полки",
+            "recipe": "merrymaking:mantel_deco_ball",
+            "recipe2": "merrymaking:mantel_deco_joy"
+        }
+    ]
+}

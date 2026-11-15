@@ -1,0 +1,7 @@
+{
+  "name": "Мониторинг энергии",
+  "description": "Решения для мониторинга энергии.",
+  "parent": "rftoolsbase:category_rftoolspower",
+  "icon": "rftoolspower:power_monitor",
+  "sortnum": 30
+}

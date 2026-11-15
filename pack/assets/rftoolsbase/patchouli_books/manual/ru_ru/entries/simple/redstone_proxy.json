@@ -1,0 +1,28 @@
+{
+  "name": "Редстоуновый прокси",
+  "icon": "xnet:redstone_proxy",
+  "category": "rftoolsbase:category_xnet_simple",
+  "extra_recipe_mappings": {
+    "xnet:redstone_proxy": 0,
+    "xnet:redstone_proxy_upd": 0
+  },
+  "sortnum": 50,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Редстоуновый прокси — вспомогательный блок для взаимодействия с редстоуном. Используйте его там, где установке XNet нужен простой блок, работающий с редстоуном."
+    },
+    {
+      "type": "text",
+      "text": "Вариант с обновлением также отправляет обновления соседним блокам. Используйте его, когда ближайший редстоун должен быть уведомлен немедленно."
+    },
+    {
+      "type": "crafting",
+      "recipe": "xnet:redstone_proxy"
+    },
+    {
+      "type": "crafting",
+      "recipe": "xnet:redstoneproxy_update"
+    }
+  ]
+}

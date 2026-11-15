@@ -1,0 +1,18 @@
+{
+    "name": "Модуль ёмкости",
+    "icon": "mffs:capacity_module",
+    "category": "mffs:upgrade_modules",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "mffs:capacity_module",
+            "link_recipe": true,
+            "text": "$(5)Модуль ёмкости$() можно поместить в слоты улучшений различных машин MFFS для улучшения их возможностей хранения $(l:mffs:getting_started/fortron)Фортрона$(). Его эффекты зависят от машины, но чаще всего включают увеличение ёмкости $(l:mffs:getting_started/fortron)Фортрона$() устройства."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "mffs:capacity_module",
+            "text": "Создание $(5)Модуля ёмкости$()."
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Проектор щита",
+  "description": "Проектор щита может защищать области, а также убивать мобов.",
+  "parent": "rftoolsbase:category_rftoolsbuilder",
+  "icon": "rftoolsbuilder:shield_block1",
+  "sortnum": 30
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Инжектор твёрдых материалов",
+    "icon": "bigreactors:fluidizersolidinjector",
+    "category": "bigreactors:fluidizer-parts",
+    "read_by_default": true,
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "bigreactors:fluidizersolidinjector",
+            "link_recipe": true,
+            "title" : "Инжектор твёрдых материалов",
+            "text": "Инжектор твёрдых материалов позволяет вводить существующие твёрдые виды топлива (например, слитки) в флюидайзер, чтобы превращать их в жидкость или смешивать для создания нового топлива."
+        },
+        {
+            "type": "crafting-part_usage",
+            "crafting.title1": "Инжектор твёрдых материалов",
+            "crafting.recipe1": "bigreactors:fluidizer/solidinjector",
+            "usage.text": "$(l)Обязательно:$() см. $(l:bigreactors:fluidizer/operational_mode)режим работы$(/l)$(br)$(l)Допустимые позиции:$() любая грань (не каркас)$(br)$(l)Графический интерфейс:$() да"
+        }
+    ]
+}

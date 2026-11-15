@@ -1,0 +1,29 @@
+{
+    "name": "Том утилизации",
+    "icon": "apothic_enchanting:scrap_tome",
+    "category": "apotheosis:enchanting/utility",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Том утилизации — способ извлечь зачарования из предмета.$(p)Объединение его с другим предметом на наковальне уничтожит тот предмет и создаст книгу с некоторыми зачарованиями, выбранными случайно."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "apothic_enchanting:scrap_tome",
+			"text": "Вы всегда получите половину зачарований (округление вверх).$(p)Выбор зачарований зависит от вашего $(l:apotheosis:enchanting/table/seed)семени зачарования$()."
+		},
+		{
+            "type": "patchouli:spotlight",
+			"title": "Превосходная утилизация",
+			"item": "apothic_enchanting:improved_scrap_tome",
+			"text": "$(9)Том превосходной утилизации$() — улучшенная версия тома утилизации.$(p)Он извлекает все зачарования с предмета, а не половину."
+		},
+		{
+            "type": "patchouli:spotlight",
+			"item": "apothic_enchanting:extraction_tome",
+			"text": "$(9)Том извлечения$() — совершенная версия тома утилизации.$(p)Он извлекает все зачарования с предмета, не уничтожая сам предмет."
+		}
+	]
+}

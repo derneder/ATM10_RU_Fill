@@ -1,0 +1,7 @@
+{
+  "name": "Беспроводные сети",
+  "description": "Беспроводное соединение нескольких сетей.",
+  "parent": "rftoolsbase:category_xnet",
+  "icon": "xnet:antenna",
+  "sortnum": 30
+}

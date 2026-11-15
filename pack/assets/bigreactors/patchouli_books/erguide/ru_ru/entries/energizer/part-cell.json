@@ -1,0 +1,22 @@
+{
+  "name": "Energy Cell",
+  "icon": "bigreactors:energizercell",
+  "category": "bigreactors:energizer-parts",
+  "read_by_default": true,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:energizercell",
+      "link_recipe": true,
+      "title" : "Energy Cell",
+      "text": "Energy Cell — накопительные компоненты Energizer; ими должен быть полностью заполнен внутренний объём машины."
+    },
+    {
+      "type": "crafting-part_usage",
+      "crafting.title1": "Energy Cell",
+      "crafting.recipe1": "bigreactors:energizer/energizercell",
+      "usage.text": "$(l)Обязательно:$() да$(br)$(l)Допустимые позиции:$() внутри Energizer$(br)$(l)Графический интерфейс:$() нет"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Пробивание брони",
+    "icon": "apothic_attributes:textures/mob_effect/sundering.png",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Пробивание брони$() позволяет игнорировать фиксированную часть брони цели при атаке.$(p)Лишнее пробивание брони может увести броню цели в минус."
+        }
+	]
+}

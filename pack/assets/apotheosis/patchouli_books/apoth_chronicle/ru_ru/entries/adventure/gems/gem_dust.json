@@ -1,0 +1,21 @@
+{
+    "name": "Самоцветная пыль",
+    "icon": "apotheosis:gem_dust",
+    "category": "apotheosis:adventure/gems",
+	"flag": "apotheosis:adventure",
+	"sortnum": 2,
+    "pages": [
+		{
+            "type": "patchouli:spotlight",
+			"item": "apotheosis:gem_dust",
+			"link_recipe": true,
+            "text": "Все апотические самоцветы можно превратить в $(br)$(9)самоцветную пыль$() дроблением.$(p)Один из способов — раздавить их наковальней $(br)в мире."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "apotheosis:salvaging_table",
+			"title": "Утилизация самоцветов",
+            "text": "Раздавив несколько самоцветов наковальней, вместо этого можно создать и использовать $(9)стол утилизации$()."
+        }
+	]
+}

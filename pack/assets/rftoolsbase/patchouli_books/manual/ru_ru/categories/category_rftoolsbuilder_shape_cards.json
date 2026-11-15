@@ -1,0 +1,7 @@
+{
+  "name": "Карты формы",
+  "description": "Карты формы — предметы, задающие определённую форму. Их может использовать строитель или проектор щита.",
+  "parent": "rftoolsbase:category_rftoolsbuilder",
+  "icon": "rftoolsbuilder:shape_card_def",
+  "sortnum": 10
+}

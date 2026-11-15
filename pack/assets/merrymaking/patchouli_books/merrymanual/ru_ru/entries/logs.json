@@ -1,0 +1,17 @@
+{
+    "name": "Дрова для камина",
+    "icon": "minecraft:flint_and_steel",
+    "category": "merrymaking:mantels",
+    "pages": [
+        {
+            "type": "spotlight",
+            "title": "Дрова для камина",
+            "item": "merrymaking:fireplace_logs",
+            "text": "Дрова для камина идеально сочетаются с праздничными каминными полками. У них есть направление; их можно зажечь огнивом или потушить ведром воды. $(br2)При желании дрова для камина можно подключить к красной пыли. $(br2)Рецепт дров для камина ниже:"
+        },
+        {
+            "type": "crafting",
+            "recipe": "merrymaking:fireplace_logs"
+        }
+    ]
+}

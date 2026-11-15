@@ -1,0 +1,49 @@
+{
+  "name": "Межпространственная ячейка",
+  "icon": "rftoolspower:dimensionalcell",
+  "category": "rftoolsbase:category_rftoolspower_powerstorage",
+  "extra_recipe_mappings": {
+    "rftoolspower:dimensionalcell_simple": 0,
+    "rftoolspower:dimensionalcell": 0,
+    "rftoolspower:dimensionalcell_advanced": 0,
+    "rftoolspower:dimensionalcell_creative": 0
+  },
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Межпространственная ячейка — межпространственное хранилище энергии. Как и $(l:rftoolsbase:powerstorage/powercell)энергоблок$(/l), она хранит и передаёт FE, но связанные ячейки могут делиться энергией, не касаясь друг друга."
+    },
+    {
+      "type": "text",
+      "text": "Межпространственные ячейки связываются $(l:rftoolsbase:powerstorage/powercell_card)картой энергоблока$(/l). Вставьте несвязанную карту, чтобы создать связь, или скопируйте существующую связь ячейки на другую карту."
+    },
+    {
+      "type": "text",
+      "text": "В интерфейсе есть слоты для карт связывания/копирования, слот зарядки предметов FE, индикатор хранилища сети, кнопки режимов сторон и кнопка статистики введённой/извлечённой энергии FE."
+    },
+    {
+      "type": "text",
+      "text": "«Нет», «Ввод» и «Вывод» задают всем сторонам игнорирование, приём или передачу FE. Отдельные стороны также можно менять $(l:rftoolsbase:tools/smartwrench)умным гаечным ключом$(/l): синяя — вход, жёлтая — выход, пустая — отключена."
+    },
+    {
+      "type": "text",
+      "text": "У межпространственных ячеек, однако, есть недостаток: в $(thing)режиме вывода$() извлечение RF из удалённых ячеек облагается небольшой платой. Она невелика — обычно всего несколько процентов, — но со временем накапливается. К счастью, межпространственные ячейки можно $(l:rftoolsbase:machines/infusing)наполнить$(), чтобы снизить эту плату."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolspower:dimensionalcell_simple",
+      "text": "Младшая межпространственная ячейка вмещает 250,000 RF и может вводить или выводить до 1,250 RF/тик. Эту скорость можно повысить с помощью $(l:rftoolsbase:machines/infusing)наполнения$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolspower:dimensionalcell",
+      "text": "Средняя межпространственная ячейка вмещает 1,000,000 RF и может вводить или выводить до 5,000 RF/тик. Эту скорость можно повысить с помощью $(l:rftoolsbase:machines/infusing)наполнения$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolspower:dimensionalcell_advanced",
+      "text": "Старшая межпространственная ячейка вмещает 4,000,000 RF и может вводить или выводить до 20,000 RF/тик. Эту скорость можно повысить с помощью $(l:rftoolsbase:machines/infusing)наполнения$()."
+    }
+  ]
+}

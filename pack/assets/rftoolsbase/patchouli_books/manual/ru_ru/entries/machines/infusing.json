@@ -1,0 +1,49 @@
+{
+  "name": "Наполнение",
+  "icon": "rftoolsbase:machine_infuser",
+  "category": "rftoolsbase:category_machines",
+  "extra_recipe_mappings": {
+    "rftoolsbase:machine_infuser": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Наполнитель машин$() использует $(l:rftoolsbase:basics/dimensional_shards)осколки измерений$(), чтобы $(thing)повысить эффективность$() многих машин. В большинстве случаев наполнение снижает их энергопотребление. Некоторые устройства получают от наполнения дополнительные преимущества. $(br2)$(thing)Наполнение$() самого наполнителя снизит его энергопотребление."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsbase:machine_infuser",
+      "text": "Дополнительные применения наполнителя машин в зависимости от установленных у вас модов см. на следующей странице."
+    },
+    {
+      "type": "text",
+      "flag": "mod:rftoolsutility",
+      "title": "RFTools Utility",
+      "text": "$(li)$(l:rftoolsutility:machines/environmental)Контроллер среды$() $(li)$(l:rftoolsutility:machines/dialing_device)Наборное устройство$() $(li)$(l:rftoolsutility:machines/matter_receiver)Приёмник материи$() $(li)$(l:rftoolsutility:machines/matter_transmitter)Передатчик материи$() (+скорость) $(li)$(l:rftoolsutility:machines/spawner)Спаунер$() $(li)$(l:rftoolsutility:machines/matter_beamer)Излучатель материи$() (+скорость, -предметов требуется) $(li)$(l:rftoolsutility:machines/screen_controller)Контроллер экранов$() (+радиус) $(li)$(l:rftoolsutility:machines/crafter)Крафтер$()"
+    },
+    {
+      "type": "text",
+      "flag": "mod:rftoolsstorage",
+      "title": "RFTools Storage",
+      "text": "$(li)$(l:rftoolsstorage:scanner/scanner)Сканер хранилищ$()"
+    },
+    {
+      "type": "text",
+      "flag": "mod:rftoolspower",
+      "title": "RFTools Power",
+      "text": "$(li)$(l:rftoolspower:powergeneration/coalgenerator)Угольный генератор$() $(li)$(l:rftoolspower:powergeneration/endergenic)Эндергенный генератор$() (+выработка энергии, меньше потерь при удержании жемчуга) $(li)$(l:rftoolspower:powerstorage/dimensionalcell)Межпространственная ячейка$() (-стоимость извлечения RF на дальних расстояниях, +отдача RF/тик) $(li)$(l:rftoolspower:powergeneration/blazingagitator)Пламенный агитатор$() (+качество пламенных стержней) $(li)$(l:rftoolspower:powergeneration/blazinggenerator)Пламенный генератор$() (+выработка энергии)"
+    },
+    {
+      "type": "text",
+      "flag": "mod:rftoolsdim",
+      "title": "RFTools Dimensions",
+      "text": "$(li)$(l:rftoolsdim:dimlets/researcher)Исследователь$() (+скорость) $(li)$(l:rftoolsdim:dimensions/dimension_builder)Конструктор измерений$() (+скорость)"
+    },
+    {
+      "type": "text",
+      "flag": "mod:rftoolsbuilder",
+      "title": "RFTools Builder",
+      "text": "$(li)$(l:rftoolsbuilder:shield/shield_intro)Проектор щита$() (+урон) $(li)$(l:rftoolsbuilder:builder/builder_intro)Строитель$() (+скорость)"
+    }
+  ]
+}

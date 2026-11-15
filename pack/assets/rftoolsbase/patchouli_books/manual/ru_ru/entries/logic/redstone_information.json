@@ -1,0 +1,15 @@
+{
+  "name": "Информация о редстоуне",
+  "icon": "rftoolsutility:redstone_information",
+  "category": "rftoolsbase:category_rftoolsutility_logic",
+  "extra_recipe_mappings": {
+    "rftoolsutility:redstone_information": 0,
+    "rftoolsutility:tablet_redstone": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "Этот предмет может хранить несколько редстоуновых каналов ($(5)ПКМ$() по $(l:rftoolsbase:logic/redstone_transmitter)редстоуновому передатчику$(/l) или $(l:rftoolsbase:logic/redstone_receiver)редстоуновому приёмнику$(/l), чтобы добавить канал). Затем его можно поместить в $(l:rftoolsbase:tools/tablet)планшет$(/l), что позволит просматривать и изменять сигналы редстоуна откуда угодно."
+    }
+  ]
+}

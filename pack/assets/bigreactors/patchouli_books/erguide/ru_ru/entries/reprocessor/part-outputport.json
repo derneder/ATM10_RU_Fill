@@ -1,0 +1,22 @@
+{
+    "name": "Порт вывода",
+    "icon": "bigreactors:reprocessoroutputport",
+    "category": "bigreactors:reprocessor-parts",
+    "read_by_default": true,
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "bigreactors:reprocessoroutputport",
+            "link_recipe": true,
+            "title" : "Порт вывода",
+            "text": "Порт вывода позволяет извлекать переработанный материал из репроцессора.$(br2)Материалы можно извлекать вручную через графический интерфейс или автоматически, подключив какую-нибудь трубу."
+        },
+        {
+            "type": "crafting-part_usage",
+            "crafting.title1": "Output Port",
+            "crafting.recipe1": "bigreactors:reprocessor/outputport",
+            "usage.text": "$(l)Обязательна:$() требуется один и только один$(br)$(l)Допустимые позиции:$() любая вертикальная грань (не на раме)$(br)$(l)Графический интерфейс:$() да"
+        }
+    ]
+}

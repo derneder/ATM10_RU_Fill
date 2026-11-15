@@ -1,0 +1,7 @@
+{
+  "name": "Хранение энергии",
+  "description": "Решения для хранения энергии — локально и между измерениями.",
+  "parent": "rftoolsbase:category_rftoolspower",
+  "icon": "rftoolspower:dimensionalcell",
+  "sortnum": 20
+}

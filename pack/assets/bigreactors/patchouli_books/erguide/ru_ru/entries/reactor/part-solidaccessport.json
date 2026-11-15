@@ -1,0 +1,31 @@
+{
+    "name": "Порт доступа к твёрдым материалам",
+    "icon": "bigreactors:reinforced_reactorsolidaccessport",
+    "category": "bigreactors:reactor-parts",
+    "read_by_default": true,
+    "sortnum": 6,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "bigreactors:reinforced_reactorsolidaccessport",
+            "link_recipe": true,
+            "title" : "Порт доступа к твёрдым материалам",
+            "text": "Порт доступа к твёрдым материалам преобразует твёрдые материалы (обычно слитки) в топливные реактивы, которые заполнят ваши $(l:bigreactors:reactor/part-fuelrod)топливные стержни$(/l) и обеспечат работу реактора.$(br2)В графическом интерфейсе можно задать режим порта: в $(bold)режиме ввода$() порт принимает исходные материалы топлива, в $(bold)режиме вывода$() выводит отходы."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l:bigreactors:misc/wrench)Гаечным ключом$(/l) можно изменить режим порта.$(br2)Графический интерфейс также позволяет вводить и извлекать материалы вручную.$(br2)Порт доступа к твёрдым материалам — быстрое решение для загрузки топлива в реактор, но, как и любое быстрое решение, он несовершенен: небольшая потеря материала неизбежна."
+        },
+        {
+            "type": "bigreactors:crafting1x",
+            "title1": "Basic",
+            "recipe1": "bigreactors:reactor/basic/solidaccessport",
+            "title2": "Reinforced",
+            "recipe2": "bigreactors:reactor/reinforced/solidaccessport"
+        },
+        {
+            "type": "bigreactors:part_usage",
+            "text": "$(l)Обязательна:$() нет, но всё равно понадобится пара штук$(br)$(l)Допустимые позиции:$() любая грань (не на раме)$(br)$(l)Варианты:$() все$(br)$(l)Графический интерфейс:$() да$(br)$(l)Гаечный ключ:$() $(l:bigreactors:misc/wrench)гаечным ключом$(/l) можно переключать режим порта."
+        }
+    ]
+}

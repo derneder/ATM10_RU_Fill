@@ -1,0 +1,7 @@
+{
+    "name": "Детали Energizer",
+    "description": "Energizer состоит из следующих деталей.",
+    "icon": "bigreactors:energizercontroller",
+    "parent": "bigreactors:energizer",
+    "sortnum": 6
+}

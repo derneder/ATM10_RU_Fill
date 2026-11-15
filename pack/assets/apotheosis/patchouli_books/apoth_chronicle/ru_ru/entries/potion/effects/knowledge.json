@@ -1,0 +1,17 @@
+{
+    "name": "Знание веков",
+    "icon": "minecraft:experience_bottle",
+    "category": "apotheosis:potion/effects",
+	"flag": "apotheosis:potion",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Зелье $(9)Знания веков$() даёт полезный эффект.$(p)Под его действием весь опыт за убитых вами мобов и добытую руду умножается."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "На уровне I он учетверяет опыт.$(p)На уровне II — умножает на 8.$(p)Сильное зелье — уровня IV, даёт ×16. Множитель можно настроить."
+        }
+	]
+}

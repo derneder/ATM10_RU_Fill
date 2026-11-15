@@ -1,0 +1,45 @@
+{
+  "name": "Коннекторы",
+  "icon": "xnet:connector_red",
+  "category": "rftoolsbase:category_xnet_simple",
+  "extra_recipe_mappings": {
+    "xnet:connector_red": 0,
+    "xnet:connector_green": 0,
+    "xnet:connector_blue": 0,
+    "xnet:connector_yellow": 0,
+    "xnet:connector_routing": 0,
+    "xnet:advanced_connector_red": 0,
+    "xnet:advanced_connector_green": 0,
+    "xnet:advanced_connector_blue": 0,
+    "xnet:advanced_connector_yellow": 0,
+    "xnet:advanced_connector_routing": 0,
+    "xnet:connector_upgrade": 0
+  },
+  "sortnum": 30,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Используйте коннектор, чтобы подключить блок или машину к кабельной сети. Откройте коннектор, чтобы задать ему имя и управлять его включением."
+    },
+    {
+      "type": "text",
+      "text": "Продвинутые коннекторы поддерживают больший внутренний запас энергии и более сложные схемы. Настраиваются они так же, как обычные коннекторы."
+    },
+    {
+      "type": "text",
+      "text": "Маршрутизирующие коннекторы предназначены для маршрутизирующих сетей. Используйте их с маршрутизирующими кабелями при объединении сетей через маршрутизаторы или беспроводные маршрутизаторы."
+    },
+    {
+      "type": "crafting",
+      "recipe": "xnet:connector_red"
+    },
+    {
+      "type": "crafting",
+      "recipe": "xnet:advanced_connector_red"
+    },
+    {
+      "type": "crafting",
+      "recipe": "xnet:connector_upgrade"
+    }
+  ]
+}

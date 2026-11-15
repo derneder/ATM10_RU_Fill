@@ -1,0 +1,67 @@
+{
+    "name": "Гирлянды",
+    "icon": "minecraft:writable_book",
+    "category": "merrymaking:garlands",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Гирлянды очень похожи на огоньки. У них те же варианты размещения, что у классических/мини-огоньков, за исключением формы «наконечник» — для конька подходит горизонтальная. Гирлянды выпускаются в трёх стилях: $(li)Обычная $(li)С белыми огоньками $(li)С разноцветными огоньками"
+        },
+        {
+            "type": "spotlight",
+            "title": "Горизонтальные гирлянды",
+            "item": "merrymaking:garland_horizontal",
+            "text": "Горизонтальные гирлянды соединяются в углах и вокруг них — точно так же, как огоньки."
+        },
+        {
+            "type": "spotlight",
+            "title": "Диагональные гирлянды",
+            "item": "merrymaking:garland_lights_diagonal_left",
+            "text": "Диагональные гирлянды слегка выступают ниже места установки, как огоньки-сосульки. Это сделано для того, чтобы они лучше выстраивались в линию друг с другом."
+        },
+        {
+            "type": "spotlight",
+            "title": "Вертикальные гирлянды",
+            "item": "merrymaking:garland_vertical_right",
+            "text": "Вертикальная гирлянда выравнивается по левой или правой стороне блока."
+        },
+        {
+            "type": "spotlight",
+            "title": "Вертикальные угловые гирлянды",
+            "item": "merrymaking:garland_vertical_corner_multi_right",
+            "text": "Вертикальная угловая гирлянда создаёт два участка гирлянды под углом 90 градусов, выравниваясь по левой или правой стороне блока."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Начните с создания горизонтальной гирлянды.$(br2)Для неё понадобится три еловые хвои и два банта.$(br2)Для остальных форм гирлянд нужен шаблон — так же, как для огоньков. Дальше — рецепты…"
+        },
+        {
+            "type": "crafting",
+            "title": "Гирлянда и банты",
+            "recipe": "merrymaking:garland_horizontal",
+            "recipe2": "merrymaking:garland_horizontal_lights_multi"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Чтобы создать светящиеся версии гирлянд, объедините горизонтальную гирлянду с огоньками для ёлки по вашему выбору на верстаке.$(br2)Чтобы получить другие формы, объедините 3 гирлянды с шаблоном на верстаке, как показано здесь:"
+        },
+        {
+            "type": "crafting",
+            "title": "Диагональные гирлянды",
+            "recipe": "merrymaking:garland_diag_left",
+            "recipe2": "merrymaking:garland_lights_diag_right"
+        },
+        {
+            "type": "crafting",
+            "title": "Вертикальные гирлянды",
+            "recipe": "merrymaking:garland_vert_left",
+            "recipe2": "merrymaking:garland_multi_vert_right"
+        },
+        {
+            "type": "crafting",
+            "title": "Вертикальные угловые гирлянды",
+            "recipe": "merrymaking:garland_lights_vert_corner_right",
+            "recipe2": "merrymaking:garland_vert_corner_left"
+        }
+    ]
+}

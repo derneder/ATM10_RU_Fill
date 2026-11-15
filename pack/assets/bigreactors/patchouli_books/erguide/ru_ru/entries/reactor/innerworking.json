@@ -1,0 +1,17 @@
+{
+    "name": "Внутреннее устройство",
+    "icon": "bigreactors:basic_reactorfuelrod",
+    "category": "bigreactors:reactor",
+    "read_by_default": true,
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Как реактор $(l:bigreactors/passive)вырабатывает энергию$(/l) или $(l:bigreactors/active)испаряет охлаждающие жидкости$(/l)?$(br2)Теплом.$(br2)Облучённое $(l:bigreactors/reactants)топливо$(/l) разогревается, $(l:bigreactors/moderators)модераторы$(/l) поглощают часть радиации и отводят тепло от $(l:bigreactors/part-fuelrod)топливных стержней$(/l) к $(l:bigreactors/part-casing)корпусу$(/l).$(br2)Именно тепло корпуса в итоге вырабатывает энергию или испаряет $(l:bigreactors/coolantsystem)охлаждающие жидкости$(/l)."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Отвод тепла от $(l:bigreactors/part-fuelrod)топливных стержней$(/l) — очень важный аспект конструкции реактора, и $(l:bigreactors/moderators)модераторы$(/l) играют в нём ключевую роль. Также важно отметить, что радиация распространяется во всех направлениях, перпендикулярных оси стопки $(l:bigreactors/part-fuelrod)топливных стержней$(/l).$(br2)$(italic)Обратите внимание: хотя этого достаточно, чтобы создавать лучшие возможные реакторы, это упрощение того, что на самом деле происходит внутри реактора.$()"
+        }
+    ]
+}

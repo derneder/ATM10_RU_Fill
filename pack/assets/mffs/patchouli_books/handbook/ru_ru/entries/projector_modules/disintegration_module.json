@@ -1,0 +1,32 @@
+{
+    "name": "Модуль распыления",
+    "icon": "mffs:disintegration_module",
+    "category": "mffs:projector_modules",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "mffs:disintegration_module",
+            "link_recipe": true,
+            "text": "$(5)Модуль распыления$() можно использовать в $(l:mffs:machines/projector)Проекторе силового поля$() для изменения эффекта, который силовое поле оказывает на окружающую среду. Помещение $(5)Модуля распыления$() в слоты матрицы Проектора заставит генерируемое им поле разрушать любые блоки, преграждающие ему путь. Сломанные блоки выпадают в виде предметов и их можно подобрать."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "mffs:disintegration_module",
+            "text": "Создание $(5)Модуля распыления$()."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Использование",
+            "text": "$(5)Модуль распыления$() совместим со всеми режимами проектора и может использоваться для обратного эффекта $(l:mffs:projector_modules/stabilization_module)$(5)Модуля стабилизации$(). Добавление $(l:mffs:upgrade_modules/speed_module)$(5)Модулей скорости$() в Проектор позволяет распылять несколько блоков одновременно. Его также можно комбинировать с $(l:mffs:projector_modules/collection_module)$(5)Модулем сбора$() для автоматического подбора разрушенных блоков."
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "mffs:textures/gui/handbook/disintegration_module.png"
+            ],
+            "border": true,
+            "title": "Проецирование",
+            "text": "Проектор силового поля, разрушающий стену с помощью $(5)Модуля распыления$()."
+        }
+    ]
+}

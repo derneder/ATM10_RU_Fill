@@ -1,0 +1,29 @@
+{
+  "name": "Ссылка на экран",
+  "icon": "rftoolsutility:screen_link",
+  "category": "rftoolsbase:category_rftoolsutility_machines",
+  "extra_recipe_mappings": {
+    "rftoolsutility:screen_link": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ссылка на экран хранит расположение $(l:rftoolsbase:machines/screen)экрана$(/l), чтобы $(l:rftoolsbase:tools/tablet)планшет$(/l) мог открывать его удалённо."
+    },
+    {
+      "type": "crafting",
+      "heading": "Screen Link",
+      "recipe": "rftoolsutility:screen_link"
+    },
+    {
+      "type": "text",
+      "title": "Привязка",
+      "text": "Нажмите ПКМ ссылкой на экран по экрану, чтобы сохранить его. ПКМ по любому другому блоку очищает сохранённую цель."
+    },
+    {
+      "type": "text",
+      "title": "Планшет",
+      "text": "Поместите ссылку в планшет. Использование планшета открывает удалённый экран, если его чанк прогружен. Присесть + использование открывает интерфейс планшета."
+    }
+  ]
+}

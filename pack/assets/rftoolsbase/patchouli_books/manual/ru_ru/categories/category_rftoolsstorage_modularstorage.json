@@ -1,0 +1,7 @@
+{
+  "name": "Модульное хранилище",
+  "description": "Гибкое решение для хранения.",
+  "parent": "rftoolsbase:category_rftoolsstorage",
+  "icon": "rftoolsstorage:modular_storage",
+  "sortnum": 10
+}

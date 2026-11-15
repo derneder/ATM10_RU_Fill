@@ -1,0 +1,23 @@
+{
+  "name": "Инжектор жемчуга",
+  "icon": "rftoolspower:pearl_injector",
+  "category": "rftoolsbase:category_rftoolspower_powergeneration",
+  "extra_recipe_mappings": {
+    "rftoolspower:pearl_injector": 0
+  },
+  "sortnum": 40,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Инжектор жемчуга вводит эндер-жемчуг в $(l:rftoolsbase:powergeneration/endergenic)эндергенный генератор$(/l). Поставьте его лицевой стороной к генератору или прямо под него."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolspower:pearl_injector"
+    },
+    {
+      "type": "text",
+      "text": "По импульсу редстоуна он превращает один эндер-жемчуг в эндергенный жемчуг и вводит его. Если целевой генератор уже удерживает жемчуг, новый жемчуг будет потерян."
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "name": "Контроллер среды",
+  "icon": "rftoolsutility:environmental_controller",
+  "category": "rftoolsbase:category_rftoolsutility_machines",
+  "extra_recipe_mappings": {
+    "rftoolsutility:environmental_controller": 0,
+    "rftoolsutility:module_template": 0,
+    "rftoolsutility:moduleplus_template": 0,
+    "rftoolsutility:blindness_module": 0,
+    "rftoolsutility:featherfalling_module": 0,
+    "rftoolsutility:featherfallingplus_module": 0,
+    "rftoolsutility:haste_module": 0,
+    "rftoolsutility:hasteplus_module": 0,
+    "rftoolsutility:flight_module": 0,
+    "rftoolsutility:glowing_module": 0,
+    "rftoolsutility:luck_module": 0,
+    "rftoolsutility:nightvision_module": 0,
+    "rftoolsutility:noteleport_module": 0,
+    "rftoolsutility:peaceful_module": 0,
+    "rftoolsutility:poison_module": 0,
+    "rftoolsutility:regeneration_module": 0,
+    "rftoolsutility:regenerationplus_module": 0,
+    "rftoolsutility:saturation_module": 0,
+    "rftoolsutility:saturationplus_module": 0,
+    "rftoolsutility:slowness_module": 0,
+    "rftoolsutility:speed_module": 0,
+    "rftoolsutility:speedplus_module": 0,
+    "rftoolsutility:waterbreathing_module": 0,
+    "rftoolsutility:weakness_module": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Контроллер среды$() можно использовать для «наполнения» области различными эффектами. Одновременно поддерживается $(thing)до семи эффектов$(), но это увеличивает энергопотребление."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:environmental_controller"
+    },
+    {
+      "type": "image",
+      "images": [
+        "rftoolsutility:textures/manual/env_controller_gui.png"
+      ],
+      "text": "Интерфейс контроллера"
+    },
+    {
+      "type": "text",
+      "text": "В интерфейсе есть несколько примечательных элементов. $(br2)Слева расположены семь $(item)слотов модулей$(), куда вставляются активные модули. $(br2)Вверху находится ползунок для задания радиуса действия машины, а ниже — поля для минимального и максимального уровня Y."
+    },
+    {
+      "type": "text",
+      "text": "Ниже находится фильтр, где можно указать игроков, которые либо получат эффекты модулей, либо будут к ним неуязвимы. У фильтра семь режимов: все мобы и игроки, чёрный список игроков, белый список игроков, пассивные мобы, враждебные мобы или враждебные и пассивные мобы. $(br2)И наконец, здесь есть кнопка управления редстоуном (активно при включённом, активно при выключенном или игнорируется) и индикатор энергии в левом нижнем углу."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:module_template",
+      "recipe2": "rftoolsutility:moduleplus_template"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:speed_module",
+      "text": "Этот модуль даёт эффект Скорость I всем подходящим целям в радиусе действия. $(br2)Расход: 0.001 RF/тик (за блок в радиусе действия)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:regeneration_module",
+      "text": "Этот модуль даёт эффект Регенерация I всем подходящим целям в радиусе действия. $(br2)Расход: 0.0015 RF/тик (за блок в радиусе действия)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:featherfalling_module",
+      "text": "Этот модуль вдвое уменьшает урон от падения для всех подходящих целей в радиусе действия. $(br2)Расход: 0.001 RF/тик (за блок в радиусе действия)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:glowing_module",
+      "text": "Этот модуль даёт эффект Свечение всем подходящим целям в радиусе действия. $(br2)Расход: 0.001 RF/тик (за блок в радиусе действия)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:haste_module",
+      "text": "Этот модуль даёт эффект Спешка I всем подходящим целям в радиусе действия. $(br2)Расход: 0.001 RF/тик (за блок в радиусе действия)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:nightvision_module",
+      "text": "Этот модуль даёт эффект Ночное зрение всем подходящим целям в радиусе действия. $(br2)Расход: 0.001 RF/тик (за блок в радиусе действия)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:saturation_module",
+      "text": "Этот модуль даёт эффект Насыщенность всем подходящим целям в радиусе действия. $(br2)Расход: 0.001 RF/тик (за блок в радиусе действия)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:luck_module",
+      "text": "Этот модуль даёт эффект Везение всем подходящим целям в радиусе действия. $(br2)Расход: 0.002 RF/тик (за блок в радиусе действия)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:peaceful_module",
+      "text": "Этот модуль предотвращает появление враждебных мобов в радиусе действия. $(br2)Расход: 0.001 RF/тик (за блок в радиусе действия)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:featherfallingplus_module",
+      "text": "Этот модуль полностью отменяет урон от падения для всех подходящих целей в радиусе действия. $(br2)Расход: 0.003 RF/тик (за блок в радиусе действия)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:hasteplus_module",
+      "text": "Этот модуль даёт эффект Спешка III всем подходящим целям в радиусе действия. $(br2)Расход: 0.001 RF/тик (за блок в радиусе действия)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:waterbreathing_module",
+      "text": "Этот модуль даёт эффект Водное дыхание всем подходящим целям в радиусе действия. $(br2)Расход: 0.001 RF/тик (за блок в радиусе действия)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:flight_module",
+      "text": "Этот модуль даёт $(thing)творческий полёт$() всем подходящим целям в радиусе действия. $(br2)Расход: 0.004 RF/тик (за блок в радиусе действия)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:regenerationplus_module",
+      "text": "Этот модуль даёт эффект Регенерация III всем подходящим целям в радиусе действия. $(br2)Расход: 0.001 RF/тик (за блок в радиусе действия)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:speedplus_module",
+      "text": "Этот модуль даёт эффект Скорость III всем подходящим целям в радиусе действия. $(br2)Расход: 0.003 RF/тик (за блок в радиусе действия)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:saturationplus_module",
+      "text": "Этот модуль даёт эффект Насыщенность III всем подходящим целям в радиусе действия. $(br2)Расход: 0.003 RF/тик (за блок в радиусе действия)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:noteleport_module",
+      "text": "Этот модуль не даёт шалкерам и эндерменам телепортироваться в радиусе действия. $(br2)Расход: 0.001 RF/тик (за блок в радиусе действия)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:blindness_module",
+      "text": "Этот модуль накладывает Слепоту на всех подходящих целей в радиусе действия. $(br2)Расход: 0.001 RF/тик (за блок в радиусе действия)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:poison_module",
+      "text": "Этот модуль отравливает всех подходящих целей в радиусе действия. $(br2)Расход: 0.001 RF/тик (за блок в радиусе действия)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:weakness_module",
+      "text": "Этот модуль накладывает Слабость на всех подходящих целей в радиусе действия. $(br2)Расход: 0.001 RF/тик (за блок в радиусе действия)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:slowness_module",
+      "text": "Этот модуль накладывает Замедление на всех подходящих целей в радиусе действия. $(br2)Расход: 0.001 RF/тик (за блок в радиусе действия)"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Карта формы",
+  "icon": "rftoolsbuilder:shape_card_def",
+  "category": "rftoolsbase:category_rftoolsbuilder_shape_cards",
+  "extra_recipe_mappings": {
+    "rftoolsbuilder:shape_card_def": 1
+  },
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Карта формы хранит форму, размер, смещение и режим сплошной или полой формы. Используйте её в строителе для размещения блоков или в проекторе щита для задания формы щита."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsbuilder:shape_card_def"
+    },
+    {
+      "type": "text",
+      "text": "Нажмите ПКМ по карте, чтобы изменить форму: куб, сфера, цилиндр, конус, тор, призма, сканирование или композиция. Присесть + использование помогает выбирать позиции в мире."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Сканер",
+  "icon": "rftoolsbuilder:scanner",
+  "category": "rftoolsbase:category_rftoolsbuilder_projector",
+  "extra_recipe_mappings": {
+    "rftoolsbuilder:scanner": 0
+  },
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Сканер сканирует участок мира и сохраняет результат в карте форм."
+    },
+    {
+      "type": "text",
+      "text": "Поместите входную карту форм в левый верхний слот. Она задаёт размер и смещение области сканирования.$(br2)Нажмите $(thing)Сканировать$(), чтобы записать результат в карту форм в левом нижнем слоте."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Строитель",
+  "description": "Строитель — очень универсальный блок: может строить, разрабатывать карьеры и собирать ресурсы.",
+  "parent": "rftoolsbase:category_rftoolsbuilder",
+  "icon": "rftoolsbuilder:builder",
+  "sortnum": 20
+}

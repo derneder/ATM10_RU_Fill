@@ -1,0 +1,13 @@
+{
+    "name": "Гарпун",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Гарпун$() — зачарование для трезубцев.$(p)Оно даёт убийствам брошенным трезубцем 3,5% шанс за уровень выбросить несколько случайных рыб."
+        }
+	]
+}

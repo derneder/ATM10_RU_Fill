@@ -1,0 +1,7 @@
+{
+    "name": "Новые зачарования",
+    "description": "Каждая статья этого раздела подробно описывает новое зачарование, добавленное Apothic Enchanting.$(p)Зачарования из других апотических модов, такие как Захват, рассматриваются в собственных разделах.",
+    "icon": "minecraft:enchanted_book",
+	"flag": "apotheosis:enchanting",
+	"parent": "apotheosis:enchanting/enchanting"
+}

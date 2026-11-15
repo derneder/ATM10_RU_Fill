@@ -1,0 +1,18 @@
+{
+    "name": "Модуль разряда",
+    "icon": "mffs:shock_module",
+    "category": "mffs:projector_modules",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "mffs:shock_module",
+            "link_recipe": true,
+            "text": "Помещение $(5)Модуля разряда$() в $(l:mffs:machines/projector)Проектор силового поля$() делает силовое поле электризованным. Когда игрок или существо касается электризованного поля, они получают удар током, наносящий урон. Каждый добавленный в Проектор $(5)Модуль разряда$() увеличивает урон по игроку или существу на полсердца."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "mffs:shock_module",
+            "text": "Создание $(5)Модуля разряда$()."
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Самоцветы и гнёзда",
+    "description": "Блестящий камень всегда притягивает взгляд.$(p)Ищите апотические самоцветы — предметы, дающие бонусы при вставке в предметы с аффиксами.",
+    "icon": "apotheosis:gem",
+	"flag": "apotheosis:adventure",
+	"parent": "apotheosis:adventure/adventure"
+}

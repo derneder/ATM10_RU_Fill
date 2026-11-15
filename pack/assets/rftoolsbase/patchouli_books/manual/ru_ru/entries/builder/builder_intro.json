@@ -1,0 +1,15 @@
+{
+  "name": "Введение",
+  "icon": "minecraft:experience_bottle",
+  "category": "rftoolsbase:category_rftoolsbuilder_builder",
+  "extra_recipe_mappings": {
+    "rftoolsbuilder:builder": 0
+  },
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Строитель — универсальный блок, который может разрабатывать карьеры, строить, откачивать жидкости, собирать опыт и предметы и многое другое. Используйте одну из карт формы, чтобы задать нужное действие."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Конструктор транспорта",
+  "icon": "rftoolsbuilder:vehicle_builder",
+  "category": "rftoolsbase:category_rftoolsbuilder_mover",
+  "extra_recipe_mappings": {
+    "rftoolsbuilder:vehicle_builder": 0
+  },
+  "sortnum": 30,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Конструктор транспорта создаёт транспорт из пространственных камер.$(br2)Сначала постройте правильно сформированную камеру, затем используйте конструктор транспорта, чтобы превратить её в транспорт."
+    }
+  ]
+}

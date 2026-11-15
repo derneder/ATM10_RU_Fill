@@ -1,0 +1,22 @@
+{
+  "name": "Активный порт энергии FE",
+  "icon": "bigreactors:energizerpowerport_fe_active",
+  "category": "bigreactors:energizer-parts",
+  "read_by_default": true,
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:energizerpowerport_fe_active",
+      "link_recipe": true,
+      "title" : "Активный порт энергии FE",
+      "text": "Активный порт энергии FE позволяет вводить и извлекать энергию из Energizer.$(br2)К активному порту энергии FE можно подключить любой кабель или машину, совместимые с Forge Energy. Порт автоматически передаёт энергию подключённому блоку, если тот её поддерживает."
+    },
+    {
+      "type": "crafting-part_usage",
+      "crafting.title1": "Активный порт энергии FE",
+      "crafting.recipe1": "bigreactors:energizer/powerport_fe_active",
+      "usage.text": "$(l)Обязательно:$() нет$(br)$(l)Допустимые позиции:$() любая грань (не каркас)$(br)$(l)Графический интерфейс:$() да"
+    }
+  ]
+}

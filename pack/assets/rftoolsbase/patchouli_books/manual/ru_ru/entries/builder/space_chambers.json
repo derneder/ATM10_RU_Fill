@@ -1,0 +1,37 @@
+{
+  "name": "Пространственные камеры",
+  "icon": "rftoolsbuilder:space_chamber_card",
+  "category": "rftoolsbase:category_rftoolsbuilder_builder",
+  "extra_recipe_mappings": {
+    "rftoolsbuilder:space_chamber": 1,
+    "rftoolsbuilder:space_chamber_controller": 2,
+    "rftoolsbuilder:space_chamber_card": 3
+  },
+  "sortnum": 25,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Пространственная камера задаёт объём, который строитель или конструктор транспорта могут скопировать или переместить. Используйте блоки камеры и один контроллер, чтобы задать камеру."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsbuilder:space_chamber"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsbuilder:space_chamber_controller"
+    },
+    {
+      "type": "text",
+      "text": "Нажмите ПКМ в приседе с картой пространства по контроллеру, чтобы сохранить его канал. Нажмите ПКМ картой по воздуху, чтобы просмотреть содержимое камеры."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsbuilder:space_chamber_card"
+    },
+    {
+      "type": "text",
+      "text": "Опорные блоки — временные вспомогательные блоки, используемые при сканировании и постройке. Они намеренно лёгкие и могут быть убраны, когда больше не нужны."
+    }
+  ]
+}

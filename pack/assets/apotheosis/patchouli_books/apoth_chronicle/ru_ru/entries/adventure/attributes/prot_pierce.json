@@ -1,0 +1,13 @@
+{
+    "name": "Защита от пробивания",
+    "icon": "apothic_attributes:textures/mob_effect/sundering.png",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Защита от пробивания$() позволяет игнорировать фиксированное количество очков защиты цели при атаке.$(p)Лишняя защита от пробивания не уводит защиту цели в минус."
+        }
+	]
+}

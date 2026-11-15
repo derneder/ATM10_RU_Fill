@@ -1,0 +1,25 @@
+{
+    "name": "Хвоя с огоньками",
+    "icon": "minecraft:writable_book",
+    "category": "merrymaking:wreaths",
+    "pages": [
+        {
+            "type": "spotlight",
+            "title": "Хвоя с огоньками",
+            "item": "merrymaking:spruce_leaves_lights_large_white",
+            "text": "Придайте зимним деревьям и кустам праздничное сияние. Еловую хвою можно объединить с огоньками на верстаке, чтобы создать хвою с огоньками. $(br2)Для больших версий используйте классические базовые огоньки. Для обычных версий — ёлочные огоньки."
+        },
+        {
+            "type": "crafting",
+            "title": "Хвоя с огоньками",
+            "recipe": "merrymaking:leaves_large_multi_lights",
+            "recipe2": "merrymaking:leaves_white_lights"
+        },
+        {
+            "type": "crafting",
+            "title": "Хвоя с огоньками",
+            "recipe": "merrymaking:leaves_large_white_lights",
+            "recipe2": "merrymaking:leaves_multi_lights"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Корпус",
+    "icon": "bigreactors:reprocessorcasing",
+    "category": "bigreactors:reprocessor-parts",
+    "read_by_default": true,
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "bigreactors:reprocessorcasing",
+            "link_recipe": true,
+            "title" : "Корпус",
+            "text": "Блоки корпуса — основные строительные блоки репроцессора.$(br2)Они необходимы для постройки его рамы, а также используются в крафте остальных деталей. Кроме того, блоки корпуса можно использовать для заполнения граней репроцессора, если вы предпочитаете не использовать стекло."
+        },
+        {
+            "type": "crafting-part_usage",
+            "crafting.title1": "Casing",
+            "crafting.recipe1": "bigreactors:reprocessor/casing",
+            "usage.text": "$(l)Обязательна:$() необходимы для постройки рамы$(br)$(l)Допустимые позиции:$() любые$(br)$(l)Графический интерфейс:$() нет"
+        }
+    ]
+}

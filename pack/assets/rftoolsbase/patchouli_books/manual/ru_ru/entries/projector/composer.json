@@ -1,0 +1,15 @@
+{
+  "name": "Компоновщик",
+  "icon": "rftoolsbuilder:composer",
+  "category": "rftoolsbase:category_rftoolsbuilder_projector",
+  "extra_recipe_mappings": {
+    "rftoolsbuilder:composer": 0
+  },
+  "sortnum": 30,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Компоновщик объединяет несколько карт форм в одну.$(br2)Каждую входную форму можно добавить, вычесть или пересечь, что позволяет создавать более сложные формы из более простых карт."
+    }
+  ]
+}

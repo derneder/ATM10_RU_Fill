@@ -1,0 +1,22 @@
+{
+    "name": "Корпус",
+    "icon": "bigreactors:energizercasing",
+    "category": "bigreactors:energizer-parts",
+    "read_by_default": true,
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "bigreactors:energizercasing",
+            "link_recipe": true,
+            "title" : "Корпус",
+            "text": "Блоки корпуса — основные строительные блоки Energizer.$(br2)Они необходимы для постройки его каркаса и граней, а также используются в крафте других деталей."
+        },
+        {
+            "type": "crafting-part_usage",
+            "crafting.title1": "Корпус",
+            "crafting.recipe1": "bigreactors:energizer/casing",
+            "usage.text": "$(l)Обязательно:$() необходимы для постройки каркаса и граней$(br)$(l)Допустимые позиции:$() любые$(br)$(l)Графический интерфейс:$() нет"
+        }
+    ]
+}

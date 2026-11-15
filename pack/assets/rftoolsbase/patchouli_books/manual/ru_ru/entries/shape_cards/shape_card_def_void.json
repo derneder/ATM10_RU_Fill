@@ -1,0 +1,19 @@
+{
+  "name": "Карта формы (уничтожение)",
+  "icon": "rftoolsbuilder:shape_card_void",
+  "category": "rftoolsbase:category_rftoolsbuilder_shape_cards",
+  "extra_recipe_mappings": {
+    "rftoolsbuilder:shape_card_void": 1
+  },
+  "sortnum": 30,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Карта формы (уничтожение) заставляет строителя удалять блоки в выбранной области без дропа. Используйте её для быстрой очистки пространства."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsbuilder:shape_card_void"
+    }
+  ]
+}

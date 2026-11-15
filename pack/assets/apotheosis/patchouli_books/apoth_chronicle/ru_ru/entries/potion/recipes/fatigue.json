@@ -1,0 +1,19 @@
+{
+    "name": "Усталость",
+    "icon": "minecraft:textures/mob_effect/mining_fatigue.png",
+    "category": "apotheosis:potion/recipes",
+	"flag": "apotheosis:potion",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(c)Усталость$() — отрицательный эффект, который обычно накладывают только древние стражи.$(p)Под его действием скорость добычи снижается до 30% на уровне I и до 9% на уровне II."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"title": "Рецепт зельеварения",
+			"item": "minecraft:fermented_spider_eye",
+            "text": "Это зелье варится из $(9)зелья Спешки$() и приготовленного паучьего глаза.$(p)Его можно продлить, усилить или превратить в взрывное зелье обычными ингредиентами."
+        }
+	]
+}

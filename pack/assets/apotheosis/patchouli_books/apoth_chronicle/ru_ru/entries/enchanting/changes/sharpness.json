@@ -1,0 +1,13 @@
+{
+    "name": "Острота",
+    "icon": "minecraft:netherite_sword",
+    "category": "apotheosis:enchanting/changes",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Острота$() больше не взаимоисключающа с другими боевыми зачарованиями.$(p)Теперь вы можете иметь $(9)Остроту$() и ещё одно боевое зачарование, обычно с ней несовместимое."
+        }
+	]
+}

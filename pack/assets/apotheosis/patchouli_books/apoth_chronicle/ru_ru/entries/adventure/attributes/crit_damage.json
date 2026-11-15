@@ -1,0 +1,13 @@
+{
+    "name": "Крит урон",
+    "icon": "minecraft:netherite_axe",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Крит урон$() — модификатор урона ваших критических ударов.$(p)Криты в прыжке также используют значение крит урона вместо обычного множителя 1,5x.$(p)Встречается на оружии."
+        }
+	]
+}

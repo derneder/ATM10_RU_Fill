@@ -1,0 +1,13 @@
+{
+    "name": "Крещендо болтов",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(2)Крещендо болтов$() — шедевральное зачарование для арбалетов.$(p)За каждый уровень этого зачарования вы получаете дополнительный выстрел за одну перезарядку.$(p)Дополнительные выстрелы не тратят боеприпасы."
+        }
+	]
+}

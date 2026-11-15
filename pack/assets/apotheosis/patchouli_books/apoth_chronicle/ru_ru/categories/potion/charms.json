@@ -1,0 +1,8 @@
+{
+    "name": "Амулеты с эффектами",
+	"parent": "apotheosis:potion/potion",
+    "description": "В этом разделе подробно описаны $(9)амулеты с эффектами$() — все их применения и тонкости.$(p)Если какие-то моды не установлены, раздел может показаться пустоватым.",
+    "icon": "apotheosis:potion_charm",
+	"flag": "apotheosis:potion",
+	"sortnum": 1
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Цифровой индикатор",
+  "icon": "rftoolsutility:digit",
+  "category": "rftoolsbase:category_rftoolsutility_logic",
+  "extra_recipe_mappings": {
+    "rftoolsutility:digit": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "Этот блок просто отображает число от 0 до F (шестнадцатеричное), соответствующее силе входного сигнала."
+    },
+    {
+      "type": "crafting",
+      "heading": "Digit",
+      "recipe": "rftoolsutility:digit"
+    }
+  ]
+}

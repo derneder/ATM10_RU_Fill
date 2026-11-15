@@ -1,0 +1,17 @@
+{
+    "name": "Зачаровываемость",
+    "icon": "minecraft:golden_sword",
+    "category": "apotheosis:enchanting/changes",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "В ванилле у всех предметов без явной $(l:apotheosis:enchanting/table/enchantability)зачаровываемости$() по умолчанию стоит ноль.$(p)Apotheosis меняет значение по умолчанию на единицу.$(p)Побочный эффект: некоторые предметы непреднамеренно становятся зачаровываемыми."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Эта настройка не меняет зачаровываемость предметов с явно заданным значением.$(p)Предметы с зачаровываемостью ноль зачаровать невозможно."
+        }
+	]
+}

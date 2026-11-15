@@ -1,0 +1,16 @@
+{
+  "name": "Дополнение: Больше радиус",
+  "category": "modularrouters:augments",
+  "icon": "modularrouters:range_up_augment",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Это дополнение можно добавить в любой модуль с радиусом действия (Отправитель $(l:modules/sender_1)Мк1/$ / $(l:modules/sender_2)Мк2/$, Извлекатель $(l:modules/puller_1)Мк1/$ / $(l:modules/puller_2)Мк2/$, Экструдер $(l:modules/extruder_1)Мк1/$ / $(l:modules/extruder_2)Мк2/$, $(l:modules/fluid_2)«Жидкость Мк2»/$, $(l:modules/vacuum)«Вакуум»/$).$(p)Его можно ставить пачкой: каждое дополнение увеличивает радиус действия модуля на один блок."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:range_up_augment",
+      "recipe2": "modularrouters:range_up_from_down"
+    }
+  ]
+}

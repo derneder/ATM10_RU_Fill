@@ -1,0 +1,19 @@
+{
+    "name": "Иссушение",
+    "icon": "minecraft:textures/mob_effect/wither.png",
+    "category": "apotheosis:potion/recipes",
+	"flag": "&apotheosis:potion,apotheosis:wstloaded",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(c)Иссушение$() — враждебный эффект, который обычно нельзя сварить.$(p)Под его действием вы получаете урон каждый такт.$(p)В отличие от Яда, этот урон смертельный."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"title": "Рецепт зельеварения",
+			"item": "wstweaks:fragment",
+            "text": "Это зелье варится из неловкого зелья и осколка черепа иссушителя.$(p)Его можно продлить, усилить или превратить в взрывное зелье обычными ингредиентами."
+        }
+	]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Карты транспорта",
+  "icon": "rftoolsbuilder:vehicle_card",
+  "category": "rftoolsbase:category_rftoolsbuilder_mover",
+  "extra_recipe_mappings": {
+    "rftoolsbuilder:vehicle_card": 1
+  },
+  "sortnum": 40,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Карта транспорта хранит блоки, составляющие транспорт. Конструктор транспорта записывает в карту данные из действующей пространственной камеры."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsbuilder:vehicle_card"
+    },
+    {
+      "type": "text",
+      "text": "Вставьте карту в перемещатель, чтобы разместить транспорт в этой точке. Затем контроллер перемещателей сможет перемещать транспорт между подключёнными перемещателями."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+    "name": "Сладости, угощения и напитки",
+    "icon": "merrymaking:fruitcake",
+    "category": "merrymaking:foods",
+    "pages": [
+        {
+            "type": "spotlight",
+            "title": "Устанавливаемые напитки",
+            "item": "merrymaking:hot_cocoa",
+            "text": "Горячее какао, какао с перечной мятой и эгг-ног можно ставить как украшение.$(br2)Чтобы забрать их, кликните с зажатым Shift. Чтобы выпить, используйте как обычно. После того как вы допьёте, останется пустая кружка."
+        },
+        {
+            "type": "crafting",
+            "title": "Напитки",
+            "recipe": "merrymaking:mug",
+            "recipe2": "merrymaking:egg_nog"
+        },
+        {
+            "type": "smelting",
+            "title": "Напитки",
+            "recipe": "merrymaking:hot_cocoa_smelting",
+            "text": "Нагрейте кружку какао, чтобы получить горячее какао."
+        },
+        {
+            "type": "crafting",
+            "title": "Напитки",
+            "recipe": "merrymaking:mug_cocoa",
+            "recipe2": "merrymaking:peppermint_cocoa"
+        },
+        {
+            "type": "crafting",
+            "title": "Рецепты ингредиентов",
+            "recipe": "merrymaking:ground_ginger",
+            "recipe2": "merrymaking:gingerbread_dough"
+        },
+        {
+            "type": "crafting",
+            "title": "Рецепты ингредиентов",
+            "recipe": "merrymaking:cookie_dough",
+            "recipe2": "merrymaking:icing"
+        },
+        {
+            "type": "crafting",
+            "title": "Рецепты ингредиентов",
+            "recipe": "merrymaking:mint_bottle",
+            "text": "Чтобы сделать экстракт перечной мяты, используйте бутылочку мяты на воде."
+        },
+        {
+            "type": "crafting",
+            "title": "Рецепты печенья",
+            "recipe": "merrymaking:tree_cookie",
+            "recipe2": "merrymaking:stocking_cookie"
+        },
+        {
+            "type": "crafting",
+            "title": "Рецепты ингредиентов",
+            "recipe": "merrymaking:mitten_cookie",
+            "recipe2": "merrymaking:gingerbread_cookie"
+        },
+        {
+            "type": "crafting",
+            "recipe": "merrymaking:candy_cane"
+        },
+        {
+            "type": "crafting",
+            "title": "Прочие десерты",
+            "recipe": "merrymaking:fudge",
+            "recipe2": "merrymaking:fruitcake"
+        },
+        {
+            "type": "spotlight",
+            "item": "merrymaking:ham",
+            "text": "Ветчина — новый дроп со свиней, её можно приготовить в печи или коптильне.$(br2)Съешьте как есть или приготовьте изысканный ужин, чтобы угостить окружающих."
+        },
+        {
+            "type": "patchouli:smelting",
+            "title": "Запечённая ветчина",
+            "recipe": "merrymaking:ham_smelting"
+        },
+        {
+            "type": "spotlight",
+            "title": "Ужины",
+            "item": "merrymaking:ham_dinner",
+            "text": "Праздничный ужин с ветчиной и ужин с фаршированной птицей теперь можно есть и использовать как украшение. $(br2)Ешьте их так же, как торт; когда ничего не останется, заберите блюдо обратно для следующей порции."
+        },
+        {
+            "type": "spotlight",
+            "title": "Подносы с едой",
+            "item": "merrymaking:cookie_tray",
+            "text": "Поднос с печеньем и поднос с урожаем теперь интерактивные украшения. $(br2)Каждый клик по подносу даст вам верхний предмет на нём. Когда предметы закончатся, заберите поднос обратно для следующей порции."
+        },
+        {
+            "type": "crafting",
+            "title": "Подносы с едой",
+            "recipe": "merrymaking:cookie_tray",
+            "recipe2": "merrymaking:harvest_tray"
+        },
+        {
+            "type": "crafting",
+            "title": "Ужины",
+            "recipe": "merrymaking:poultry_dinner",
+            "recipe2": "merrymaking:ham_dinner"
+        }
+    ]
+}

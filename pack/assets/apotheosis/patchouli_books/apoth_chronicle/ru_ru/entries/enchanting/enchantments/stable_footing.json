@@ -1,0 +1,17 @@
+{
+    "name": "Устойчивое положение",
+    "icon": "minecraft:enchanted_book",
+    "category": "apotheosis:enchanting/enchantments",
+	"flag": "apotheosis:enchanting",
+	"sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Устойчивое положение$() — зачарование для ботинок.$(p)Оно убирает штраф к скорости разрушения при полёте.$(p)Это включает все штрафы за отсутствие опоры на земле."
+        },
+		{
+			"type": "patchouli:text",
+			"text": "В сочетании с $(9)Родством с водой$() вы сохраняете полную скорость разрушения во время плавания."
+		}
+	]
+}

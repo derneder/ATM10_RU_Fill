@@ -1,0 +1,37 @@
+{
+  "name": "Заряжаемый телепортер",
+  "icon": "rftoolsutility:charged_porter",
+  "category": "rftoolsbase:category_rftoolsutility_machines",
+  "extra_recipe_mappings": {
+    "rftoolsutility:charged_porter": 0,
+    "rftoolsutility:advanced_charged_porter": 0,
+    "rftoolsutility:teleport_probe": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "Заряжаемые телепортеры — переносные устройства телепортации, использующие в качестве точек назначения $(l:rftoolsbase:machines/matter_receiver)приёмники материи$(/l). Перед использованием их нужно зарядить FE."
+    },
+    {
+      "type": "crafting",
+      "heading": "Porters",
+      "recipe": "rftoolsutility:charged_porter",
+      "recipe2": "rftoolsutility:advanced_charged_porter"
+    },
+    {
+      "type": "text",
+      "title": "Цели",
+      "text": "Нажмите ПКМ телепортером по приёмнику материи, чтобы сохранить точку назначения. Обычный телепортер хранит одну цель; продвинутый — несколько и позволяет переключаться между ними."
+    },
+    {
+      "type": "text",
+      "title": "Использование",
+      "text": "Используйте заряженный телепортер, чтобы начать телепортацию. Приёмник должен существовать и быть работоспособным. Продвинутый телепортер лучше подходит игрокам, которые перемещаются между несколькими базами."
+    },
+    {
+      "type": "text",
+      "title": "Зонд телепорта",
+      "text": "Зонд телепорта помогает просматривать информацию о приёмниках и целях телепортеров, что полезно при отладке большой телепортационной сети."
+    }
+  ]
+}

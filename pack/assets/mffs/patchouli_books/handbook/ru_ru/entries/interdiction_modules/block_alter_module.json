@@ -1,0 +1,18 @@
+{
+    "name": "Модуль блокировки изменения блоков",
+    "icon": "mffs:block_alter_module",
+    "category": "mffs:interdiction_modules",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "mffs:block_alter_module",
+            "link_recipe": true,
+            "text": "$(5)Модуль блокировки изменения блоков$() — необязательный модуль для $(l:mffs:machines/interdiction_matrix)Матрицы Подавления$(). Он позволяет Матрице запрещать игроку размещать или ломать блоки. Если игрок попытается сломать или разместить блок, попадающий в зону действия $(l:mffs:machines/interdiction_matrix)Матрицы Подавления$(), она сообщит игроку, что у него нет разрешения на это действие, а затем отменит всё, что он мог совершить."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "mffs:block_alter_module",
+            "text": "Создание $(5)Модуля блокировки изменения блоков$()."
+        }
+    ]
+}

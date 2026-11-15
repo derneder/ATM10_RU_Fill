@@ -1,0 +1,17 @@
+{
+    "name": "Раскалывание",
+    "icon": "apothic_attributes:textures/mob_effect/sundering.png",
+    "category": "apotheosis:potion/effects",
+	"flag": "apotheosis:potion",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Зелье $(c)Раскалывания$() даёт отрицательный эффект.$(p)Под его действием весь получаемый урон увеличивается на 20% за уровень."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Оно служит прямым контрударом к Сопротивлению и складывается с ним.$(p)При Раскалывании II и Сопротивлении II вы будете получать обычный урон."
+        }
+	]
+}

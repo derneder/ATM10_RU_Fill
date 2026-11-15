@@ -1,0 +1,13 @@
+{
+    "name": "Урон атаки",
+    "icon": "minecraft:diamond_sword",
+    "category": "apotheosis:adventure/attributes",
+	"flag": "apotheosis:adventure",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(9)Урон атаки$() — атрибут, определяющий, сколько урона наносят ваши атаки.$(p)Обычно этот показатель дают оружия."
+        }
+	]
+}

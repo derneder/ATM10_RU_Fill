@@ -1,0 +1,22 @@
+{
+    "name": "Инжектор жидкости",
+    "icon": "bigreactors:reprocessorfluidinjector",
+    "category": "bigreactors:reprocessor-parts",
+    "read_by_default": true,
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "bigreactors:reprocessorfluidinjector",
+            "link_recipe": true,
+            "title" : "Инжектор жидкости",
+            "text": "Инжектор жидкости позволяет вводить в репроцессор жидкости, необходимые для переработки отходов.$(br2) Для разных типов отходов могут требоваться разные жидкости."
+        },
+        {
+            "type": "crafting-part_usage",
+            "crafting.title1": "Fluid Injector",
+            "crafting.recipe1": "bigreactors:reprocessor/fluidinjector",
+            "usage.text": "$(l)Обязательна:$() требуется один и только один$(br)$(l)Допустимые позиции:$() любая вертикальная грань (не на раме)$(br)$(l)Графический интерфейс:$() нет"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Тяжёлые раны",
+    "icon": "apothic_attributes:textures/mob_effect/grievous.png",
+    "category": "apotheosis:potion/effects",
+	"flag": "apotheosis:potion",
+	"sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(c)Тяжёлые раны$() — отрицательный эффект, даруемый зельем снижения исцеления.$(p)Под его действием всё получаемое исцеление снижается."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "Снижение исцеления составляет 40% за уровень.$(p)На уровне III и выше всё исцеление полностью блокируется."
+        }
+	]
+}
