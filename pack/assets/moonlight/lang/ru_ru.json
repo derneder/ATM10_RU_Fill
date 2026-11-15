@@ -253,5 +253,6 @@
   "commands.moonlight.registry.registry_key": "%s",
   "moonlight.config.common.x": "X",
   "moonlight.config.common.y": "Y",
-  "moonlight.config.common.z": "Z"
+  "moonlight.config.common.z": "Z",
+  "gui.moonlight.config.general": "Основное"
 }

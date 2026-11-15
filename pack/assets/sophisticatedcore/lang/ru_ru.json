@@ -28,5 +28,8 @@
   "tooltip.sophisticatedcore.linked_storage.primary": "Главное связанное",
   "tooltip.sophisticatedcore.linked_storage.secondary": "Связанное",
   "tooltip.sophisticatedcore.linked_storage.primary_named": "%s (%s)",
-  "tooltip.sophisticatedcore.linked_storage.secondary_named": "%s (%s)"
+  "tooltip.sophisticatedcore.linked_storage.secondary_named": "%s (%s)",
+  "item.sophisticatedcore.storage.tooltip.fluid_with_capacity": "%s / %s mB %s",
+  "item.sophisticatedcore.storage.tooltip.fluid_xp": "%s ур. опыта %s",
+  "item.sophisticatedcore.storage.tooltip.fluid_xp_with_capacity": "%s / %s ур. опыта %s"
 }
