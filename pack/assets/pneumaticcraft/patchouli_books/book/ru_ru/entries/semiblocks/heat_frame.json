@@ -1,0 +1,25 @@
+{
+  "name": "Нагревательный фрейм",
+  "icon": "pneumaticcraft:heat_frame",
+  "category": "pneumaticcraft:semiblocks",
+  "advancement": "pneumaticcraft:root",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Этот предмет можно разместить на любом $(thing)инвентаре/$. Нагреваясь от соседнего $(l:base_concepts/heat)источника тепла/$, он плавит любой предмет в инвентаре (или замораживает при охлаждении). Успешно это происходит, только если в инвентаре есть место для результирующего предмета. Чем сильнее нагрев, тем быстрее плавка — максимум 1 предмет в секунду. Аналогично: чем сильнее охлаждение, тем быстрее замораживание."
+    },
+    {
+      "type": "link",
+      "flag": "mod:crafttweaker",
+      "title": "CraftTweaker",
+      "text": "$(thing)Нагревательный фрейм/$ поддерживает $(l:https://minecraft.curseforge.com/projects/crafttweaker)CraftTweaker/$ для охлаждения (плавка использует обычные рецепты $(item)печи/$): рецепты можно добавлять и удалять. Подробности — по ссылке ниже.",
+      "url": "https://crafttweaker.readthedocs.io/en/latest/#Mods/PneumaticCraft_Repressurized/Heat_Frame_Cooling/",
+      "link_text": "Документация CraftTweaker"
+    },
+    {
+      "type": "crafting",
+      "text": "Крафт нагревательного фрейма",
+      "recipe": "pneumaticcraft:heat_frame"
+    }
+  ]
+}

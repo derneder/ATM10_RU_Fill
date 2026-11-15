@@ -1,0 +1,21 @@
+{
+  "name": "Гаечный пневмоключ",
+  "icon": "pneumaticcraft:pneumatic_wrench[pneumaticcraft:air=30000]",
+  "category": "pneumaticcraft:tools",
+  "advancement": "pneumaticcraft:pressure_tube",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Пневмоключ — это предмет-$(thing)ключ/$ для $(pncr). Его можно использовать для разных задач, в том числе:$(p)$(li)$(thing)ПКМ/$ по ванильным и модовым блокам поворачивает их$(li)$(thing)Shift + ПКМ/$ по машинам $(pncr) снимает их предметом, сохраняя установленные улучшения и воздух в машине."
+    },
+    {
+      "type": "text",
+      "text": "$(li)$(thing)ПКМ/$ по $(l:base_concepts/drones)дронам/$ разбирает их, выбрасывая предметом.$(li)$(thing)ПКМ/$ по $(l:tubes/pressure_tubes)напорным трубам/$ закрывает или открывает участки, изолируя их друг от друга.$(p)$(item)Гаечный пневмоключ/$ должен быть заправлен на $(l:machines/charging_station)станции заправки/$ перед использованием."
+    },
+    {
+      "type": "crafting",
+      "text": "Крафт гаечного пневмоключа",
+      "recipe": "pneumaticcraft:pneumatic_wrench"
+    }
+  ]
+}

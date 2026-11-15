@@ -1,0 +1,28 @@
+{
+  "name": "Глицерин",
+  "icon": "pneumaticcraft:glycerol",
+  "category": "pneumaticcraft:renewables",
+  "advancement": "pneumaticcraft:ethanol",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(thing)Глицерин/$ — побочный продукт производства $(l:renewables/biodiesel)биодизеля/$, но сам по себе оказывается довольно полезным веществом. Его применения подробно описаны на следующих страницах."
+    },
+    {
+      "type": "crafting",
+      "recipe": "pneumaticcraft:bandage",
+      "text": "$(thing)Бандажи/$ позволяют быстро восстановить 3 сердца здоровья. Впрочем, быстро — не мгновенно: чтобы наложить бандаж, нужно нажать ПКМ и удерживать 2 секунды, а между применениями действует перезарядка 8 секунд."
+    },
+    {
+      "type": "crafting",
+      "recipe": "pneumaticcraft:speed_upgrade_from_glycerol",
+      "text": "Вдвое больше продукции, чем при использовании $(thing)сахара/$ — что тут не нравится? Это сэкономит вашу драгоценную $(l:components/lubricant)смазку/$."
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:furnace",
+      "title": "Как топливо",
+      "text": "$(thing)Глицерин/$ — неплохой вид топлива: он эквивалентен 4 $(thing)доскам/$ или половине куска $(thing)угля/$."
+    }
+  ]
+}

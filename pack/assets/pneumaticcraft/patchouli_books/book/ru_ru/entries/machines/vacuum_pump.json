@@ -1,0 +1,38 @@
+{
+  "name": "Вакуумный насос",
+  "icon": "pneumaticcraft:vacuum_pump",
+  "category": "pneumaticcraft:machines",
+  "advancement": "pneumaticcraft:pressure_chamber",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(thing)Вакуумный насос/$ — машина, используемая для создания… вакуума. Для этого машина потребляет $(l:base_concepts/pressure)сжатый воздух/$.$(p)Положительное давление следует подавать на сторону $(#0c0)'+'/$; когда достигается минимальное рабочее давление, $(item)вакуумный насос/$ начинает качать, и давление на стороне $(#c00)'-'/$ падает до минимума -1,0 бар, что и есть вакуум."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/patchouli/vacuum_pump.png"
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Применение",
+      "text": "Отрицательное (вакуумное) давление имеет следующие применения:$(li)Снятие чар: поместите $(item)зачарованный предмет/$ или $(item)зачарованную книгу/$ с более чем одним зачарованием и ванильную $(item)книгу/$ в $(l:manufacturing/pressure_chamber)барокамеру/$ и создайте в камере достаточное отрицательное давление. Случайное зачарование перенесётся с предмета на книгу.$(li)$(l:tubes/air_grate_module)Модуль вентиляции/$, получая отрицательное давление, будет притягивать к себе существ."
+    },
+    {
+      "type": "text",
+      "title": "Применение (продолжение)",
+      "text": "$(li)И $(l:spawning/vacuum_trap)вакуумная ловушка/$, и $(l:spawning/spawner_extractor)извлекатель спавнера/$ — устройства, необходимые для создания и использования $(l:spawning/pressurized_spawner)напорных спавнеров/$ — требуют отрицательного давления для работы."
+    },
+    {
+      "type": "crafting",
+      "text": "Крафт вакуумного насоса",
+      "recipe": "pneumaticcraft:vacuum_pump"
+    },
+    {
+      "type": "pneumaticcraft:pressure_chamber",
+      "header": "Вакуумное снятие чар",
+      "recipe": "pneumaticcraft:pressure_chamber/pressure_chamber_disenchanting"
+    }
+  ]
+}

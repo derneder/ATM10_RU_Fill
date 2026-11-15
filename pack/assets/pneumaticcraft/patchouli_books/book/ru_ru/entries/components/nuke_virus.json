@@ -1,0 +1,17 @@
+{
+  "name": "Ядерный вирус",
+  "icon": "pneumaticcraft:nuke_virus",
+  "category": "pneumaticcraft:components",
+  "advancement": "pneumaticcraft:root",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Это особый компонент, используемый только при попытке взлома $(l:machines/security_station)станции безопасности/$. Он не крафтится и может быть найден только в луте данжей или (редко) в торгах жителей."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:nuke_virus",
+      "text": "Применение $(thing)ядерного вируса/$ к узлу во время взлома взломает его мгновенно. Учтите, что у ядерного вируса есть перезарядка 3 секунды между повторными применениями."
+    }
+  ]
+}

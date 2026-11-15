@@ -1,0 +1,26 @@
+{
+  "name": "Электрокомпрессор",
+  "icon": "pneumaticcraft:electric_compressor",
+  "category": "pneumaticcraft:compressors",
+  "advancement": "pneumaticcraft:advanced_pressure_tube",
+  "flag": "pneumaticcraft:electricCompressorEnabled",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Электрокомпрессор/$ может производить сжатый воздух из $(thing)EU из IndustrialCraft 2/$. По умолчанию его КПД составляет 40%, но это можно $(ttcolor)$(t:См. 'I:electricCompressorEfficiency')изменить в конфиге/$.$(p)Он ведёт себя как машина IC2 1-го уровня, поэтому взорвётся, если получит >32 ЕС/т. Однако вы можете добавить $(item)улучения трансформатора/$ IC2, чтобы допустить более высокое напряжение, как в обычных машинах IC2."
+    },
+    {
+      "type": "text",
+      "text": "Выход энергии в мЛ/тик:$(p)  $(formula)входная скорость / E * 400/$$(p)где $(formula)E/$ — это КПД.$(p)Например, при КПД по умолчанию 40% и входе 32 ЕС/тик производство сжатого воздуха составляет $(formula)32 / 40 * 400 = 320 мЛ/тик./$"
+    },
+    {
+      "type": "text",
+      "text": "Другой фактор, влияющий на КПД, — это $(l:base_concepts/heat)тепло/$ машины. Машину необходимо охлаждать, так как эффективность будет падать с ростом температуры, вплоть до полной остановки производства воздуха."
+    },
+    {
+      "type": "crafting",
+      "text": "Крафт $(item)электрокомпрессора/$",
+      "recipe": "pneumaticcraft:electric_compressor"
+    }
+  ]
+}

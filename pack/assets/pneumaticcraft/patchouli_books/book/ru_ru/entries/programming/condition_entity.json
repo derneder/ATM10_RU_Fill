@@ -1,0 +1,23 @@
+{
+  "name": "Условие - Существо",
+  "icon": "pneumaticcraft:textures/progwidgets/condition_entity_piece.png",
+  "category": "pneumaticcraft:widget_cond",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Это виджет $(l:programming/conditions)Условие/$.$(p)Виджет $(thing)Условие - Существо/$ позволяет считать существ в подключённом виджете $(l:programming/area)Область/$. Их можно отфильтровать, подключив необязательный виджет $(l:programming/text)Текст/$, используемый как $(l:base_concepts/entity_filter)Фильтр существ/$."
+    },
+    {
+      "type": "text",
+      "text": "Помните, что все виджеты $(l:programming/area)Область/$, подключённые к этому виджету, должны иметь тип области $(thing)Коробка/$; это единственная поддерживаемая форма. Однако создать формы другой формы всё же можно, используя белый и чёрный списки областей."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/condition_entity_piece.png"
+      ],
+      "text": "$(italic)Виджет «Условие - Существо»/$"
+    }
+  ]
+}

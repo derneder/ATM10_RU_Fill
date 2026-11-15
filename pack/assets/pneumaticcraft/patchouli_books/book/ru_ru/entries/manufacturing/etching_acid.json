@@ -1,0 +1,16 @@
+{
+  "name": "Кислота для травления",
+  "icon": "pneumaticcraft:etching_acid_bucket",
+  "category": "pneumaticcraft:manufacturing",
+  "advancement": "pneumaticcraft:pressure_chamber",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Кислота для травления используется для химического проявления $(l:components/pcb)печатных плат/$. Кислота для травления создаётся в $(l:manufacturing/pressure_chamber)барокамере/$ и используется в $(l:manufacturing/etching_tank)резервуаре для травления/$.$(p)См. запись $(l:components/pcb)печатных плат/$ для дополнительной информации о производстве плат."
+    },
+    {
+      "type": "pneumaticcraft:pressure_chamber",
+      "recipe": "pneumaticcraft:pressure_chamber/etching_acid"
+    }
+  ]
+}

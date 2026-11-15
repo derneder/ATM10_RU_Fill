@@ -1,0 +1,17 @@
+{
+  "name": "Чертёж печатной платы",
+  "icon": "pneumaticcraft:pcb_blueprint",
+  "category": "pneumaticcraft:components",
+  "advancement": "pneumaticcraft:root",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Чертёж печатной платы/$ — особый компонент, необходимый для крафта $(l:manufacturing/uv_light_box)УФ-коробки/$.$(p)Он не крафтится обычным способом, его нужно получить обменом — обычно через $(l:tools/amadron_tablet)планшет Amadron/$, а возможно и через $(l:base_concepts/villagers)жителей-механиков/$."
+    },
+    {
+      "type": "pneumaticcraft:amadron_trade",
+      "recipe": "pneumaticcraft:amadron/pcb_blueprint",
+      "text": "Обмен на $(item)чертёж печатной платы/$."
+    }
+  ]
+}

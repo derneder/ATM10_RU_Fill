@@ -1,0 +1,33 @@
+{
+  "name": "Дрон-фермер",
+  "icon": "pneumaticcraft:harvesting_drone[pneumaticcraft:air=120000]",
+  "category": "pneumaticcraft:tools",
+  "advancement": "pneumaticcraft:pressure_chamber",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Дрон-фермер/$ — специализированный непрограммируемый вид $(l:tools/drone)дрона/$, который выполняет задачи $(l:programming/harvest)сбора урожая и деревьев/$ в кубе 17x17x17 с центром в блоке развёртывания. Дрон $(italic)не/$ подбирает собранные предметы."
+    },
+    {
+      "type": "spotlight",
+      "title": "Автоматическая заправка",
+      "item": "pneumaticcraft:charging_station",
+      "text": "Как и все типы дронов, эти дроны требуют $(l:base_concepts/pressure)давления/$ для работы и автоматически ищут $(l:tools/drone#charging)станцию заправки с улучшением-диспенсером/$, когда воздуха мало."
+    },
+    {
+      "type": "entity",
+      "entity": "pneumaticcraft:harvesting_drone",
+      "offset": -0.3
+    },
+    {
+      "type": "text",
+      "title": "Использование инструментов",
+      "text": "Если развернуть $(item)дрона-фермера/$, нажав $(thing)Shift + ПКМ/$ по инвентарю, содержащему (только) $(item)мотыгу/$ любого типа, дрон будет использовать эту мотыгу для автоматической пересадки культур и не станет работать без неё. Если пересадка не нужна, просто разверните дрона на любом другом блоке."
+    },
+    {
+      "type": "crafting",
+      "text": "Обратите внимание: дроны-фермеры разобрались, как рубить деревья мотыгой вместо топора; они такие умные.",
+      "recipe": "pneumaticcraft:harvesting_drone"
+    }
+  ]
+}

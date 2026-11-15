@@ -1,0 +1,6 @@
+{
+  "name": "Трубы и модули",
+  "description": "Напорные трубы — это то, как перемещается сжатый воздух в $(pncr).",
+  "icon": "pneumaticcraft:pressure_tube",
+  "sortnum": 2
+}

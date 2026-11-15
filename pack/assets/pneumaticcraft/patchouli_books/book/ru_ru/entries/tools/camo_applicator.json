@@ -1,0 +1,21 @@
+{
+  "name": "Камуфликатор",
+  "icon": "pneumaticcraft:camo_applicator[pneumaticcraft:air=30000]",
+  "category": "pneumaticcraft:tools",
+  "advancement": "pneumaticcraft:pressure_tube",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Камуфликатор/$ позволяет маскировать определённые блоки $(pncr):$(li)$(l:tubes/pressure_tubes)напорные трубы/$$(li)$(l:machines/pneumatic_door)основание пневмодвери/$$(li)$(l:machines/elevators)основание лифта и вызыватель/$$(li)$(l:machines/charging_station)станция заправки/$$(li)$(l:machines/heat_pipe)тепловая труба/$(p)$(thing)ПКМ/$ по любому твёрдому блоку копирует его внешний вид в инструмент, а $(thing)Shift + ПКМ/$ очищает скопированный блок. "
+    },
+    {
+      "type": "text",
+      "text": "Затем $(thing)ПКМ/$ по любому маскируемому блоку (см. выше) применяет или снимает камуфляж.$(p)Для применения камуфляжа в инвентаре должен быть сам блок — он будет израсходован (но вернётся при снятии камуфляжа).$(p)Снять камуфляж можно и разрушив замаскированный блок киркой или другим подходящим инструментом: камуфляж при этом отвалится."
+    },
+    {
+      "type": "crafting",
+      "text": "Крафт камуфликатора",
+      "recipe": "pneumaticcraft:camo_applicator"
+    }
+  ]
+}

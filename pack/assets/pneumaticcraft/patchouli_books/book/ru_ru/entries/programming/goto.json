@@ -1,0 +1,19 @@
+{
+  "name": "Лететь в локацию",
+  "icon": "pneumaticcraft:textures/progwidgets/goto_piece.png",
+  "category": "pneumaticcraft:widget_interact",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(thing)Лететь в локацию/$ довольно прост: $(l:tools/drone)Дрон/$ полетит в ближайшую достижимую точку в указанной $(l:programming/area)Области/$.$(p)Виджет завершается $(ttcolor)$(t:Можно настроить виджет на мгновенное «завершение»; ПКМ открывает интерфейс настройки)когда Дрон достиг области/$ или когда эта область недостижима."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/goto_piece.png"
+      ],
+      "text": "$(italic)Виджет «Лететь в локацию»/$"
+    }
+  ]
+}

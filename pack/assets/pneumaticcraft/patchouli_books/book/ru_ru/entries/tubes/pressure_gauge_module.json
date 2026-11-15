@@ -1,0 +1,30 @@
+{
+  "name": "Модуль: Датчик давления",
+  "icon": "pneumaticcraft:pressure_gauge_module",
+  "category": "pneumaticcraft:tubes",
+  "advancement": "pneumaticcraft:pressure_tube",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Этот трубный модуль показывает $(l:base_concepts/pressure)давление/$ в трубе, к которой прикреплён. Он также излучает (направленный) $(#f00)сигнал редстоуна/$, сила которого равна:$(p)$(formula)  сила = 2 x давление/$$(p)Например, давление 3,5 бар даёт сигнал редстоуна уровня 7."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:module_expansion_card",
+      "text": "Применение $(l:tubes/module_expansion_card)карты расширения модуля/$ к датчику давления открывает интерфейс (ПКМ) с куда более тонким контролем излучения $(#f00)сигнала редстоуна/$. По умолчанию можно задать пороговый уровень: сигнал будет выключен ниже него и полностью включён выше (или наоборот). Если включить переключатель $(bold)Расширенная настройка/$ в интерфейсе, контроля станет ещё больше (см. далее)."
+    },
+    {
+      "type": "image",
+      "images": [
+          "pneumaticcraft:textures/patchouli/pressure_gauge_gui.png"
+      ],
+      "text": "$(italic)<10 бар = 0 редстоуна, >20 бар = 15 редстоуна, 10–20 бар = интерполяция (например, 12 бар = 3 редстоуна)/$",
+      "anchor": "img"
+    },
+    {
+      "type": "crafting",
+      "text": "Крафт датчика давления",
+      "recipe": "pneumaticcraft:pressure_gauge_module"
+    }
+  ]
+}

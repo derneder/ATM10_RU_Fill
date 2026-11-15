@@ -1,0 +1,22 @@
+{
+  "name": "Логистический пневмоключ",
+  "icon": "pneumaticcraft:logistics_configurator",
+  "category": "pneumaticcraft:logistics",
+  "advancement": "pneumaticcraft:pressure_tube",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Основное назначение $(item)логистического пневмоключа/$ — помощь в настройке $(l:logistics/overview)логистической системы/$.$(p)$(thing)Щелчок ПКМ/$ по любому $(l:logistics/frames)логистическому фрейму/$ позволяет настраивать различные фильтры.$(p)$(thing)Shift+ПКМ/$ снимает фрейм с инвентаря, к которому он прикреплён."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:logistics_configurator",
+      "text": "$(item)Логистический пневмоключ/$ также можно использовать для снятия (при помощи $(thing)Shift+ПКМ/$) других приставляемых гаджетов, таких как $(l:semiblocks/transfer_gadget)гаджет передачи/$ и $(l:semiblocks/crop_support)опора для растений/$."
+    },
+    {
+      "type": "crafting",
+      "text": "Крафт логистического пневмоключа",
+      "recipe": "pneumaticcraft:logistics_configurator"
+    }
+  ]
+}

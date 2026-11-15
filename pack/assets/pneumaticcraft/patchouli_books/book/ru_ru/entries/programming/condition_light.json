@@ -1,0 +1,19 @@
+{
+  "name": "Условие - Уровень освещения",
+  "icon": "pneumaticcraft:textures/progwidgets/condition_light_piece.png",
+  "category": "pneumaticcraft:widget_cond",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Это виджет $(l:programming/conditions)Условие/$.$(p)Виджет $(thing)Условие - Уровень освещения/$ позволяет (дистанционно) проверить, соответствует ли уровень освещения блока (или блоков) в подключённом виджете $(l:programming/area)Область/$ заданному порогу освещённости."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/condition_light_piece.png"
+      ],
+      "text": "$(italic)Виджет «Условие - Уровень освещения»/$"
+    }
+  ]
+}

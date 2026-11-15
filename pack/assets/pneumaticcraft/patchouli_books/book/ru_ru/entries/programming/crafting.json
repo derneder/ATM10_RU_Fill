@@ -1,0 +1,29 @@
+{
+  "name": "Крафт",
+  "icon": "pneumaticcraft:textures/progwidgets/craft_piece.png",
+  "category": "pneumaticcraft:widget_interact",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(l:tools/drone)Дрон/$ будет крафтить предметы из того, что есть в его инвентаре. Чтобы задать рецепт крафта, разместите $(l:programming/item_filter)Предметные фильтры/$ справа от виджета Крафт по шаблону рецепта.$(p)Необязательно использовать ровно 9 $(thing)Предметных фильтров/$: достаточно, чтобы получился шаблон рецепта."
+    },
+    {
+      "type": "text",
+      "text": "По умолчанию виджет Крафт попытается скрафтить как можно больше предметов; это можно ограничить настройкой $(thing)Использовать счёт/$ в интерфейсе виджета.$(p)Вероятно, вы захотите установить несколько $(l:base_concepts/upgrades#dispenser)улучшений «Инвентарь»/$ в $(item)Дрона/$, чтобы увеличить его инвентарь."
+    },
+    {
+      "type": "text",
+      "flag": "mod:jei",
+      "title": "Интеграция с JEI",
+      "text": "Настроить Предметные фильтры для виджета Крафт с помощью JEI можно быстро и просто; подробнее см. $(l:programming/programmer#jei)на этой странице/$."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/craft_piece.png"
+      ],
+      "text": "$(italic)Виджет «Крафт»/$"
+    }
+  ]
+}

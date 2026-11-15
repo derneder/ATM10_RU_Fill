@@ -1,0 +1,33 @@
+{
+  "name": "Маркер GPS",
+  "icon": "pneumaticcraft:gps_tool",
+  "category": "pneumaticcraft:tools",
+  "advancement": "pneumaticcraft:plastic",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Маркер GPS/$ — предмет, который при $(thing)клике ПКМ/$ по блоку сохраняет его координату. Эти данные используются в нескольких местах $(pncr); см. далее.$(p)$(thing)ПКМ/$ $(item)маркером GPS/$ по воздуху открывает интерфейс для прямой настройки координат.$(p)Приседание с вращением колёсика мыши позволяет быстро менять координату вдоль оси взгляда игрока."
+    },
+    {
+      "type": "text",
+      "anchor": "variables",
+      "title": "Привязка глобальных переменных",
+      "text": "$(l:programming/variables#global)Глобальные переменные/$ — продвинутая возможность $(l:base_concepts/drone)дрона/$, доступная через $(l:programming/coordinate_operator)оператор координат/$.$(p)$(thing)ПКМ/$ $(item)маркером GPS/$ по воздуху позволяет ввести имя переменной.$(p)Теперь эта $(thing)глобальная переменная/$ будет отслеживать значение выбранной координаты $(item)маркера GPS/$. Это можно использовать для создания $(thing)программ дронов/$ с динамическими областями."
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "pneumaticcraft:machines/air_cannon",
+        "pneumaticcraft:machines/universal_sensor",
+        "pneumaticcraft:programming/programmer",
+        "pneumaticcraft:tools/amadron_tablet"
+      ],
+      "text": "Машины и инструменты, использующие $(item)маркер GPS/$."
+    },
+    {
+      "type": "crafting",
+      "text": "Крафт маркера GPS",
+      "recipe": "pneumaticcraft:gps_tool"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Станция заправки",
+  "icon": "pneumaticcraft:charging_station",
+  "category": "pneumaticcraft:machines",
+  "advancement": "pneumaticcraft:pressure_tube",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Станция заправки/$ — машина, в которой можно заряжать (или разряжать) $(l:base_concepts/pressure)пневматические предметы/$. Взаимодействие между $(item)станцией заправки/$ и пневматическими предметами такое же, как между трубами и машинами: разница давлений выравнивается. Это означает, что для полной зарядки предметов вам понадобится хорошо заправленная $(item)станция заправки/$."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:charging_station",
+      "text": "У большинства заряжаемых предметов максимальное давление составляет 10 бар. Но не беспокойтесь о взрывах: предметы не взорвутся от перезарядки, а просто перестанут заряжаться свыше 10 бар.$(p)$(thing)Зарядную панель/$ можно замаскировать с помощью $(l:tools/camo_applicator)камуфликатора/$."
+    },
+    {
+      "type": "text",
+      "title": "Зарядная панель",
+      "text": "Вы можете превратить $(item)станцию заправки/$ в $(thing)зарядную панель/$, вставив $(l:base_concepts/upgrades#dispenser)улучшение-диспенсер/$. Она будет (спускать) нагнетать давление в:$(li)предметы, лежащие на земле поверх станции заправки$(li)предметы, которые несут игроки, стоящие на станции заправки$(li)все типы $(l:tools/drone)дронов/$, находящихся непосредственно над станцией заправки"
+    },
+    {
+      "type": "text",
+      "title": "Управление улучшениями",
+      "text": "$(item)Станция заправки/$ также работает как система управления предметами, принимающими $(l:base_concepts/upgrades)улучшения/$. Чтобы улучшить предмет, положите его в $(item)станцию заправки/$ как обычно и нажмите кнопку $(thing)стрелки вверх/$ прямо над слотом предмета. Откроется новый GUI, куда можно вставлять улучшения; каждое применимое улучшение для данного предмета описано в боковой вкладке GUI."
+    },
+    {
+      "type": "relations",
+      "title": "Заряжаемые предметы",
+      "entries": [
+        "pneumaticcraft:components/air_canister",
+        "pneumaticcraft:tools/pneumatic_wrench",
+        "pneumaticcraft:logistics/logistics_configurator",
+        "pneumaticcraft:tools/camo_applicator",
+        "pneumaticcraft:tools/vortex_cannon",
+        "pneumaticcraft:tools/minigun",
+        "pneumaticcraft:tools/manometer",
+        "pneumaticcraft:armor/pneumatic_helmet",
+        "pneumaticcraft:armor/pneumatic_chestplate",
+        "pneumaticcraft:armor/pneumatic_leggings",
+        "pneumaticcraft:armor/pneumatic_boots"
+      ]
+    },
+    {
+      "type": "relations",
+      "title": "Заряжаемые предметы (продолжение)",
+      "entries": [
+        "pneumaticcraft:tools/drone",
+        "pneumaticcraft:tools/collector_drone",
+        "pneumaticcraft:tools/guard_drone",
+        "pneumaticcraft:tools/harvesting_drone",
+        "pneumaticcraft:logistics/logistics_drone"
+      ]
+    },
+    {
+      "type": "crafting",
+      "text": "Крафт станции заправки",
+      "recipe": "pneumaticcraft:charging_station"
+    }
+  ]
+}

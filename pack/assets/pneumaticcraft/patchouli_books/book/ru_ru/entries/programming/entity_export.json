@@ -1,0 +1,19 @@
+{
+  "name": "Экспорт существ",
+  "icon": "pneumaticcraft:textures/progwidgets/entity_export_piece.png",
+  "category": "pneumaticcraft:widget_interact",
+  "advancement": "pneumaticcraft:programmer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(l:tools/drone)Дрон/$ полетит в указанную $(l:programming/area)Область/$ и сбросит несомое им существо, если это разрешено (необязательным) $(l:base_concepts/entity_filter)Фильтром существ/$, заданным в подключённом виджете $(l:programming/text)Текст/$.$(p)См. также виджет $(l:programming/entity_import)Импорт существ/$."
+    },
+    {
+      "type": "image",
+      "images": [
+        "pneumaticcraft:textures/progwidgets/entity_export_piece.png"
+      ],
+      "text": "$(italic)Виджет «Экспорт существ»/$"
+    }
+  ]
+}

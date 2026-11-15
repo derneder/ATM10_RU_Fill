@@ -1,0 +1,21 @@
+{
+  "name": "Продвинутая воздушная канистра",
+  "icon": "pneumaticcraft:reinforced_air_canister",
+  "category": "pneumaticcraft:components",
+  "advancement": "pneumaticcraft:advanced_pressure_tube",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Как и её младшая сестра — $(l:components/air_canister)воздушная канистра/$, $(thing)продвинутая воздушная канистра/$ хранит воздух и может заряжаться и разряжаться в $(l:machines/charging_station)станции заправки/$. Однако её объём увеличен до 6000 мВ, а заряжается она до 20 бар (не взорвётся)."
+    },
+    {
+      "type": "text",
+      "text": "Интересное применение $(thing)продвинутой воздушной канистры/$ — накопитель воздуха в связке с инвентарём вроде сундука и $(l:tubes/pressure_tubes)напорной трубы/$ с $(l:tubes/charging_module)модулем «Зарядка»/$. А с $(l:machines/aerial_interface)воздушным интерфейсом/$ и (ванильным) $(thing)эндер-сундуком/$ это становится ещё интереснее..."
+    },
+    {
+      "type": "crafting",
+      "text": "Крафт продвинутой воздушной канистры",
+      "recipe": "pneumaticcraft:reinforced_air_canister"
+    }
+  ]
+}

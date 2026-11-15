@@ -1,0 +1,27 @@
+{
+  "name": "Пнемвогенератор",
+  "icon": "pneumaticcraft:pneumatic_generator",
+  "category": "pneumaticcraft:machines",
+  "flag": "pneumaticcraft:pneumaticGeneratorEnabled",
+  "advancement": "pneumaticcraft:advanced_pressure_tube",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Пнемвогенератор может производить $(thing)EU IndustrialCraft 2/$ из $(l:base_concepts/pressure)сжатого воздуха/$. Это машина второго уровня, о чём свидетельствует её минимальное рабочее давление 15 бар. По умолчанию её КПД составляет 40%, но это можно $(ttcolor)$(t:См. 'I:pneumaticGeneratorEfficiency')изменить в конфиге/$.$(p)Без $(l:base_concepts/upgrades#speed)улучшений скорости/$ она выдаёт 32 EU/тик; с одним улучшением: 128 EU/тик, с двумя: 512 EU/тик."
+    },
+    {
+      "type": "spotlight",
+      "item": "pneumaticcraft:pneumatic_generator",
+      "text": "Расход воздуха (мЛ/тик):$(p)$(formula)  выходная скорость / E * 400/$$(p)где $(formula)E/$ — это КПД в процентах. Например, при КПД по умолчанию 40% и выходной скорости 32 EU/тик расход воздуха = $(formula)32 / 40 * 400 = 320 мЛ/тик/$."
+    },
+    {
+      "type": "text",
+      "text": "Важный фактор, влияющий на эффективность, — это $(l:base_concepts/heat)температура/$ генератора. Генератор нужно $(thing)охлаждать/$, иначе его эффективность будет падать с ростом температуры, вплоть до полной остановки производства воздуха."
+    },
+    {
+      "type": "crafting",
+      "text": "Крафт пнемвогенератора",
+      "recipe": "pneumaticcraft:pneumatic_generator"
+    }
+  ]
+}
