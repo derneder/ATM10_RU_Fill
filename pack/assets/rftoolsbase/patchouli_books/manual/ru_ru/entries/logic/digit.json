@@ -12,7 +12,7 @@
     },
     {
       "type": "crafting",
-      "heading": "Digit",
+      "heading": "Цифровой индикатор",
       "recipe": "rftoolsutility:digit"
     }
   ]

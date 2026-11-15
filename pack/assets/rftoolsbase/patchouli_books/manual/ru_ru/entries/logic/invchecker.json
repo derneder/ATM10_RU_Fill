@@ -17,7 +17,7 @@
     },
     {
       "type": "crafting",
-      "heading": "Digit",
+      "heading": "Цифровой индикатор",
       "recipe": "rftoolsutility:invchecker",
       "text": "Помните, что нумерация слотов начинается с нуля!"
     }

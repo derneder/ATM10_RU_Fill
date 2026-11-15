@@ -17,7 +17,7 @@
     },
     {
       "type": "crafting",
-      "heading": "Machine Base",
+      "heading": "Основа машины",
       "recipe": "rftoolsbase:machine_base",
       "text": "$(item)Основа машины$() сама по себе ничего не делает, но используется во многих рецептах как база для других блоков."
     }

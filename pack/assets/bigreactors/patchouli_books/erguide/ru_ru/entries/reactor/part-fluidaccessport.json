@@ -15,7 +15,7 @@
         {
             "type": "crafting-text",
             "text": "$(l:bigreactors/wrench)Гаечным ключом$(/l) можно изменить режим порта.$(br2)В отличие от порта доступа к твёрдым материалам, при использовании порта впрыска топлива потери материала не происходит.",
-            "title1": "Reinforced",
+            "title1": "Усиленный",
             "recipe": "bigreactors:reactor/reinforced/fluidaccessport"
         },
         {

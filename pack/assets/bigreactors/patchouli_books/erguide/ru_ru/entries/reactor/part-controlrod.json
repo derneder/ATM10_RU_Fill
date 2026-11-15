@@ -18,7 +18,7 @@
         },
         {
             "type": "bigreactors:crafting1x",
-            "title1": "Основной",
+            "title1": "Обычный",
             "recipe1": "bigreactors:reactor/basic/controlrod",
             "title2": "Усиленный",
             "recipe2": "bigreactors:reactor/reinforced/controlrod"

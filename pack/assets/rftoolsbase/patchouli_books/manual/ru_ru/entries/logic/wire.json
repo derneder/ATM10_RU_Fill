@@ -12,7 +12,7 @@
     },
     {
       "type": "crafting",
-      "heading": "Wire",
+      "heading": "Провод",
       "recipe": "rftoolsutility:wire"
     }
   ]

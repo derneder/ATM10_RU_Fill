@@ -14,16 +14,16 @@
         },
         {
             "type": "bigreactors:crafting1x",
-            "title1": "Basic (Passive)",
+            "title1": "Обычный (пассивный)",
             "recipe1": "bigreactors:turbine/basic/passivefluidport_forge",
-            "title2": "Reinforced (Passive)",
+            "title2": "Усиленный (пассивный)",
             "recipe2": "bigreactors:turbine/reinforced/passivefluidport_forge"
         },
         {
             "type": "bigreactors:crafting1x",
-            "title1": "Basic (Active)",
+            "title1": "Обычный (активный)",
             "recipe1": "bigreactors:turbine/basic/activefluidport_forge",
-            "title2": "Reinforced (Active)",
+            "title2": "Усиленный (активный)",
             "recipe2": "bigreactors:turbine/reinforced/activefluidport_forge"
         },
         {

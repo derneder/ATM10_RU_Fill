@@ -14,9 +14,9 @@
         },
         {
             "type": "bigreactors:crafting1x",
-            "title1": "Reinforced (Passive)",
+            "title1": "Усиленный (пассивный)",
             "recipe1": "bigreactors:reactor/reinforced/passivefluidport_forge",
-            "title2": "Reinforced (Active)",
+            "title2": "Усиленный (активный)",
             "recipe2": "bigreactors:reactor/reinforced/activefluidport_forge"
         },
         {

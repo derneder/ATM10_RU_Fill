@@ -13,7 +13,7 @@
     },
     {
       "type": "crafting",
-      "heading": "Power Monitor",
+      "heading": "Монитор энергии",
       "recipe": "rftoolspower:power_monitor"
     }
   ]

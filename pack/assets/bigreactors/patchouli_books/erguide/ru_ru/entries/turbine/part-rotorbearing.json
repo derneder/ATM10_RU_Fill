@@ -14,9 +14,9 @@
         },
         {
             "type": "bigreactors:crafting1x",
-            "title1": "Basic",
+            "title1": "Обычный",
             "recipe1": "bigreactors:turbine/basic/bearing",
-            "title2": "Reinforced",
+            "title2": "Усиленный",
             "recipe2": "bigreactors:turbine/reinforced/bearing"
         },
         {

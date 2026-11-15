@@ -14,7 +14,7 @@
     },
     {
       "type": "crafting",
-      "heading": "Porters",
+      "heading": "Телепортеры",
       "recipe": "rftoolsutility:charged_porter",
       "recipe2": "rftoolsutility:advanced_charged_porter"
     },

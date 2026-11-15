@@ -13,7 +13,7 @@
     },
     {
       "type": "crafting",
-      "heading": "Spawner",
+      "heading": "Спаунер",
       "recipe": "rftoolsutility:spawner",
       "recipe2": "rftoolsutility:syringe"
     },

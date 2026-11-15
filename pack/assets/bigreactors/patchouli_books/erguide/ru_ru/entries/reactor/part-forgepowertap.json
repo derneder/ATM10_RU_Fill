@@ -18,16 +18,16 @@
         },
         {
             "type": "bigreactors:crafting1x",
-            "title1": "Basic (Passive)",
+            "title1": "Обычный (пассивный)",
             "recipe1": "bigreactors:reactor/basic/passivetap_fe",
-            "title2": "Reinforced (Passive)",
+            "title2": "Усиленный (пассивный)",
             "recipe2": "bigreactors:reactor/reinforced/passivetap_fe"
         },
         {
             "type": "bigreactors:crafting1x",
-            "title1": "Basic (Active)",
+            "title1": "Обычный (активный)",
             "recipe1": "bigreactors:reactor/basic/activetap_fe",
-            "title2": "Reinforced (Active)",
+            "title2": "Усиленный (активный)",
             "recipe2": "bigreactors:reactor/reinforced/activetap_fe"
         },
         {
