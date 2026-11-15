@@ -12,7 +12,7 @@
         {
             "type": "patchouli:crafting",
             "recipe": "mffs:block_access_module",
-            "text": "Создание $(5)Модуля блокировки доступа()."
+            "text": "Создание $(5)Модуля блокировки доступа$()."
         },
         {
             "type": "patchouli:text",
